@@ -31,7 +31,7 @@ The lesson? There is a right way to be a Crec. Zog simply exemplifies it.
 
 * Relations
 
-- Grut, haver of potent seed, starter of epochs. He actually does not have an honorary suffix of any kind to his name. He is just "Grut", not "Grut The Something". "But, 'Son Of..'?" Well we don't know the answer to that, do we. His time is as far back as memory goes. He and his only wife Jaar are the founders of what is /now/ called the Zog clan.
+- Grut[fn:: The Great.], haver of potent seed, starter of epochs. "Son Of..?", you ask? Well we don't know the answer to that, do we. His time is as far back as memory goes. He and his only wife Jaar are the founders of what is /now/ called the Zog clan.
 - Would like too mechanize this and make a pretty diagram, maybe a python script.
 
 * Notes
