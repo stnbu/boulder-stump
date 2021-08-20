@@ -27,31 +27,32 @@ The lesson? There is a right way to be a Crec. Zog simply exemplifies it.
 ...
 ** Ch. 00m wherin, Gog scratches "boulder-stump" into a soot-thing and shouts it fromo atop Lame-Monkey mountain on a dare:
 ...
-** Ch. 00n wherin, The Make-Stop-Banana-Word Commission of the Elders-Quarum begins proceedings too update the list.:
+** Ch. 00n wherin, The Make-Stop-Banana-Word Commission of the Elders-Quarum begins proceedings too update the list:
+...
+** Ch. 00o wherein, Zog distracts from the business of the Elders-Quarum in an incident involving a hyena:
+** Ch. 999 wherin,:
 
-** 999 wherin,:
-
-Relations:
+* Relations:
 
 - Grut, haver of potent seed, starter of epochs. He actually does not have an appendage of any kind to his name. He is "Grut". Not, "Grut The Something". He is as far back as memory goes. He and his only wife Jaar are the founders of what is /now/ called the Zog clan.
+- Would like too mechanize this, maybe a python script.
 
-
-Notes:
+* Notes:
 
 - No humorous-fake-terms for things that _they_ have and _we_ have a name for. For example, no need to call a tree a "massive-weed" or to call a cat a "gerbil-dog". Or maybe yes do that. It would be pretty sweet if Crecspeak words got a special tag so we can identify, use special fonts, check for glossary leaks...
 
-Ephemeral Notes:
+* Ephemeral Notes:
 
 - "boys and baby-makers!..."
 - Someone gets caught using the "bachelor-tree" and is vaguely shamed for it the rest of their life.
-- We need to get around to: Gog said "boulder-trunk" and is tried for obscenity and has Grav as his lawyer.
+- We need to get around to: Gog said "boulder-stump" and is tried for obscenity and has Grav as his lawyer.
 - Somewhere here and there we need to throw in a "very special" episode where someone get's gorily torn apart or beaten to death or thrown off a mountain for something that totally deserves it: man-on-man buttfucking, conning granny, child-diddling, disrespecting the Chief... Really shock it to 'em.
 - Is there a character that's always trying to make a flying machine and fails over and over in hilarious ways. Is there?!
 - There needs to be a skill or activity that makes a caveperson really look like a badass. Like taming a hyena and riding on its back (which works out usually.) And a regulatory body that ensures that only the properly skilled are allowed too operate a hyena. They should probably have to wear some kind of coconut helmet, by law. And polshed amber sunglasses: Crec-Bans.
 
 But what's the plot?
 
-Crecspeak:
+* Crecspeak:
 
 Words transliterated from Crecspeak are always hyphenated (or /dashed/), like "father-brother" meaning your father's brother, and not /just/ uncle. The distinction is important to the Crec.
 
@@ -59,7 +60,7 @@ For the English speaking audience, we use the closest equivalent in English to d
 
 Be careful not to over-think the meaning, but it should be apparent from context. The words are chosen from English to best convey the meaning. It may sometimes be hard to understand why certain words were chosen. In these cases we are trying to convey the meaning as a Crec would understand it.
 
-Glossary:
+** Glossary:
 
 - after-die-monster: Their Devil. Just one, like you.
 - ancient-speak: Generally meaning "story-telling", this analogous to selling a book in our times. It is both 1) revered by default 2) kind of, let's face it, not always going to be a big deal. Times change, pops.
@@ -69,7 +70,7 @@ Glossary:
 - between-ham-fire-pebbles: Hemorrhoids, piles.
 - bird-scat: Used variously for snot, puss, and, if you are a particularly nasty sort of Crec, semen.
 - boulder-rhino: A kind of engine of war that is know by many names in our world. At its simplest (which it usually is), it is a collection of the largest stones that can possibly be hauled to the top of the hill/mountain, restrained by a few smaller rocks that will somehow be swat out of the way at the right time, releasing a thunderous stampede of very big boulders, in the direction of one's enemy, most often.
-- boulder-trunk: Here we reach /the/ word around which this entire story orbits. You'll figure it out. It's pretty embarrassing after all.
+- boulder-stump: Here we reach /the/ word around which this entire story orbits. You'll figure it out. It's pretty embarrassing after all.
 - burrow: The Crec use this word like we do to mean an animal's dwelling, under the ground or in a rotted tree for example. They also use it to mean "room", "cave" or any other more-or-less person-sized void made in rock or sturdy earth for the purpose of occupying, even if only for a drop-stone.
 - Clorp [singular and plural]: TODO: who are then and what makes them tick. They are the "enemy" of the Crec. And a definition.
 - club-fight: A kind of duel involving some ceremony. There is a regulatory body <why not name it here> that exists to ensure that any two clubs used in a club-fight are recognized as being "fair". The participants, on the other hand vary widely. The last rule of club-fight, as it is the most important, is: Someone's got to not be able to walk away.
