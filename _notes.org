@@ -23,13 +23,13 @@ Let's have a from-birth to marriage fastforward, followed by tales of daring fro
 
 The lesson? There is a right way to be a Crec. Zog simply exemplifies it.
 ...
-** Ch. 00_, wherin Grav starts studying to become a lawyer (though we have a clever name for it)
+** Ch. 00~, wherin Grav starts studying to become a lawyer (though we have a clever name for it)
 ...
-** Ch. 00_, wherin Gog scratches "boulder-stump" into a soot-pallet and shouts it from atop Lame-Monkey Mountain three times on a dare
+** Ch. 00~, wherin Gog scratches "boulder-stump" into a soot-pallet and shouts it from atop Lame-Monkey Mountain three times on a dare
 ...
-** Ch. 00_, wherin the Make-Stop-Banana-Word Commission of the Elders-Quarum begins proceedings to update the list
+** Ch. 00~, wherin the Make-Stop-Banana-Word Commission of the Elders-Quarum begins proceedings to update the list
 ...
-** Ch. 00_, wherein Zog distracts from the business of the Elders-Quarum with an incident involving a hyena
+** Ch. 00~, wherein Zog distracts from the business of the Elders-Quarum with an incident involving a hyena
 ...
 
 * Relations
@@ -39,7 +39,7 @@ The lesson? There is a right way to be a Crec. Zog simply exemplifies it.
 
 * Notes
 
-- No humorous-fake-terms for things that _they_ have and _we_ have a name for. For example, no need to call a tree a "massive-weed" or to call a cat a "gerbil-dog". Or maybe yes do that. It would be pretty sweet if Crecspeak words got a special tag so we can identify, use special fonts, check for glossary leaks...
+- No humorous-fake-terms for things that /they/ have and /we/ have a name for. For example, no need to call a tree a "massive-weed" or to call a cat a "gerbil-dog". Or maybe yes do that. It would be pretty sweet if Crecspeak words got a special tag so we can identify, use special fonts, check for glossary leaks...
 
 * Ephemeral Notes
 
