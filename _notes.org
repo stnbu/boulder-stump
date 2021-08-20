@@ -1,7 +1,6 @@
+#+title: At-Least-For-Now-Secret Notes about /Gog said "Boulder-Stump"!/
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 #+OPTIONS: num:nil
-
-(At-Least-For-Now-Secret Notes about /Gog said "Boulder-Stump"!/)
 
 Everyone is a caveperson. It's as appropriate to say "cavelady" as it is to say "lady".
 
