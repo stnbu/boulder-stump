@@ -1,4 +1,6 @@
-# At-Least-For-Now-Secret Notes about /Gog said "Boulder-Stump"!/
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
+
+(At-Least-For-Now-Secret Notes about /Gog said "Boulder-Stump"!/)
 
 Everyone is a caveperson. It's as appropriate to say "cavelady" as it is to say "lady".
 
@@ -123,6 +125,7 @@ Glossary:
 - bird-scat: Used variously for snot, puss, and, if you are a particularly nasty sort of Crec, semen.
 - boulder-rhino: A kind of engine of war that is know by many names in our world. At its simplest (which it usually is), it is a collection of the largest stones that can possibly be hauled to the top of the hill/mountain, restrained by a few smaller rocks that will somehow be swat out of the way at the right time, releasing a thunderous stampede of very big boulders, in the direction of one's enemy, most often.
 - boulder-trunk: Here we reach /the/ word around which this entire story orbits. You'll figure it out. It's pretty embarrassing after all.
+- burrow: The Crec use this word like we do to mean an animal's dwelling, under the ground or in a rotted tree for example. They also use it to mean "room", "cave" or any other more-or-less person-sized void made in rock or sturdy earth for the purpose of occupying, even if only for a drop-stone.
 - Clorp [singular and plural]: TODO: who are then and what makes them tick. They are the "enemy" of the Crec. And a definition.
 - club-fight: A kind of duel involving some ceremony. There is a regulatory body <why not name it here> that exists to ensure that any two clubs used in a club-fight are recognized as being "fair". The participants, on the other hand vary widely. The last rule of club-fight, as it is the most important, is: Someone's got to not be able to walk away.
 - Crec [singular and plural]: The Forest to which the Zog clan both lives and belongs. "Crec" can refer to the Forest or the people who live there.
