@@ -124,7 +124,7 @@ It went through ranks upon ranks of the Clorp. Leaving a genuine bloody mess. Wa
 Our men jeered mightily, tempered maybe a bit by those of our own who got caught up in the destruction.
 
 #+end_quote
-The audience collectively gave a pained, but soft groan of regret and some gently pulled on their noses.<footnote: this is a gesture of lament and deep respect for unavoidable sacrifices made.>
+The audience collectively gave a pained, but soft groan of regret and some gently pulled on their noses.[fn:: This is a gesture of lament and deep respect for unavoidable sacrifices made.]
 #+begin_quote
 
 And that was the end of The Battle of the Snake-Meal. It really was over just about that fast. We really got lucky, plus, you can be sure, we stroked all the snails we could find.
