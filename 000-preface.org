@@ -73,13 +73,17 @@ Verk began.
 #+begin_quote
 As some of you know, I had a modest part to play in The Battle of the Snake-Meal, which I numbered this morning to be exactly one squirrel-hoard suns ago as of today."
 
-=##= There was a practiced gasp of wonder from the audience.
+#+end_quote
+There was a practiced gasp of wonder from the audience.
+#+begin_quote
 
 The smash that was heard 'round the forest, as you know, marked its start, as a Clorp soldier laying in wait smashed the great melon helmet right off of a devoted hero who was guarding our position at Rhino-Scat Hill."
 
 What tipped us off was the crack of his sturdy-gourd-hat splitting in to. I just barely saved his life. From within the our tactical-burrow we could hear the shouts of the hated Clorp coming our way.
 
-# Audience members duifully make faces of disghust at the mention of the name.
+#+end_quote
+Audience members duifully make faces of disghust at the mention of the name.
+#+begin_quote
 
 My pal Lu and I, we head up to the top of Rhino-Scat, knowing that there was the beginnings of a boulder-rhino being constructed up at the top. I say 'beginnings' only because it wasn't made official yet. It was complete alright, and pointed in exactly the right direction. Lu starts talking to me about which one of us is going to out there to the verge and give their life by unlodging the required stones, there not in that day being the idea yet of just tying a some sturdy twist-vine to it and giving a pull from a safe distance.
 
@@ -89,7 +93,9 @@ I was in a haste of course, so I let him sit on that for just a short while and 
 
 I saw a tear forming so I figured I should get a move on. Did I mention I was in a hurry?
 
-=##= Laugh
+#+end_quote
+Laugher.
+#+begin_quote
 
 'Lu!', I says, 'Lu I was just having a go at ya pal! I spied a stick on the way up that should be long enough. I'll go back and fetch it! You shoulda seen your face!'
 
@@ -99,21 +105,27 @@ Lu and I heaved and heaved and oh how that little tree's trunk bent and bent. Al
 
 Brfgf. Bugrgl. Bunjle. Brrrkk.
 
-=##= Verk, in his way, was trying to make sound of a thousand mighty boulders on their way to smite.
+#+end_quote
+Verk, in his way, was trying to make sound of a thousand mighty boulders on their way to smite.
+#+begin_quote
 
 I mean these things come crashing down, leveling everything! There were trees a man around that were not just snapped, the were sheered off at the surface, after which their roots were pounded into pulp. The land on that side of the hill is still good for working to this day, and it was only known as Left-morning-sun Rhino-Scat Woods before that. And a woods it was.
 
 Then the rhino started meeting up with the men... and the Clorp.
 
-=##= Verk gave his signature knowing wink, and the audience laughs, nervously.
+#+end_quote
+Verk gave his signature knowing wink, and the audience laughs, nervously.
+#+begin_quote
 
 It went through ranks upon ranks of the Clorp. Leaving a genuine bloody mess. Walking through the aftermath was like seeing a flooded mouse burrow after a good rhino trampling. It is something I will always remember.
 
 Our men jeered mightily, tempered maybe a bit by those of our own who got caught up in the destruction.
 
-=##= The audience collectively gave a pained, but soft groan of regret and some gently pulled on their noses.<footnote: this is a gesture of lament and deep respect for unavoidable sacrifices made.>
+#+end_quote
+The audience collectively gave a pained, but soft groan of regret and some gently pulled on their noses.<footnote: this is a gesture of lament and deep respect for unavoidable sacrifices made.>
+#+begin_quote
 
 And that was the end of The Battle of the Snake-Meal. It really was over just about that fast. We really got lucky, plus, you can be sure, we stroked all the snails we could find.
-
-=##= Knowing laugh from audience.
 #+end_quote
+
+Knowing laugh from audience.
