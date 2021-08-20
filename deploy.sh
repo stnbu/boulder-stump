@@ -12,6 +12,6 @@ for ORG_FILE in *.org ; do
     emacs "$ORG_FILE" --batch -f org-html-export-to-html --kill >/dev/null 2>&1
 done
 
-rsync -xa *.html pu:"$REMOTE_DIR"/
+rsync -xa * pu:"$REMOTE_DIR"/
 rm -rf *.html # hope you didn't need any of these.
 echo "Happy!"
