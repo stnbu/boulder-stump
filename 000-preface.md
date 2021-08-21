@@ -1,0 +1,301 @@
+
+# Table of Contents
+
+
+
+Theirs is a mostly peaceful, shady and verdant world. Bright red-orange stones the size of mountains jut out of the otherwise unbroken green at just the right frequency. The Crec are a sort of "cavemen". This word will be used unironically throughout. It's how they would describe themselves. In fact, they would fit a surprising number of your stereotypes about cavepeople.
+
+You will have seen the movie. They do wear minimal animal hide clothing. Wouldn't you? Would you waste hide? Would you skip the unnecessary second should strap from time to time? The do indeed look like living cartoons from time too time, though they don't know this.
+
+They do in fact live in caves. Most of your Hollywood stereotypes are based on what regular, modern humans would invent or do to solve some particular problem, given only nature's resources; and that is what the Crec do also, unsurprisingly. It's no wonder regular people converge on many of the same solutions over and over again. That's why, say for example, unavoidably having to club a loved one over the head is in fact required on rare occasions. And have you ever tried to get out of the way of an enraged mother baboon? Sometimes you just grab a handful of hair and run for your life. Yes, there is clubbing. And dragging by the hair.
+
+The stereotypes just keep going. Clever analogs to modern vehicles? No, sadly, but warm, furry backs abound (They do ride animals which they domesticate, to a degree.) However, the distribution of tall, rather neat and symmetrical palm trees, and the way the verge of the nearby lagoon is here and there carpeted with some strikingly uniform and very green grass is just as you are thinking. There *are* saber-toothed tigers. There are also rather furry (and rather smelly) rhinoceros. It's rather beautiful. The Crec are aware, just as you are, that there is such a thing as timeless beauty.
+
+We will get to dinosaurs. It's complicated.
+
+And pretty much everyone lives in a cave. Let's get that out of the way. What's sometimes not so beautiful is how each opening often looks like a rather droopy upper eyelid the morning after a socially acceptable quantity of good juff. Fire produces smoke, and smoke must go *somewhere*. As the Crec saying goes, "Where there is fire, there is smoke." A bit of light in the early evening is nice. A bit of warmth is even nicer, but not always needed. All year long, fires get used for something or other. And that smoke makes a mess. You would be forgiven if you thought someone was trying to smoke someone else out of their cave. Of course that happens too. There's even a military refinement of this idea: Colonel Thag's Burrow Buster.
+
+The Zog clan, whom you will soon meet, live in such a cave. A nice cave, for sure. The beautiful multi-orange, irregular cone in which the Zog clan live was at this point in time very much hollowed out. It was among the lighter mountains. The same family, all marriage and blood relations, all the way back to the times of Grut<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> has occupied this hill, which was given the name Bhorv Zolk long ago. The name now has as much meaning to them as it does to you.
+
+A hollowed out rock 167 men tall can be a cozy kind of place. The soot above the openings were in this case considered "quaint", and it gave a place for the grandkids to scratch in their names and draw rock-sticks, with a hasty, pleasurable guilt, followed by a rapid retreat. The soot stains above the opening to the parlor were an especially large, especially shameful bit of soot-pallet. Grandsons Darcc and Dragg were currently hard at work with rhino soap and a basket of pine cones for scrubbing. Sometimes it's a matter of who gets caught, but sometimes the club of justice falls true.
+
+Fires make for a cozy cave, and the grand matriarch Nud, Zog's seventh and it would turn out final wife, was the artful, watchful, and opinionated keeper of the fires. Usually this *would have* mean schlepping wood every late evening to the point of exhaustion, and only after this is done would the cleaning, arranging and lighting take place. No longer! Nud was more the managerial type.
+
+She was currently shouting at Grav, Son of Zog, who was taking a well-earned rest in the ancient-speak burrow, sitting on what was agreed by all to be the most comfortable sit-ham-stone. It had several polished areas to prove its merit. Grav was staring at an upside-down river of smoke that gently flowed in its bed of soot, making its way to the *highest* point, among all the inverted valleys, cliffs and mesas. Grav was ignoring Nud. It seemed like there was sometimes so much passion-inspired noise coming from his stepmother, it really didn't seem worth trying to mine for the gems (or "value-stone", which is used by the Crec in the same way we use the word "gem" sometimes: "I can't seem to find my favorite club anywhere. It was a *real value-stone*!")
+
+Nud continued to nud on, knowing full well Grav's policy on his listening to her. ("Nudding" was an in-joke that of course is not known to Zog's generation, nor to his young, current wife.)
+
+"I will move momentarily *mother*. Father-Brother Verk is not even here yet."
+
+"You'll move now, because I need to clean your nasty stone. Relax-marks are not a thing we show Father-Brother Verk. What do we know they indicate? You know his generation."
+
+"Sloff.", muttered Grav.
+
+"What?"
+
+"*Sloff!* Do your whatever later. Go away."
+
+Nud grunted elegantly and begin cleaning the area right next to, and indeed underneath Grav's left sit-ham with a crusty, stiff bush-derived broom.
+
+Wordlessly, but with all the feeling he could muster, Grav sprung into to an angry jog towards his burrow. Farting loudly in Nud's direction as he left.
+
+He had had a lot to think about with the "enjoyable" family get-together coming closer every day, and now *here*, on this day. It was a miserable thought. Ancient-speak was just a way to list out the things you were supposed to "think". Grav always thought it was truly strange that so many others seemed to have a completely different definition of "think". To Grav, *think* meant to take what you've seen, heard, and felt in the past and try to use it as a way to *understand*, which in turn to him meant "to be able to predict". This was a relatively new idea of his, but the more he thought about it, the more sense it made. If something could predict something, it made *sense*. It was worthy of scratching down.
+
+It was all about prediction, in Grav's view. Currently he was working on a predict-tool regarding people's behavior. He had several imperfect, but pretty good predict-tools about what things cause different reactions in fellow clan members.
+
+For instance, he said, "The Chief has made a new take-part-money requirement involving the production mill stones" to Gher, an older great cousin. Before doing this, he made sure he remembered what he thought would happen. Grav put in extra effort to make his delivery as believable as possible. As predicted, in about 5 drop-stone, Gher went through phases of rage, disbelief, some kind of forced serenity, and then rage again. Gher would compose a response in his head, make a "pop" sound with his mouth as he began to speak, but then reconsider as another, better thing to say occurred to him. Grav always wondered why he didn't just decide what he was going to say to begin with, and *then* open his mouth, possibly even without making a sound.
+
+The response that Gher apparently thought of as the winner in this competition of ideas was as follows:
+
+"A take-money on the working Crec is a take-money on productivity! These Forest-Deer Elders are just out to make the Elders-Quorum bigger all the time!"
+
+Grav made a gentle, mollifying smile, shook his head slowly, and shrugged. He'd been keeping score of his successes and failures. Decidedly a success, this one. His head immediately went to the question of how he would *know* that. Maybe by the time he walked to his burrow and scratched in this result, his memory of what had happened would be shaped by something along the way. What if one of Gher's daughters had tried to jump-scare him on his way. He did not care for those girls, and he blamed Gher for the kind of people they turned out to be, so far. Who else to blame, the child? Father-Brother Verk would think so. Beat the food-clay out of a disappointing child, repeat until results emerge.
+
+And by the name of After-Die-Monster, signs of Father-Brother Verk's nearing made it to Grav's ears.
+
+"He comes! Verk, Son of Jik and his party have been seen moving through Monkey-Tail Pass.", an anonymous clan member shouted just as a general announcement.
+
+That would mean another sun-palm at most.
+
+Grav's attention went back to Gher. "That's what *I* keep saying." Hoping to shake Gher, as he knew a lecture was coming, he retired to his burrow to think about things.
+
+&#x2014;
+
+Father-Brother Verk, Son of Jik had been sitting in the ancient-speak burrow accepting polite, and completely obligatory offers of refreshment, with forced modesty. 
+
+Today Verk would tell all those who gathered (again, compulsory) in the ancient-speak burrow of The Battle of the Snake Meal during The Great Club War and the profound life lessons learned therein.
+
+"Shall we all be quiet and let you begin Father-Brother Verk, Son of Jit?", one of the several-finger caveladies doting over him.
+
+"Oh, well. I just." Verk noisily deposited a healthy quantity of bird-scat into a finely woven, and yet unavoidably course rag. "Whaaaa&#x2026; dortyses<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>!!", he wailed at the ceiling as he sneezed. Verk had a severe allergy to a very poisonous flowering plant that more or less reproduced continuously.
+
+"I'll get started. Thank you, rhino-calf."
+
+Verk shifted his weight from one sit-ham to the other in his chair in a way that somehow expressed contempt for everyone in the room. It was rumored that he's had a progressively worsening case of between-ham-fire-pebbles for generations.
+
+Verk began.
+
+> As some of you know, I had a modest part to play in The Battle of the Snake-Meal, which I numbered this morning to be exactly one mouse-spawn suns ago as of today."
+
+There was a practiced gasp of wonder from the audience.
+
+> 
+> 
+> The smash that was heard 'round the forest, as you know, marked its start, as a Clorp soldier laying in wait smashed the great melon helmet right off of a devoted hero who was guarding our position at Rhino-Scat Hill."
+> 
+> What tipped us off was the crack of his sturdy-gourd-hat splitting in to. I just barely saved his life. From within the our tactical-burrow we could hear the shouts of the hated Clorp coming our way.
+
+Audience members dutifully make faces of disgust at the mention of the name.
+
+> 
+> 
+> It seemed like in no time at all the Clorp were climbing up the scree of Rhino-Scat, mere men away from me. They were slow. The going was slow, but there were many of them. It's a known fact that the ratio was 3 to 1, in *their* favor.
+
+Measured gasp from the audience.
+
+> 
+> 
+> We were the defenders, which favors one in battle. They had to do all the slow and treacherous scurrying. We just had to lob rocks down on them. But their number was great, as I mentioned, and soon we were quite literally running low on rocks<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>.
+> 
+> Just then, my pal Lu and I realized that almost none of the troops were allowed to know about the boulder-rhino up at the top! We looked at each other seemingly at the same time and both had the idea at the same time. "Are you thinking what I'm thinking?", I said. "*Let's go!*", said Lu.
+> 
+> There it was after a gasping, wheezing sprint up the steep hill side, our "secret" weapon. Why it was kept secret to most of *our guys* I still do not know to this day. It was complete alright, and pointed in exactly the right direction. Lu starts talking to me about which one of us is going to out there to the verge and give their life by dislodging the required stones, there not in that day being the idea yet of just tying some sturdy twist-vine to it and giving a pull from a safe distance.
+> 
+> I had spied something on the way up and decided to have one over on old Lu. I say, 'well by rights, Lu, even as my friend, you need to be the one to go out there and do this. You know I got a family to support and my new position at camp comes with a lot of responsibility, one that there just ain't a lot of good replacements for. You think for a minute about what old Corporal Bogh would say in this situation. I'm sorry Lu, but I'm thinking of the Forest here. My hand to Ender-Of-All-Questions, this is my thinking, Lu. I'm sorry. I'll hear you out my friend, but&#x2026;
+> 
+> We could see clearly that the Clorp were making ground, slowly. It looked like a great storm of people. Vast, like waves of blood an people washing up against the shores of Rhino-Scat. We had indeed gotten lost in time a bit about the urgency of our mission. The sight was awesome.
+
+An inexplicable snicker from a younger Crec was shushed by his mother.
+
+> 
+> 
+> *I* apparently had, anyhow. But it's a memory me and Lu share fondly as we became real Crec *men* by stages over the many moons of suffering in battle.
+> 
+> Having cleared my head and realizing I was in the middle of some unnecessary nonsense, I let him sit on my proposal for just a short while and was just about to let him in on it, but just then he got choked up a bit and stiffened and said, 'Private Verk, sir! It has been a privilege fighting for our home, this Forest along side with you. Friend.'
+> 
+> I saw a tear forming so I figured I should get a move on. Did I mention I was in a hurry now?
+
+Laugher.
+
+> 
+> 
+> 'Lu!', I says, 'Lu I was just having a go at ya pal! I spied a stick on the way up that should be long enough. I'll go back and fetch it! You shoulda seen your face!'
+> 
+> I ran not 60 paces and fetched the stick, and was back in a jiffy.
+> 
+> Lu and I heaved and heaved and oh how that little tree's trunk bent and bent. My hands were shaking. Lu's hands were shaking still more. All at once, we heard a rumble. We didn't see any of the stay boulders move before we heard it. It was like The Army of Ender-Of-All-Questions himself was at full charge! Coming to save the day!
+> 
+> Brfgf. Bugrgl. Bunjle. Brrrkk.
+
+Verk, in his way, was trying to make sound of a thousand mighty boulders on their way to smite.
+
+> 
+> 
+> I mean these things come crashing down, leveling everything! There were trees a man around that were not just snapped, they were sheered off at the surface, after which their roots were pounded into pulp. The land on that side of the hill is still good for working to this day, and it was only known as Morning-sun-left-side Rhino-Scat Woods before that. And a woods it was.
+> 
+> Then the rhino started meeting up with the men&#x2026; and the Clorp.
+
+Verk gave his signature knowing wink, and the audience laughs, nervously.
+
+> 
+> 
+> It went through ranks upon ranks of the Clorp. Leaving a genuine bloody mess. Walking through the aftermath was like seeing a flooded mouse burrow after a good rhino trampling. It is something I will always remember.
+> 
+> Our men cheered mightily, tempered indeed by the thought of those among our ranks who tragically got caught up in the destruction.
+
+The audience collectively gave a pained, but soft groan of regret and some gently pulled on their noses.<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
+
+> 
+> 
+> And that was the end of The Battle of the Snake-Meal. It really was over just about that fast. We really got lucky, plus, you can be sure, we stroked all the snails we could find<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>.
+
+A quiet, knowing laugh from audience makes its way around the burrow.
+
+Verk slowly sat back in his carefully shaped and ornamented stone chair. He slowly interlaced his fingers over his remarkably big belly, let out long, slow, quiet sigh, and seemed to be challenging the audience to interrupt his rest.
+
+Indeed, no one was quite sure what to do. It was understood that you stay seated and reverent, but meanwhile your mind was sprinting around trying to guess exactly the right posture and tilt of the head, much less *saying* anything. It was a very quiet sort of panic.
+
+It had been a while, possibly the longest pause-for-effect at the time. "What if he he's *dead*?", some of the audience dared to allow themselves to wonder. The followup thoughts varied considerably.
+
+Verk slowly opened his eyes. "Now, do any of the precious children in our audience have any questions? Maybe, do you get an idea of what I'm trying to say here?" For Verk especially loved the children's questions.
+
+One of the older cousins stood, and looked behind him at his nervous mother.
+
+"Father-Brother Verk, why was the boulder-rhino kept a secret from the Crec army?"
+
+Verk was sure had covered this, and was duly annoyed. He stared at the boy for what seemed like a very long time. Naturally the boy fidgeted.
+
+"Little rhino-calf, do you remember me talking about that? It's not known nor is it to be known. You're a clever lad. Have a seat, please."
+
+A girl in her late teens, that could only charitably be considered a child stood, *with some off-putting confidence*, Verk thought. Likely a lovely child. Well, shaped.
+
+"Father-Brother Verk," Verk thought she had rushed the whole name thing, "Were there any other things we could have done to avoid all this dying, for everybody?"
+
+Verk knew that putting his hand anywhere near his face would it would, all by itself, gently cradle his forehead. He did not want to be unpleasant to the girl, but Verk's near exhausted patience with this Two-Squirrel-Hoard generation was getting to breaking point more and more all the time. *In a pitiful and disrespectful state, that lot*, he would often think, for example.
+
+"Miss." He thought he would mix in just a dash of good-talking-to, as a signal to others as well. "I believe a lot of dedicated Forest Heros put in a lot of blood, sweat, and dare I say lives, in far too many cases."
+
+Noses tugged.
+
+"These men are quite capable and paid a high price; all of them. Miss, what have you done for your Forest lately?" That last bit Verk thought might have a bit more sting than he meant."
+
+There was a muttering in the audience, and the mood, as it had been pretty much all along, got to be ever more glum. Even during his speak Verk had seem off, distracted, irritated. Was he well?
+
+"Miss, I mean every bit of love and respect for you, rhino-calf. Let us reflect on what happened and the true magnitude of it. Let us never forget&#x2026;"
+
+"Yes, Father-Brother Verk." She managed a small curtsy and did sound legitimately regretful.
+
+"Sweet child, please have a seat."
+
+She nodded and sat.
+
+There was a rather long, very quiet murmur as parents discretely mouthed ideas to their children.
+
+One very small, sweet cavegirl tottered slightly as she stood, and made an exaggerated bow. The audience, nervous and hyper-aware, giggled with surprising generosity.
+
+"Father-Brother Verk&#x2026;" She had just a twist of endearing toddler speech, as she rolled her head self-consciously. She smiled, showing not a few missing teeth.
+
+"Father-Brother Verk, why do people have to die?"
+
+There it was, a gem that Verk could work with.
+
+"Sweet, sweet rhino-calf, please &#x2026;please come here." Verk was visibly moved.
+
+The girl tottered towards Verk, as he sat smiling in his fine stone throne. Half way there, Verk, with unbelievable slowness, began to raise his arms to receive the girl. His smile slowly broadening with similar uncanny slowness.
+
+The girl gave a little hop as Verk's arms, met with precision by the girl's underarms, lifted elegantly, rotated and plopped her in his lap.
+
+He made a gesture of caressing his heart and nodding his head slowly with a smile.
+
+"Sweet rhino-calf, what a precious question you ask. Can you say it again, real loudly so everyone can hear your question?"
+
+The girl perked up, faced the audience with cupped ands and in exaggerated toddler fashion, screamed impossibly loudly in the echoey burrow.
+
+She giggled and thrust her head into Verk's belly, still giggling loudly.
+
+"Yes indeed, tender-tuber, why must this terrible thing happen. Why must people die like this?!"
+
+In another fluid motion that belies his size and shape, Verk had set the girl down gently in front of him and seemed to have immediately forgotten her.
+
+He began to pace back and forth on *his* large dais.
+
+He paced almost athletically, making sharp, possibly "military" about-faces at each end of the dais. His slightly pinker face was facing the floor at a fixed angle, as he paced.
+
+Suddenly he stopped in front of the throne, stiffened, adjusted his rhino-calf<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup> skin ceremonial uniform with dignity and began.
+
+> My admirable audience, men have to die because other men *are bad*! And that is it. Showing softness of any kind toward your *enemy* is a big mistake. Once your enemy, always your enemy. Some things are not forgivable, and it is *essential* that we as a Forest stick together and maintain that fierce pride and unashamed love for this community of humble, hard working, honest men and baby-makers.
+> 
+> ***It is essential***
+
+Verk's voice cracked such that for the remainder of his speech he was noticeably hoarse.
+
+> It is for the Love of The Forest that my being is filled with this unstoppable surety that right will ultimately triumph. Right will ultimately triumph.
+> 
+> And the things that the *Clorp* have *caused to come to pass* sting less with every generation, but its unforgivable nature is eternal. Know that. Remember that. If you are Forgetting, you are betraying your Forest. Forgetting is *treason*!
+
+Verk let that sink in, while staring tearfully above the heads of the audience. He had paused mid-gesture with his arms to his side and palms upward.
+
+The audience considered this for a while and waited for the next queue from lecturer. Verk slowly lowered and relaxed his arms, and then dramatically rest his chin on his chest, looking at the dais.
+
+The audience rightly guessed that this concluded his talk, and so cheered "reverently" as best they could.
+
+"Please think long and hard on this my dear people, as though your lies depend upon it. Now *who's ready for some thistle bread with mammoth icing!?*"
+
+Cries of excitement and joy<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup> erupted from the youngest of the clan. The older ones, also anticipating the joy of a good meal and fellowship silently concurred. They were also happy for this awkward and troubling xxx to be over.
+
+Verk stood smiling, still center-stage on the dais, nodding and smiling to the people as they filled towards the exits and into the all-clan-meal burrow for several relaxing sun-palm of food and banter. No one had eaten. Haste to prepare and receive Verk, along with nervousness had gotten in the way of even dawn-meal. Even if had been practical to sneak a bite, no one would have been seen eating on such a morning. Everyone felt the same way about a morning like this.
+
+Verk's gaze caught Grav as he sauntered into the meal burrow. Verk had is usual nonchalance about him and was unimpressed both with Verk's words and his passion. The passion added nothing. The words were confused and poorly connected. They sounded good to most of the audience, but Grav felt that if one had scratched all that out, using neutral language, others would see his point. He did a lot of scratching and was getting very fast at it. He thought he might try something like that some day to see if a literate caveperson would have the same reaction if the ideas were just presented clearly and without emotion.
+
+Grav looked back, looked forward at the meal burrow door and then swept his head back to Verk again. He was still staring, seemingly angrily. Grav smiled while their eyes remained locked and turned his head back in the direction he was headed in what he hopped was a polite, demur manor. Verk stood motionless as only his head followed the progress of Verk across the burrow. It appeared that his hands were slowly making fists. *He's probably just flexing his fingers*, Grav thought lamely. He'd have to get over Verk. Food!
+
+Much later, after a responsible (given the occasion) amount of juff and enough to eat (plus half again) for everyone, Grav found himself standing, bowed gently backwards, with most of his weight on his heels, urinating into the relief-hole at the far back corner of the relief-room. A couple of laughing, squealing verge-fertile baby-makers thoroughly woke everyone up as they darted behind him and out of the relief-room<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> enjoying their private joke; almost surely at the expense of some hapless teenage boy.
+
+To Grav's utter horror, and with an exaggerated shuffling of the feet Verk got situated in front of the relief-hole right next to him. He was smiling serenely, swaying almost imperceptibly, and reeking of juff and female-hippo-musk<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>.
+
+"My noble, hopeful, young elk-buck. It's Grav, yes? Grav, Son Of Zog? I wonder what you have planned for [word for going king->son-of-king]. I don't see or hear of any intrigue involving your younger brothers. Seems they have other plans and are happy with them. Here comes Grav clan, yes?", Verk says and winks drunkenly.
+
+Verk was a practiced drunk. It seemed like he affected some amount of drunkenness when sober *in addition to* working hard at appearing sober when drunk. Verk had learned to work both ends of his spear. With this added to the almost universal instinct to look at Verk as a kind of infallible super-caveman resulted in the vast majority of others genuinely never suspecting he had much interest in juff. And was mostly always stone-sober<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup> "He's as he always is, Dear Father-Brother Verk.", one would surely say with a smile.
+
+Verk's voice became calm, clear, and purposeful.
+
+"Here is what's what, you inept, disrespectful, ruinous young man." Verk closed his eyes and inhaled slowly and smoothly through his nose.
+
+"I know exactly what you are *thinking*, and what's more, I know exactly what you have *done*. It will not stand, and you will be made to pay. After which, I grant you the privileged of getting on your knees before all and convincing us of your *genuine* remorse and renewed understanding."
+
+"You are my blood, and there is a bond and love that transcends almost all things. What you need to do is work hastily on the *almost* before you cross a line, child."
+
+Verk's eyes opened and he smiled. His voice now was unnecessarily loud with an affected cheerfulness. He shook himself and said, "Clear enough young buck?" He slapped Verk's bare shoulder with his clean hand. "I will see *you* at drill tomorrow, yes?" Verk's smile broadened and his form froze as he awaited a response.
+
+Thinking that he should acknowledge so that all in the burrow could hear, since the question was asked in such a way he loudly said, "Oh! Yes Father-Brother Verk! I will be there!". He could feel his lips quivering.
+
+"Very well!", Verk turned and left with a smile that swept the burrow. All were looking in his direction.
+
+Grav affected a casualness as he finished and casually made his way out of the crowded relief-burrow.
+
+Grav had yet-more, unwelcome thinking to do. He made his way to his burrow no longer shaken but stirred by Verks words.
+
+"What in the *Forest* was that about?", he wondered.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> The great
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> This is an adjective that means 'rubbery and resistant to mastication'
+
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> There having been a strike among the ammunition suppliers (they carry rocks up hill), resources ran low off and on through out Snake-Meal. The strikers supplied their last delivery in the form of their heads.
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> This is a gesture of lament and deep respect for unavoidable sacrifices made.
+
+<sup><a id="fn.5" href="#fnr.5">5</a></sup> This is a bit of luck-giving for the Crec. Rabit's foot, but taken just a bit more literally. The snail comes up a lot in their mythology.
+
+<sup><a id="fn.6" href="#fnr.6">6</a></sup> Aside from being cute and a good way to express one's impressions when encountering something "dear", the *hide* of a rhino calf was exactly the right combination, if slaughtered at the right time, in the right way, of supple, tough, and long-wearing. It made a perfect armor and, as it is comfortable, found its way into the "ceremonial" wardrobe of many admired cavemen, actual solders and otherwise.
+
+<sup><a id="fn.7" href="#fnr.7">7</a></sup> Examples include "gnuaah!", "vleeep!", and "kah-joing!"
+
+<sup><a id="fn.8" href="#fnr.8">8</a></sup> Bathrooms are not separated by gender. This would strike the Crec as a truly inefficient and pointless arrangement.
+
+<sup><a id="fn.9" href="#fnr.9">9</a></sup> Female hippo musk is indeed used as a perfume. However, as this is scarce and valuable, it is also used to just mean "perfume" or "cologne"
+
+<sup><a id="fn.10" href="#fnr.10">10</a></sup> The Crec do not use this expression, but they do say "stone-drunk" for obvious reasons.
