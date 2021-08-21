@@ -1,3 +1,4 @@
+#+title: Preface
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 
 Theirs is a mostly peaceful, shady and verdant world. Bright red-orange stones the size of mountains jut out of the otherwise unbroken green at just the right frequency. The Crec are a sort of "cavemen". This word will be used unironically throughout. It's how they would describe themselves. In fact, they would fit a surprising number of your stereotypes about cavepeople.
@@ -232,7 +233,9 @@ My admirable audience, men have to die because other men /are bad/! And that is 
 Verk's voice cracked such that for the remainder of his speech he was noticeably hoarse.
 
 #+begin_quote
-It is for the Love of The Forest that my being is filled with this unstoppable surety that right will ultimately triumph.
+It is for the Love of The Forest that my being is filled with this unstoppable surety that right will ultimately triumph. Right will ultimately triumph.
+
+And the things that the /Clorp/ have /caused to come to pass/ sting less with every generation, but its unforgivable nature is eternal. Know that. Remember that. If you are Forgetting, you are betraying your Forest and 
 #+end_quote
 
 XXX Verk takes questions
