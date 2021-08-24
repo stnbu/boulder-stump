@@ -41,7 +41,11 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Notes
 
-- Don't ever forget to make the good guys bad. There should be lots of people "signaling" who are Forest-Deer die-hards and act hella retarded.
+- Communication
+  - Loud, long-distance whistling.
+  - Somehow making a single loud bang. And then having a code "one bangith mean trouble, two bangith mean party"
+- The shouting of "boulder-stump!" is something Gog did in his youth. The search for the culprit had been at least "active" until the present day.
+- Don't ever forget to make the good guys bad. There should be lots of people "signaling" who are Forest-Deer die-hards and act hella retarded. The reader should be utterly unable to decide who the good guys are.
 - There must be lots and lots of "public works" of every kind. We let the Elders-Quarum decide how to spend N% or our money and then get outraged when it's not used "correctly". Rocks, clubs, clubs with sharp sticks in them...
 - Everyone is a caveperson. It's as appropriate to say "cavelady" as it is to say "lady".
 - The feeling is light and easy like a mockumentary. The narrator is just "me", so I don't have to remember what "voice" I'm using.
@@ -74,6 +78,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - bachelor-tree: A delicate, oddly "chubby" tree with soft lacy leaves that both looks and smells like your wedding night. Small burrowing animals like the bachelor-tree because its soft, incredibly wet flesh makes burrowing quite easy and the natural internal heaving of the tree ensures that it is a snug, sometimes very snug place to burrow, especially in the dry season. It can be problematic for burrowers to breath, because of the snugness and most will usually nest with just their noses sticking out of the opening. Because small tree-dwelling animals are predominately nocturnal, animal burrows in the bachelor-tree are almost always empty at night. This is also a very delicate topic of conversation among the Crec. Sure, the Amish might know what a vagina /is/, but will somehow manage to go a lifetime without saying it out-loud or acknowledging its existence[fn:: Ever.] (to reach for a tangible analog you might understand.) [TODO: the complex bachelor-tree reproductive cycle should *depend upon* cavemen.]
 - Battle of the Snake-Meal, The: Without a doubt the most famous battle from The Great Club War, and its turning point in favor of ultimate victory for the Crec.
 - between-ham-fire-pebbles: Hemorrhoids, piles.
+- Bhorv Zolk: The cave "system" in which the Crav live. Properly, it's the name of the hill that the cave is dug out of, but the two concepts are more or less interchangabel.
 - bird-scat: Used variously for snot, puss, and, if you are a particularly nasty sort of Crec, semen.
 - boulder-rhino: A kind of engine of war that is know by many names in our world. At its simplest (which it usually is), it is a collection of the largest stones that can possibly be hauled to the top of the hill/mountain, restrained by a few smaller rocks that will somehow be swat out of the way at the right time, releasing a thunderous stampede of very big boulders, in the direction of one's enemy, most often.
 - boulder-stump: Here we reach /the/ word around which this entire story orbits. You'll figure it out. It's pretty embarrassing after all.
@@ -90,8 +95,10 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - Forest: The largest organizing category of people, analogous to a nation.
 - juff: An alcoholic beverage made from fermented coconut flesh, and a polite quantity of spit from a special, designated virgin baby-maker, who is chosen yearly as the designated provider of spit (A custom that has been known to ruin some plans.)
 - jump-scare: Living in something like a giant ant hill, opportunities to e.g. hide around the corner and scare the food-clay out of someone abound. This is that.
+- man: A unit of measure with an obvious reference object. If you just assumed "six feet", you would be within 0.4%, just by "coincidence". Like all units of measure, but especially with 'length', the Crec are fastidious and follow a badger's warren of different ideas to further add precision. In conversation, like us, units of measure are imprecise. And unavoidably, things like time its daughter units, like speed are tricker, but there are always a few learned men to lower the precision bar ever more. BTW, it is never "men". As a unit of measure: one man, two man, three man.
 - mouse-spawn: Exactly 500. The term comes from the number of mice believed to result from putting one mating pair of mice in an unoccupied one-family cave in the course of four moons. Which is also roughly the amount of time required to make the Unkempt-Loud-Suffering Pilgrimage from The Forest of Crec and back.
 - predict-tool: Probably a good start on the idea of "a hypothesis".
+- quiet-one: A small, quiet, demure baby-maker between 7 and 11 years old. This term /is/ specific to that, even though it sounds like it could be generalized and understood. Girls of this demeanor and age were considered very precious, lovable, and pure. This is the phase in a baby-maker's life that is considered good for /molding/ by encouraging innosents, purity, during this stage when it becomes more susseptale to feedback.
 - relax-marks: Everyone sits on rocks. Some rocks get a lot of mileage. Inevitably there are brown, burnished areas that repel liquids well and indicate a sweet rock to sit on. So there is some tension: On the one hand they are a mark of shame, sloth and bad housekeeping, but on the other hand everyone likes a good sit.
 - rhino-calf: It means literally that but is also a term of endearment that you can still say without being too creepy. Like "dear".
 - rhino-scat: Mostly known as being the name of a certain hill that was central to the events of The Battle of the Snake Meal during The Great Club War. Actual rhino scat has a certain look. The famous hill has that same look.
@@ -106,3 +113,4 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - take-money: Shorthand for take-part-money. Take-money also means "robbery" or "mugging", but the Crec universally do not make the connection.
 - take-part-money: A tax.
 - value-stone: A unique, hopefully big, visually appealing gem or mineral (there are many sources.) They are the currency, but their relative value is determined at haggling time, which makes for double the arguments.
+- Workers: The "Workers" describe normal people doing normal things. They are distinguished from others only in that they 'sense they are part of something'. They're OK. They're surly but unsure of themselves. They become agreeable and polite when there is talk of any kind of increase in their pay. Grav thinks these people could just choose to focus on other things.
