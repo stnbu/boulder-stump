@@ -1,3 +1,5 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
+
 Plans for this morning, include: Wander around in the woods with Gog. Gog and Grav were cousins. Pretty much the same age, much-little.
 
 Grav and Gog had been same-cousins and highest-friends for their whole lives. They'd been living together in Bhorv Zolk for about half of that time.
