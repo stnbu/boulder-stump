@@ -4,7 +4,7 @@ REMOTE_DIR="/home/mburr/git/unintuitive.org/www/d76bd92cf6e5f593cab2824e7774eaca
 
 cd $(dirname $0)
 
-git add * || true
+git add *.org || true
 git commit -m 'deploy-bot'
 git push
 
