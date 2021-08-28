@@ -1,4 +1,4 @@
-#+title: Preface
++title: Preface
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 
 Theirs is a mostly peaceful, shady and verdant world. Bright red-orange stones the size of mountains jut out of the otherwise unbroken green at just the right frequency. The Crec are a sort of "cavemen". This word will be used unironically throughout. It's how they would describe themselves. In fact, they would fit a surprising number of your stereotypes about cavepeople.
@@ -25,7 +25,7 @@ A hollowed out rock 167 men tall can be a cozy kind of place. The soot above the
 
 Fires make for a cozy cave, and the grand matriarch Nud, Zog's seventh and it would turn out final wife, was the artful, watchful, and opinionated keeper of the fires. Usually this /would have/ mean schlepping wood every late evening to the point of exhaustion, and only after this is done would the cleaning, arranging and lighting take place. No longer! Nud was more the managerial type.
 
-She was currently shouting at Grav, Son of Zog, who was taking a well-earned rest in the ancient-speak burrow, sitting on what was agreed by all to be the most comfortable sit-ham-stone. It had several polished areas to prove its merit. Grav was staring at an upside-down river of smoke that gently flowed in its bed of soot, making its way to the /highest/ point, among all the inverted valleys, cliffs and mesas. Grav was ignoring Nud. It seemed like there was sometimes so much passion-inspired noise coming from his stepmother, it really didn't seem worth trying to mine for the gems (or "value-stone", which is used by the Crec in the same way we use the word "gem" sometimes: "I can't seem to find my favorite club anywhere. It was a /real value-stone/!")
+She was currently shouting at Grav, Son of Zog, who was taking a well-earned rest in the ancient-speak burrow, sitting on what was agreed by all to be the most comfortable sit-ham-stone. It had several polished areas to prove its merit. Grav was staring at an upside-down river of smoke that gently flowed in its bed of soot, making its way to the /highest/ point, among all the inverted valleys, cliffs and mesas. Grav was ignoring Nud. It seemed like there was sometimes so much passion-inspired noise coming from his stepmother, it really didn't seem worth trying to mine for the gems (or "value-stone", which is used by the Crec in the same way we use the word "gem" sometimes: "I can't seem to find my favorite spiked club anywhere. It was a /real value-stone/!")
 
 Nud continued to nud on, knowing full well Grav's policy on his listening to her. ("Nudding" was an in-joke that of course is not known to Zog's generation, nor to his young, current wife.)
 
@@ -68,6 +68,8 @@ Grav's attention went back to Gher. "That's what /I/ keep saying." Hoping to sha
 Father-Brother Verk, Son of Jik had been sitting in the ancient-speak burrow accepting polite, and completely obligatory offers of refreshment, with forced modesty. 
 
 Today Verk would tell all those who gathered (again, compulsory) in the ancient-speak burrow of The Battle of the Snake Meal during The Great Club War and the profound life lessons learned therein.
+
+This wasn't the main objective of his visit, but this was a good crowd-warming tactic and for the audience at least, it was the highlight of Verk's visit ("surely!")
 
 "Shall we all be quiet and let you begin Father-Brother Verk, Son of Jit?", one of the several-finger caveladies doting over him.
 

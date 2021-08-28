@@ -22,7 +22,7 @@ The lesson? There is a right way to be a Crec. Zog simply exemplifies it.
 
 ** Ch. 001, wh
 
-   
+
 ** Ch. 00~, wherein Grav starts studying to become a lawyer (though we have a clever name for it)
 ...
 Note: Grav cleverly invents the concept of "lawyer", works hard to become one, folks realize that not just anyone should be allowed to be a lawyer as you can ruin people's lives (!) and so creates Official Criteria, which Grav cannot meet. Grav becomes the first lawyer to exist and then the first law school student to fail the Bar (what funny word instead of "bar"? "stick"?) exam.
@@ -34,6 +34,11 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 ** Ch. 00~, wherein Zog distracts from the business of the Elders-Quarum with an incident involving a hyena
 ...
 
+
+* Bugs
+
+- It seems like Grav "retires to his burrow" a few too many times, probably creating an inconsistency.
+
 * Relations
 
 - Grut[fn:: The Great.], haver of potent seed, starter of epochs. "Son Of..?", you ask? Well we don't know the answer to that, do we. His time is as far back as memory goes. He and his only wife Jaar are the founders of what is /now/ called the Zog clan.
@@ -42,7 +47,7 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 * Notes
 
 - "Now, Gak, you've got a situation here with that boy of yours. He's mostly just runnin' around messin' with his stick and hanging out with girls. See, if he was an all-finger or more, that'd be good news for you, 'grandpa', but sometimes it's just unseemly. I saw him smelling a quiet-one's pile. Time was, you could drown a wretched runt like that in the river with a good hemp basket and a rock. The do-gooder Forest-Deer and there meddlin in family life put an end to that! But..."
-- I like the expression "thou dost smite meeee!"[fn:: Notice, not a question like 'why...?', this is The-Ender you are talking to.] as a ritual kind of thing that's as unconscious as "Allahu Akbar" or "Bless You". But screamed at the sky during the hight of frustration, of course. Sometimes, as the "eeeeeeeee" is lengthened, the frustration goes vertical, as someone is high up a tree wrenching on a beehive. Usually, this last jerk of rage-derived power is enough to at least "unstick" the frustrating situation (You might imagine the beehive coming loose and the caveman falling 4 stories onto packed mud, as the last 'eeee...' trails off as he lays in his crater.)
+- I like the expression "thou dost smite meeee!"[fn:: Notice, not a question like 'why...?', this is The-Ender you are talking to.] as a ritual kind of thing that's as unconscious as "Allahu Akbar" or "Bless You". But screamed at the sky during the hight of frustration, of course. Sometimes, as the "eeeeeeeee" is lengthened, the frustration goes vertical, as someone is high up a tree wrenching on a beehive. Usually, this last jerk of rage-derived power is enough to at least "unstick" the frustrating situation (You might imagine the beehive coming loose and the caveman falling 4 stories onto packed mud, the last 'eeee...' trails off as he lays in his crater.)
 - The word "think-long" is the transliteration of the compound word of theirs tha means "rational" in pretty much the sense that we mean it. It is a slur because, while it has been observed that rational thought bears good results often, the overwhelming majority of data showed that, when your life depends on it, as it nearly always does, relying on the supernatural bears better results. Therefore, being think-long (rational) is to just waste time and look like a good, naive target for pouncing instead of learning and practicing The Art that would likely save your life one day. rational: insult.
 - The big reveal at the end: bad 'bad' guys and 'good' guys literally just go their separate ways.
 - ZoMG, drugs! The Forest abounds with drugs. All the bluehairs (and everyone?) take some brain-melting psychedelic (thing), which is considered wholesome and old-fashioned. It's booth their wine and their sacrament wine. Pretty much everything else is devil weed, but G&G are bold, fit psychonauts and experience trips that would be considered trips from the perspective of fuddy-duddy trips. Importantly, when they meet up with the girls, there are lots of drugs and of course monkey-business (oh, that's good. let's make that just mean "fucking" and there can be a polite word for "baby-making" ...)
@@ -89,7 +94,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 
 - after-die-monster: Their Devil. Just one, like you.
 - ancient-speak: Generally meaning "story-telling", this analogous to selling a book in our times. It is both 1) revered by default 2) kind of, let's face it, not always going to be a big deal. Times change, pops.
-- baby-makers: Girls. I am sorry. My job is to bring you this story accurately, including look /and/ feel. This was their world, sorry. But a Crec, or perhaps even any caveperson would have no less respect for a /mere/ baby-maker than you would for say a truck driver or computer technician. It's due its own respect, in their eyes. And everyone gets along, no less than you and your sister did. It's just what's up, that's all. 
+- baby-makers: Girls. I am sorry. My job is to bring you this story accurately, including look /and/ feel. This was their world, sorry. But a Crec, or perhaps even any caveperson would have no less respect for a /mere/ baby-maker than you would for say a truck driver or computer technician. It's due its own respect, in their eyes. And everyone gets along, no less than you and your sister did. It's just what's up, that's all.
 - bachelor-tree: A delicate, oddly "chubby" tree with soft lacy leaves that both looks and smells like your wedding night. Small burrowing animals like the bachelor-tree because its soft, incredibly wet flesh makes burrowing quite easy and the natural internal heaving of the tree ensures that it is a snug, sometimes very snug place to burrow, especially in the dry season. It can be problematic for burrowers to breath, because of the snugness and most will usually nest with just their noses sticking out of the opening. Because small tree-dwelling animals are predominately nocturnal, animal burrows in the bachelor-tree are almost always empty at night. This is also a very delicate topic of conversation among the Crec. Sure, the Amish might know what a vagina /is/, but will somehow manage to go a lifetime without saying it out-loud or acknowledging its existence[fn:: Ever.] (to reach for a tangible analog you might understand.) [TODO: the complex bachelor-tree reproductive cycle should *depend upon* cavemen.]
 - Balrag: A tribe that borders the large, thinly populated region to the Crec's south. From north to south: Bhorv Zolk -> undesirables -> undesirable's-undesirables -> next tribe over (Balrag). As it was both downhill and a good bit south, it was noticeably steamier. Gog or Grav would struggle for something meaning "exotic" to describe the milieu[fn:: A meaning they understood, but a word for which they might struggle.] that was Balrag Culture[fn:: They were fans.]. They had a style of drumming that was considered by most Crec to be a "bit on the carnal side", with rhythms that merged on scandalous. It was known that they rarely scratched any of their drumming down, even if improperly. Their drumming was loud enough to be heard softly but distinctly on a calm, clear, crisp [omg what is "Christmas"?] night...usually long past midnight.
 - Battle of the Snake-Meal, The: Without a doubt the most famous battle from The Great Club War, and its turning point in favor of ultimate victory for the Crec.
