@@ -46,6 +46,7 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Notes
 
+- The reason they keep fucking up on standardizing certain measurements is that they literally have not yet thought of the possibility of these things varying. Crec were Crec.
 - At some point, the sluice encounters a low cliff on the riverbank. They find /booones/!
 - Mmaybe something so valuable is found that we have to start worrying about theft at the mine.
 - Some one gets trapped in the River-Fist. You just get pushed down there and twist and twist and twist along with a bunch of rocks. The only salvation is either to move the sluce (maybe it's wedged in place for some reason) or to install the "boar", which the Workers, in their panic, drop over the side, 8 men (or something) down below. Oh! Noes!
