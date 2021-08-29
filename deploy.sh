@@ -14,8 +14,8 @@ rm -rf *.html # hope you didn't need any of these.
 echo "Web server updated."
 
 git add *.org || true
-git commit -m 'deploy-bot'
-git push
+git commit -qm 'deploy-bot'
+git push -q
 
 
 echo "Changes pushed."
