@@ -1,6 +1,6 @@
 #!/bin/sh -ue
 
-REMOTE_DIR="/home/mburr/git/unintuitive.org/www/d76bd92cf6e5f593cab2824e7774eaca544838ef8d358db5a0df5c200d74f3b2/boulder-stump"
+REMOTE_DIR="/home/mburr/git/unintuitive.org/www/boulder-stump"
 
 cd $(dirname $0)
 
