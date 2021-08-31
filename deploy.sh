@@ -14,8 +14,8 @@ rm -rf *.html # hope you didn't need any of these.
 echo "Web server updated."
 
 if git add *.org *.sh > /dev/null ; then
-    git commit -qm 'deploy-bot'
-    git push -q
+    git commit -qm 'deploy-bot' > /dev/null
+    git push -q > /dev/null
     echo "Changes pushed."
 else
     echo "No changes found."
