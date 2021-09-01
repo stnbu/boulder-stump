@@ -9,11 +9,12 @@ for ORG_FILE in *.org ; do
 done
 
 rsync -xa * pu:"$REMOTE_DIR"/
-rm -rf *.html # hope you didn't need any of these.
+rm -rf 00*.html Appendix.html Spoilers.html # hope you didn't need any of these.
 
 echo "Web server updated."
 
-if git add *.org *.sh > /dev/null ; then
+# whatamess
+if git add *.org *.sh *.html index.css > /dev/null ; then
     git commit -qm 'deploy-bot' > /dev/null
     git push -q > /dev/null
     echo "Changes pushed."
