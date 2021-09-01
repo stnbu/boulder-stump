@@ -68,47 +68,51 @@ Be careful not to over-think the meaning, but it should be apparent from context
 
 * Numbers and Reckoning
 
-** Whole numbers:
+** Whole Numbers
 
 - all-finger: 10
 - boulder-door: 100
 - mouse-spawn: 500
 - squirrel-hoard: "a bunch", "a lot"
 
-** Fractions:
+** Negative (and friends)
+
+No such luck.
+
+** Fractions
 
 Fractions are sounded out by the Crec in a logical way that would to us seem overly-wordy. An attempt is made to preserve this post-translation because it gives modern readers a better sense of how the Crec see abstract numbers as novel and worthy of slowing down for.
 
-*** Examples:
+*** Examples
 
 - one and one half of one --> 1 + 1/2
 - two and two thirds of one --> 2 + 2/3
 - three and four fifths of one -- 3 + 4/5
 - N and X Ys of one --> N + X/Y
 
-** Abstract Ratios:
+** Abstract Ratios
 
 When not referring to a portion of a "thing" but instead referring to an abstract ratio (say the rate of climb of a bird or the slope of a hill), the Crec just plug in the word "part" for the abstract quantity unit that gets canceled out (which they mostly have observed). Half of a rock and a 100%[fn:: For the unfamiliar, this is a 45-degree grade, which goes to show.] grade are two things that do not directly relate, according their way of thought.
 
-*** Examples:
+*** Examples
 
 - one part of four --> 1:4
 - one part down for each one half of one boulder-door part over --> 1:50
 - one part up for each one half of one boulder-door part over --> 1:50[fn:: In a way 'up' verses 'down' is also irrelevant as either way, the meaning is usually obvious from context.]
 
-** Angles:
+** Angles
 
 Angles are thought of by the Crec as simply a fraction of a whole circle. And again, the connection to related concepts like "portion of something" or "how steep?" are to them still out of reach, although practitioners of Foundational-Nature-Reckoning[fn:: Mathematics] are closing in.
 
 In fact, the Crec quite literally are thinking "a part of a circle", the way to cut the circle being obvious to them.
 
-*** Examples:
+*** Examples
 
 - one quarter of one circle: 90-deg
 - one twentieth of one circle: 18-deg
 - two of one circle: 720-deg (which they might say to mean "I turned around twice")
 
-* Time:
+** Time
 
 - drop-stone: Just over 0.5s [a 5ft drop in a vacuum with standard gravity is 0.5575s]
 [sun-]palm: [tbd: accuracy] about 38 minutes
@@ -116,21 +120,21 @@ In fact, the Crec quite literally are thinking "a part of a circle", the way to 
 - moon: (lunar) month [around 29.5 days]
 - year: year
 
-* Mass:
+** Mass
 
 - gourd: about one pound
 
-* Volume:
+** Volume
 
 - gourd: about have a liter
 
-* Length/Distance:
+** Length/Distance
 
 - bowstring-finger-knuckle: about 2cm (the distance from the tip of an average adult male's index finger to the first knuckle)
 man: about 6 feet
 - palm: The distance one /walks/ in a single palm (of time) -- about two miles.
 - drop-stone: 189 meters (approximately 100 man) -- the distance /sound/ travels in one drop-stone (just over half a second). This sounds like a preposterous concept for a caveman's reckoning of distance. It is not! The idea is very simple: One person makes a **sound** whose occurrence is obvious **visually**; for example, hitting a large skin drum with a large, conspicuous [drum]stick. The drum can be heard literally for miles. One can see the drummer /striking/ the drum, for a very long way on flat, level ground [as will be the case for this procedure, usually]. Another person will adjust their distance, by gradually backing away, such that, if the a stone is dropped from shoulder-hight when the drum beat is /seen/ and hits the ground when the sound arrives, the two cavepersons can be said to be "one drop-stone away from each other. Adoption of this was slow, as it was difficult to convince the average caveperson that sound travels at a /constant/ speed (obviously!) In modern visual arts, the clapperboard has a similar function.
 
-* Speed:
+** Speed
 
 The Crec will try to decipher any "distance per time" units given, with varying degrees of struggle, just as you might if someone quoted speed to you in say "ångstrom per millennium" or "centimeters per year". There's no judgment about this among the Crec. They are always thinking of the best combination to express an idea. As their units of time are few and imprecise, there are correspondingly fewer combinations to use for speed and the appropriate choice is usually obvious. Man-per-dropstone and man-per-palm are popular combinations. Most often, a familiar analog will be used: as fast as a saber-tooth tiger.
