@@ -59,7 +59,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - value-stone: A unique, hopefully big, visually appealing gem or mineral (there are many sources.) They are the currency, but their relative value is determined at haggling time, which makes for double the arguments.
 - Workers: The "Workers" describe normal people doing normal things. They are distinguished from others only in that they 'sense they are part of something'. They're OK. They're surly but unsure of themselves. They become agreeable and polite when there is talk of any kind of increase in their pay. Grav thinks these people could just choose to focus on other things.
 
-* Ordinal (and not so ordinal) Directions:
+* Ordinal (and not so ordinal) Directions
 
 - morning-sun-left-side: North
 - morning-sun: East
