@@ -75,7 +75,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - mouse-spawn: 500
 - squirrel-hoard: "a bunch", "a lot"
 
-** Negative (and friends)
+** Negative Numbers (and friends)
 
 No such luck.
 
