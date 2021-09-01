@@ -115,7 +115,7 @@ In fact, the Crec quite literally are thinking "a part of a circle", the way to 
 ** Time
 
 - drop-stone: Just over 0.5s [a 5ft drop in a vacuum with standard gravity is 0.5575s]
-[sun-]palm: [tbd: accuracy] about 38 minutes
+- [sun-]palm: [tbd: accuracy] about 38 minutes
 - sun: day
 - moon: (lunar) month [around 29.5 days]
 - year: year
