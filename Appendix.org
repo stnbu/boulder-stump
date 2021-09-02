@@ -53,7 +53,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - soot-pallet: Wherever fire has deposited soot on an area of stone that has been used for writing, if you write in it, it becomes a "soot-pallet". It's as common as and thought of like billboards, but are not thought of as owned, so it's acceptable for someone to write something (proper) on such a sooted stone surface. Trespassing is still a thing, though.
 - squirrel-hoard: An abstract quantity meaning "a lot", if you thought "a whole bunch of" you'd be close.
 - strength: "Force", in the way used in physics.
-- palm: A unit of time. The amount of time it takes for the sun to pass the width of one palm at arm's length. For example, if you want to know what-in-the-morning it is, hold your right arm out straight, rotate your upturned hand counter clockwise 90 degrees so that your fingers are pointing to your left, the distance from top of your hand (the outer [upper-most] part of the first knuckle of the pinkie) to the bottom of your hand (the outer [lower-most] part of the first knuckle of your index finger) is the unit you use to measure the hight of the son. A Crec will say, "It's 7 palm from dawn, get a move on!"
+- palm: A unit of time. It also has two meanings with reference to distance/length.
 - take-money: Shorthand for take-part-money. Take-money also means "robbery" or "mugging", but the Crec universally do not make the connection.
 - take-part-money: A tax.
 - value-stone: A unique, hopefully big, visually appealing gem or mineral (there are many sources.) They are the currency, but their relative value is determined at haggling time, which makes for double the arguments.
@@ -116,7 +116,7 @@ In fact, the Crec quite literally are thinking "a part of a circle", the way to 
 ** Time
 
 - drop-stone: Just over 0.5s [a 5ft drop in a vacuum with standard gravity is 0.5575s]
-- [sun-]palm: [tbd: accuracy] about 38 minutes
+- [sun-]palm: About 38 minutes. The amount of time it takes for the sun to pass the width of one palm at arm's length. For example, if you want to know what-in-the-morning it is, hold your right arm out straight, rotate your upturned hand counter clockwise 90 degrees so that your fingers are pointing to your left, the distance from top of your hand (the outer [upper-most] part of the first knuckle of the pinkie) to the bottom of your hand (the outer [lower-most] part of the first knuckle of your index finger) is the unit you use to measure the hight of the son. A Crec will say, "It's 7 palm after dawn, get a move on!"
 - sun: day
 - moon: (lunar) month [around 29.5 days]
 - year: year
@@ -133,7 +133,9 @@ In fact, the Crec quite literally are thinking "a part of a circle", the way to 
 
 - bowstring-finger-knuckle: about 2cm (the distance from the tip of an average adult male's index finger to the first knuckle)
 - man: about 6 feet ("you?")
-- palm: The distance one /walks/ in a single palm (of time) -- about two miles.
+- palm (1): The distance one /walks/ in a single palm (of time) -- about two miles.
+- palm (2): The width of the palm. From one outer side of a flat hand to the other, not including the thumb. About 0.5 pinkie-thumb.
+- pinkie-thumb: Stretch the tips of your thumb and pinkie as far apart as you can; that's a pinkie-thumb. It's about two palm (the short version).
 - drop-stone: 189 meters (approximately 100 man) -- the distance /sound/ travels in one drop-stone (just over half a second). This sounds like a preposterous concept for a caveman's reckoning of distance. It is not! The idea is very simple: One person makes a **sound** whose occurrence is obvious **visually**; for example, hitting a large skin drum with a large, conspicuous [drum]stick. The drum can be heard literally for miles. One can see the drummer /striking/ the drum, for a very long way on flat, level ground [as will be the case for this procedure, usually]. Another person will adjust their distance, by gradually backing away, such that, if the a stone is dropped from shoulder-hight when the drum beat is /seen/ and hits the ground when the sound arrives, the two cavepersons can be said to be "one drop-stone away from each other. Adoption of this was slow, as it was difficult to convince the average caveperson that sound travels at a /constant/ speed (obviously!) In modern visual arts, the clapperboard has a similar function.
 
 ** Speed
