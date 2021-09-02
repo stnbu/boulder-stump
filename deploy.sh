@@ -9,7 +9,7 @@ for ORG_FILE in *.org */*.org ; do
 done
 
 rsync -xa * pu:"$REMOTE_DIR"/
-rm -rf 00*.html Appendix.html Spoilers.html # hope you didn't need any of these.
+rm -rf */*.html 00*.html Appendix.html Spoilers.html # hope you didn't need any of these.
 
 echo "Web server updated."
 
