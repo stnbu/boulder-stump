@@ -4,7 +4,7 @@ REMOTE_DIR="/home/mburr/git/unintuitive.org/www/boulder-stump"
 
 cd $(dirname $0)
 
-for ORG_FILE in *.org ; do
+for ORG_FILE in *.org */*.org ; do
     emacs "$ORG_FILE" --batch -f org-html-export-to-html --kill >/dev/null 2>&1
 done
 
