@@ -14,7 +14,7 @@ rm -rf 00*.html Appendix.html Spoilers.html # hope you didn't need any of these.
 echo "Web server updated."
 
 # whatamess
-if git add *.org *.sh *.html index.css > /dev/null ; then
+if git add *.org */*.org *.sh *.html index.css > /dev/null ; then
     git commit -qm 'deploy-bot' > /dev/null
     git push -q > /dev/null
     echo "Changes pushed."
