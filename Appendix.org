@@ -67,6 +67,8 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - morning-sun-back-side: West
 - morning-sun-right-side: South
 
+- morning-sun-left-back-side: North West (etc...)
+
 * Numbers and Reckoning
 
 ** Whole Numbers
