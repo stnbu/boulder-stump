@@ -44,6 +44,12 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Notes
 
+- Are there airquotes in Crec-world?
+- Naming surrounding the rock-stick-rocks:
+  - The three pieces share a single name. There is no name for the rock-weener by itself or the halves.
+  - It is known to all as Ender's-Sword.
+  - G&G call it Ender's-Stump but only amongst themselves.
+  - G&G have their own name, which they share with nobody. They got tired of making finger quotes.
 - Notes about military:
   - We need a good name for the camp: "Choh-Ov is an xxx"
   - Towns around military bases are universally a disaster (as they are in Reality, along with University towns) The following name choices were made to make it easier to remember (For me! We should probably do some Okinawa bases.)

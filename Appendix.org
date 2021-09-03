@@ -31,6 +31,8 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - Crec [singular and plural]: The Forest to which the Zog clan both lives and belongs. "Crec" can refer to the Forest or the people who live there.
 - drop-stone: A unit of time; about as long as it takes for a stone to hit the ground when dropped from an outstretched hand, on more or less level ground. They're as tall as you and used to inhibit the same planet. It works out to be a bit over half a second.
 - elders-quorum: This is a sort of "The Senate" of a Forest (in cases where they have bothered). It's just as inept and entertaining as our analogs (diet, soviet, merikin, parliament, kremlin, house, neighborhood gang...)
+- Ender's-Stump: The "joke" name given Ender's-Sword by G&G. They are too contemptuous to go around saying "Ender's-Sword" to each other.
+- Ender's-Sword: The name given to the strange (obscene) gem found by G&G
 - Ender-Of-All-Questions: God. Just one, like you. You will encounter references to "the gods". Rather improbably, this is used exactly as a modern, cynical teenager might use it: ironically. As in, /You are still such a tiresome superstitious moron that you probably believe in/ multiple /gods like back in primitive times./
 - father-brother: Your father's brother. Your "uncle", but with more information.
 - Fayt-Caves: The charming town surrounding Choh-Ov.
