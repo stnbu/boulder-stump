@@ -1,5 +1,5 @@
 #+title: Club-Drill
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../index.css" />
 #+OPTIONS: num:nil
 
 Club-drill was excrutiating in the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and critisized by the ignorant and linear thinkers that were inevitably the "top bronze".

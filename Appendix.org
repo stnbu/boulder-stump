@@ -1,5 +1,5 @@
 #+title: Notes About /Gog said "Boulder-Stump"!/
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../index.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 #+OPTIONS: num:nil
 
 * Crecspeak
