@@ -44,6 +44,8 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Notes
 
+- There are a couple of colourfoul characters that could exist:
+  
 - Are there airquotes in Crec-world?
 - Naming surrounding the rock-stick-rocks:
   - The three pieces share a single name. There is no name for the rock-weener by itself or the halves.
@@ -90,7 +92,7 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
   - Somehow making a single loud bang. And then having a code "one bangith mean trouble, two bangith mean party"
 - The shouting of "boulder-stump!" is something Gog did in his youth. The search for the culprit had been at least "active" until the present day.
 - Don't ever forget to make the good guys bad. There should be lots of people "signaling" who are Forest-Deer die-hards and act hella retarded. The reader should be utterly unable to decide who the good guys are.
-- There must be lots and lots of "public works" of every kind. We let the Elders-Quarum decide how to spend N% or our value and then get outraged when it's not used "correctly". Rocks, clubs, clubs with sharp sticks in them...
+- There must be lots and lots of "public works" of every kind. We let the Elders-Quarum decide how to spend N% or our money and then get outraged when it's not used "correctly". Rocks, clubs, clubs with sharp sticks in them...
 - Everyone is a caveperson. It's as appropriate to say "cavelady" as it is to say "lady".
 - The feeling is light and easy like a mockumentary. The narrator is just "me", so I don't have to remember what "voice" I'm using.
 - No humorous-fake-terms for things that /they/ have and /we/ have a name for. For example, no need to call a tree a "massive-weed" or to call a cat a "gerbil-dog". Or maybe yes do that. It would be pretty sweet if Crecspeak words got a special tag so we can identify, use special fonts, check for glossary leaks...
