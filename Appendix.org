@@ -12,6 +12,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 
 ** Glossary
 
+- clubbing-camp: training camp.
 - after-die-monster: Their Devil. Just one, like you.
 - ancient-speak: Generally meaning "story-telling", this analogous to selling a book in our times. It is both 1) revered by default 2) kind of, let's face it, not always going to be a big deal. Times change, pops.
 - baby-makers: Girls. I am sorry. My job is to bring you this story accurately, including look /and/ feel. This was their world, sorry. But a Crec, or perhaps even any caveperson would have no less respect for a /mere/ baby-maker than you would for say a truck driver or computer technician. It's due its own respect, in their eyes. And everyone gets along, no less than you and your sister did. It's just what's up, that's all.
@@ -31,6 +32,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - Crec [singular and plural]: The Forest to which the Zog clan both lives and belongs. "Crec" can refer to the Forest or the people who live there.
 - drop-stone: A unit of time; about as long as it takes for a stone to hit the ground when dropped from an outstretched hand, on more or less level ground. They're as tall as you and used to inhibit the same planet. It works out to be a bit over half a second.
 - elders-quorum: This is a sort of "The Senate" of a Forest (in cases where they have bothered). It's just as inept and entertaining as our analogs (diet, soviet, merikin, parliament, kremlin, house, neighborhood gang...)
+- down-power: Gravity
 - Ender's-Stump: The "joke" name given Ender's-Sword by G&G. They are too contemptuous to go around saying "Ender's-Sword" to each other.
 - Ender's-Sword: The name given to the strange (obscene) gem found by G&G
 - Ender-Of-All-Questions: God. Just one, like you. You will encounter references to "the gods". Rather improbably, this is used exactly as a modern, cynical teenager might use it: ironically. As in, /You are still such a tiresome superstitious moron that you probably believe in/ multiple /gods like back in primitive times./
