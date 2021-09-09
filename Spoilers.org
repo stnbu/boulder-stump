@@ -44,8 +44,9 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Notes
 
+- A ridiculously huge flag could fly atop Bhorv Zolk (on occasion, for reason)
 - There are a couple of colourfoul characters that could exist:
-  
+  - "hi"
 - Are there airquotes in Crec-world?
 - Naming surrounding the rock-stick-rocks:
   - The three pieces share a single name. There is no name for the rock-weener by itself or the halves.

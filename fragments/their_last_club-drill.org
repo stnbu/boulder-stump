@@ -2,27 +2,31 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../index.css" />
 #+OPTIONS: num:nil
 
-Club-drill was excruciating to the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and criticized by the ignorant and linear thinkers that were inevitably the "top bronze"; often criticized for doing exactly what you were told.
+Club-drill was excruciating to the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and criticized by the ignorant and linear thinkers that were inevitably the "top bronze"; often criticized for doing exactly what you were told to do.
 
-Another concept they couldn't explain nor even know of its existence is "selection bias". It's a subtle idea. It would be a while before that idea got identified and tagged.
+Another concept they wouldn't be able to explain or even be aware exists was "selection bias". It's a subtle idea. It would be a while before that idea got identified and tagged.
 
-In words that a Crec might understand: The cavemen who made their way to the top in the hierarchy were the type who really liked bossing people about; the wisdom of their plans for /you/ was not part of their calculations.
+In words that a Crec might understand: The cavemen who made their way to the top in the hierarchy were the type who really liked bossing people about. They were cavemen who were violently uninterested in the wisdom of their plans for /you/.
 
-Given enough cavemen, you will find some outliers. You may not know anyone who likes to give orders, doesn't like to be questioned, and doesn't care whether they are "right" by /your/ definition, but how many CO's[fn:: Caveman Officer] does one need? Not many. And they'll find their way toward their dream job. Everyone should. Recruiting was no small part of the Armed-Forest. Outreach, recruitment and other kinds of advertising paid off in their growth, and in the recruitment of certain "roles".
+Given enough cavemen, you will find some outliers. You may not know anyone who likes to give orders, doesn't like to be questioned, and doesn't care whether they are "right" by /your/ definition, but how many CO's[fn:: Caveman Officer] does one need? Not many. And being the scrappy sort, they will, in stages, work their way toward their dream job. Everyone should. Recruiting was no small part of the Armed-Forest. Outreach, recruitment and other kinds of advertising paid off in their growth, and in the recruitment of many particular /types/ to fill a corresponding /roles/.
 
-As a Crec, you could and probably would some day be drafted. But to make a career out of it was a different tack. If you were not a CO, you pretty much spent all your time either killing, being killed, or learning to kill. CO's were more the managerial type.
+As a Crec, you could and probably would some day be drafted. But to make a career out of it was a different tack. If drafted and not a CO, you pretty much spent all your time either killing, being killed, or learning to kill. CO's were more the managerial type.
 
-And so, since your fate, if a man, was to be involved in all this anyway, /completely voluntary/ "club-drill" was held in locations around the Forest. They were usually overseen by some Great Bear war hero. The training ground nearest Bhorv Zolk, called Choh-Ov, was surrounded by a kind of suburb named Fayt-Caves, and was run by Verk. The title of this role, the camp head, was Mother Bear[fn:: Absolutely no one saw a hint of humor or absurdity in this title. Yes, it was well known that mother bears are female, but mother bears were and are fierce as monkey-business.]. Verk was Choh-Ov's Mother Bear.
+And so, since your fate, if a man, was to be involved in all this anyway, a /completely voluntary/ "club-drill" was held in locations around the Forest. If it was going to inevitably happen, one may as well be among the best-prepared.
+
+You may have stopped and wondered yourself: What was it like to be among a sea of men with on opposing "teams", all literally in a life-or-death fight with both sharp and blunt instruments, /right there in front of you/, wanting to kill you. And you wanting to kill because of that. It's an unimaginably frightening thought when it's both real and likely. Try and touch that kind of terror in yourself, see if you can imagine yourself in that terrifying bloody mess: This is what motivated Grav and Gog to trek all this way, all-too-regularly.
+
+The clubbing-camps were usually overseen by some Great Bear war hero. The one nearest Bhorv Zolk, called Choh-Ov, was surrounded by a kind of suburb named Fayt-Caves, and was run by Verk. The title of this role, the camp head, was Mother Bear[fn:: Absolutely no one saw a hint of humor or absurdity in this title. Yes, it was well known that mother bears are female, but mother bears were and are fierce as monkey-business.]. Verk was Choh-Ov's Mother Bear.
 
 Fayt-Caves was a shanty town, but made out of rock, which really looks nicer than shanty any way you cut it. The settlement surrounding Choh-Ov was seedy, crime-ridden, full of loud parties on an ongoing basis, had an entire district devoted to hire-baby-makers and their trade. Choh-Ov was more or less at the very center of this fried egg of empty calories.
 
-And it was small-knowledge[fn:: 'small[-one]-knowledge': common sense, widely known.] that this was the arrangement surrounding more or less every clubbing-camp in the Forest and its protectorates. No one thought this amiss. It was small-knowledge[fn:: This effect was also seen surrounding Crec's very few places of high learning, 'scratching-camps'].
+And it was small-knowledge[fn:: 'small[-one]-knowledge': common sense, widely known.] that this was the norm; surrounding more or less every clubbing-camp in the Forest and its protectorates was a 'bad neighborhood' by most definitions. No one thought this amiss. It was small-knowledge[fn:: This effect was also seen surrounding Crec's very few places of high learning, 'scratching-camps'].
 
-Grav and Gog had decided to leave the day after the revelation of Ender's-Sword giving them the opportunity to take make a leisurely day of it, needing only to cover 2 all-finger palm <-xxx don't seem like a day-trip xxx of pretty standard jungle and woods, with the way well traveled and therefor clearly marked, well serviced by vendors, and safe-with-many. They had even let themselves sleep in a bit. Since the final part of a journey crossed a wide, flat, scrubby plane and the moon was sufficiently bright, they would be able to walk for hours after dark set in.
+Grav and Gog had decided to leave the day after the revelation of Ender's-Sword, giving them the opportunity to take make a leisurely day of it, needing only to cover one and one half of one all-finger palm[fn:: About 30 'imperial' miles.] of pretty standard jungle, woods, and scrubby savanna. with the way well-traveled and therefore clearly marked, well serviced by vendors, and safe-with-many. They had even let themselves sleep in a bit[fn:: With rare exception, all cavepeople woke at dawn, even on deeply overcast days. Another palm of sleep more, if you found a place dark enough, was considered decadent.]. Since the final part of a journey crossed a wide, flat, scrubby plane and the moon was sufficiently bright, they would be able to travel for hours after dark set in.
 
-In the worst case, they planned to bevvy one night, wake up early and arrive at the Choh-Ov before reveille <-xxx.
+In the worst case, they planned to bevvy one night, wake up early and arrive at the Choh-Ov before conch.
 
-As Bhorv Zolk faded into the distance, the path to the morning-sun-left-back-side was gently rolling hills and low shrubs for several palm. Bhorv Zolk could be seen fading into the distance, which was a nice way to say goodbye to home. One got a feeling that it was very big, visible from all this way, and would therefor surely be there when you got back.
+As Bhorv Zolk faded into the distance, the path to the morning-sun-left-back-side[fn:: Northwest.] was gently rolling hills and low shrubs for several palm. Bhorv Zolk could be seen fading into the distance, which was a nice way to say goodbye to home. One got a feeling that it was very big, visible from all this way, and would therefore surely be there when you got back[fn:: And coming back was also a nice, slow 'hello'. You felt 'home' many palm before you actually were.].
 
 Gog hummed, whistled and yipped an improvised song, that Grav didn't really want to admit was actually pretty good.
 
@@ -32,9 +36,9 @@ Sell the materials needed to perform a cover of the latest hit was really all th
 
 Grav just enjoyed the well selected traveling music and thought a lot about how to best navigate the next few days, not for any particular reason other than one should plan ahead always, he thought.
 
-Would word have gotten out? Verk would not be at the camp, not feeling any particular need to be there. He would make his way back eventually, at his own pace.
+Would word have gotten out? Verk would not be at the camp, not feeling any particular need to be there. He would make his way back eventually, at his own pace, likely after Grav and Gog had gone <-xxx maybe they meet up on the way home xxx
 
-A few palm outside of Fayt-Caves, Verk owned what would be considered a castle almost universally; a point that the men would pass today, if they kept their pace.
+A few palm outside of Fayt-Caves, Verk owned what would be considered a castle almost universally; a point that the men would pass late that evening, if they kept their pace.
 
 "Would word of the Ender's-Sword have made it to Choh-Ov?", Grav wondered allowed.
 
@@ -42,37 +46,43 @@ Without breaking his stride, Gog abruptly stopped his music and looked at Grav, 
 
 "You mean Ender's-Stump?"
 
-Grav's walk became a staggering, rhythmic stomp as he laughed maniacally while continuing to walk. He eventually gave up on that and let himself fall into an enormous healthy, dark-pruple heather shrub. He continued to laugh face-down at the dirt and detritus at the ancient shrub's base.
+Grav's run became a staggering, rhythmic stomp as he laughed maniacally while continuing to run. He eventually gave up on that and let himself fall into an enormous healthy, dark-purple heather shrub. He continued to laugh face-down at the dirt and detritus at the ancient shrub's base. He noticed a worm quickly escaping downwards in his haze of mirth.
 
-He eventually righted himself, making a lot of noise as he pushed himself up, snapping small branches and spitting out the various blooms and twigs that ended up in his open mouth.
+He eventually righted himself, making a lot of noise as he pushed himself up, snapping small branches and spitting out the various purple blooms and twigs that ended up in his open mouth.
 
 "Scout[fn:: "Dude!!"], you need to lay off of that stuff! Not everyone is as mirth-filled as us, you know. The Forest Executioners are not known for their stoatishness[fn:: Sillyness].", said Grav.
 
-"Eegh. I'm tired of worrying about it, to be frank." Gog was such an artist with his banana-language that he was no longer entertained by it, and so was laughing not at all. It seemed like he just thought of it as his 'job'—trudging through another day of saying things that caused others to nearly have a stroke with hilarity.
+"Eegh. I'm tired of worrying about it, to be frank." Gog was such an artist with his banana-language that he was no longer entertained by it, and so was laughing not at all. It seemed like he just thought of it as his 'job'; trudging through another day of saying things that caused others to nearly have a stroke with hilarity. "You know either of us could be dead tomorrow."
+
+"But probably not 'from torture'.", reasoned Gog.
 
 "I mean, yeah, of course I will always take reasonable precautions. But mount it, it becomes so much of a drain on me to constantly have to edit my words, that I'm willing to be a bit 'strategically reckless' in order to just relax for a /sewing/ change!!" Gog seemed to be shaking his head in disgust.
 
-"They /are/ just words, aren't they?", said Gog, sharing some of Gog's annoyance at the arbitrariness of it all. Though, he was not yet an angry rebel like Gog. "It angers me too. Some things are at the same time both infuriatingly stupid and unjust, while at the same time being completely small-knowledge to seemingly everyone."
+"They /are/ just words, aren't they?", said Grav, sharing some of Gog's annoyance at the arbitrariness of it all. Though, he was not yet an angry rebel like Gog. "It angers me too. Some things are at the same time both infuriatingly stupid and unjust, while at the same time being completely small-knowledge to seemingly everyone. Everyone gets so clubby[fn:: 'On edge'.] about /language/."
 
-Grav continued. "Did you know that in XXX you can have three toenails pulled out for underpaying your take-value? Regardless of circumstances? At least the Crec haven't gone that crazy.
+Grav continued. "Did you know that in Douks you can have three toenails pulled out for underpaying your take-value? Regardless of circumstances? At least the Crec haven't gone that crazy.
 
-If you find something in the jungle of any value at all, the XXX Forest has a 'claim' on half of it, without any kind of justification. It's just /theirs/ and that's that!
+If you find something in the jungle of any value at all, the Douks Forest has a 'claim' on half of it, without any kind of justification. It's just /theirs/ and that's that!
 
 How would you take-value half of one Ender's-Stump?"
 
 Gog's cheeks tightened with the suppression of a smile.
 
-"Are we really gonna trek it out <-xxx the whole way through, without a bevy?", asked Gog.
+"What has that got to do with what we're talking about?", asked Gog.
 
-"Why not? So long as we hit xxx Plains by maybe one palm after sundown, we'll be in like flynn <-xxx."
+"Force is force <-xxx do we like 'force'? xxx, whether it's about taking value or removing freedom.
 
-"That's a palm of walking in the dark in xxx woods."
+In a way, they're similar things; freedom and value. You can use your freedom to get value. Taking away your freedom is like taking value you don't yet have, because 'they' have wrecked your plans. Maybe /you/ want to be a professional banana-talker...!"
 
-"Eh.", answered Grav.
+Gog answered with a question, while smirking gratefully. "Are we really gonna trek it out the whole way through, without a bevy?"
 
-"Eh.", agreed Gog.
+"Why not? So long as we hit Snare Plains by maybe one palm after sundown, we'll be set like a murderous monkey[fn:: A strange expression that means something like 'in like Flynn'. It comes from the observation that a monkey that has killed one of is own kind and is relaxing in its nest eating the corpse has a look of complete contentment, sometimes even with a bloody smile that humans easily pick up on.]."
 
-Much later, nearing the end of xxx woods, they encountered a forest-child <-xxx[fn:: make sure naming is consistent and that there has been a footnote already.] whose trek was intersecting with the established trail, as seems always to be the case, and only in the forest; /any/ forest.
+"That's a palm of walking in the dark in Small Woods."
+
+"Running.", corrected Grav.
+
+Much later, it getting dark and their nearing the end of Small Woods, they encountered a forest-child[fn:: make sure naming is consistent and that there has been a footnote already.] whose path was intersecting with the only established trail for palm, as seems always to be the case, and only in the Forest; /any/ Forest.
 
 "Greetings cheerful fellow traveler!", said Grav, there never having been any sense of fear about them from anyone that he could recall.
 
@@ -147,6 +157,9 @@ I say 'Stay Low to Scrub', and /you/ say...
 "**Stay! Low! to! Mud!**"
 
 Thag smiled.
+
+xxx xxx walk? doesn't everybody run? maybe there is the message of
+xxx xxx "run, don't walk!" Lots of self-shaming for having been walking
 
 #+begin_quote
 /Well/... I was walk home from xxx along the path that many of you know well, it's not close to here, but it's close enough. Many of you have seen it in person. It was at Hummingbird Pass, which connects xxx and xxx, down at the far south of our Forest.
