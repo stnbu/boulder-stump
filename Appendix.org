@@ -30,7 +30,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - club-fight: A kind of duel involving some ceremony. There is a regulatory body <why not name it here> that exists to ensure that any two clubs used in a club-fight are recognized as being "fair". The participants, on the other hand vary widely. The last rule of club-fight, as it is the most important, is: Someone's got to not be able to walk away.
 - clubbing-camp: training camp.
 - Crec [singular and plural]: The Forest to which the Zog clan both lives and belongs. "Crec" can refer to the Forest or the people who live there.
-- Douks: Forest bordering the northeast of Crec.
+- Douks: A Forest bordering the northeast of Crec. The Douks are one of only a very few actual threats to Crec. They are a sophisticated culture, like the Crec, and share a common cultural heritage. But the two are quite different in many ways. They have what might be described as "mutual suspicion with respect", and have an almost civil diplomatic relations. But occasionally have terrible, bloody wars.
 - down-power: Gravity
 - drop-stone: A unit of time; about as long as it takes for a stone to hit the ground when dropped from an outstretched hand, on more or less level ground. They're as tall as you and used to inhibit the same planet. It works out to be a bit over half a second.
 - elders-quorum: This is a sort of "The Senate" of a Forest (in cases where they have bothered). It's just as inept and entertaining as our analogs (diet, soviet, merikin, parliament, kremlin, house, neighborhood gang...)
