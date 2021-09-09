@@ -2,6 +2,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../index.css" />
 #+OPTIONS: num:nil
 
+* __dummy__
+
 Club-drill was excruciating to the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and being criticized by the ignorant and linear thinkers that were inevitably the "top bronze"; often criticized for doing exactly what you were told to do.
 
 Another concept they wouldn't be able to explain or even be aware exists was "selection bias". It's a subtle idea. It would be a while before that idea got identified and tagged.
@@ -118,25 +120,31 @@ Grav looked at the sky through the canopy and thought for a considerable while.
 
 "Oh. Thanks for starting with an easy one."
 
+The woods, especially near the planes, were an especially active hunting ground for all kinds of big, bigger-than-you things made from muscle, teeth and claws. The plane, being a safer place overall; just keep pace and make a lot of noise, you rarely got messed with.
+
 "Don't you think that'd be handy to know?"
 
 "If we were that worried, we'd be running right now."
 
-While the men were talking, the forest-child made a series of gestures. Warning and "no" could be seen on his countenance as he made his interpretive dance.
+While the men were talking, the forest-child made a series of gestures. "Warning" and "no" and "great death" could be seen on his countenance as he made his interpretive dance.
 
 "Flying?", Gog thought picked up.
 
-"Mouth? Beak?", Grav tried to help, in this elite level version of Pictionary, where the audience more or less mute; and dumb, from the forest-child's perspective.
+"Mouth? Beak?", Grav tried to help, in this elite-level version of Pictionary, where the audience more or less mute; and dumb, from the forest-child's perspective.
 
 "Is that a tail? Egg?"
 
 "Lizard bird?", asked Grav.
 
-His feedback from the toddler was a shrug.
-
 "I'm pretty sure he is saying lizard-bird something. Egg...could it be eating for two and therefore especially hungry?"
 
+His feedback from the toddler was a shrug. Grav made a "big eat-y beak" gesture with his two outstretched arms, perhaps with fingers playing the roll of some hooked teeth at the ends.
+
+The toddler's eyes made saucers. He pointed at Grav and jumped rapidly with bent knees, his torso more or less stationary, as one would at the height of a Pictionary nail-biter.
+
 Lizard-bird could and would kill men. There was no scooping up in the peak and swallowing whole. No, that would be better.
+
+** Caveman Thag
 
 A rare survivor once enthusiastically gave his tale, to the best he could, without embellishment, just for the good of the Forest. He had a kind of speaking tour. /Stay Low to Scrub/ and its rejoinder shouted by his audience, /Stay Low to Mud/ were to catch phrases by which he was known. In other words: Hide, get out of the way [of the stalking lizard-bird]!
 
@@ -297,10 +305,24 @@ At some point I was lucky enough to wiggle my way into a brook that I had heard 
 xxx
 #+end_quote
 
+* __dummy2__
+
+xxx xxx actually actually /after/ the Mr. Thag stuff. And....action!
+
+But lizard-bird hunt the plains, or the trails, which of course was programmed in as a no-no at even the vaguest hint of "lizard-bird".
+
+But off the trails and off the plains meant /in the woods/ adjacent to Snare Plains, a place where rich biome met rich biome and all kinds of killing went on. It was, in literal terms, "between the plains and the woods"[fn:: Which of course is the Crec expression that means 'between a rock and a hard place'.] This was a phrase that was bandied about, but it was no joke to be in there any more than is, say /the undertow/.
+
+And yet there they were. The forest-child was in-the-know about such things, there was no doubt. Lizard-bird aren't /everywhere/ in Crec. Given plenty of other factors, it took several hundred square miles to support just one. So they are rare, territorial, and deadly deadly. You might think in terms of the lizard-bird being to the Crec what great white sharks are to modern humans, /with the provision that/ modern humans spend all their time swimming at the beach. Their sky-trolling sharks were a lot less hypothetical.
+
+
+xxx xxx xxx
+xxx xxx xxx
+xxx rando
+xxx xxx xxx
+xxx xxx xxx
 
 
 xxx Someone with a clever name scares kids straight about lizard bird awareness xxx
-
-
 
 xxx 4 later: with hastily, poorly-appointed row after row of little hills, with a kind of crash pad of a cave.
