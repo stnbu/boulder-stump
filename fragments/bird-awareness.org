@@ -1,8 +1,7 @@
-#+title: Club-Drill
+#+title: Thag
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../index.css" />
 #+OPTIONS: num:nil
-
-* __dummy__
+#+OPTIONS: toc:nil
 
 Club-drill was excruciating to the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and being criticized by the ignorant and linear thinkers that were inevitably the "top bronze"; often criticized for doing exactly what you were told to do.
 
@@ -86,8 +85,6 @@ Gog answered with a question, while smirking gratefully. "Are we really gonna tr
 
 "That's a palm of walking in the dark in Small Woods."[fn:: The triviality of this observation did not occur to Gog.]
 
-xxx <- seems too short of a time xxx
-
 "Less than one /half/ of one palm, and /running/!", corrected Grav helpfully.
 
 Much later, it getting dark and their nearing the end of Small Woods, they encountered a forest-child[fn:: xxx make sure naming is consistent and that there has been a footnote already.] whose path was intersecting with the only established trail for several palm, as seems always to be the case with the forest-children, and only in the Forest; /any/ Forest, really, but not on a plain for example.
@@ -116,11 +113,11 @@ Gog said, "More importantly what do we want to ask him. He's full of helpful ans
 
 Grav looked at the sky through the canopy and thought for a considerable while.
 
-"Ok. Translator, ask him if he would chance the remainder of the xxx woods at a leisurely walk on the way to xxx plains, or would he run like scat?", Grav said to Gog.
+"Ok. Translator, ask him if he would chance the remainder of the Little Woods at a leisurely walk on our way to Snare Plain, or would he run like scat?", Grav said to Gog.
 
 "Oh. Thanks for starting with an easy one."
 
-The woods, especially near the planes, were an especially active hunting ground for all kinds of big, bigger-than-you things made from muscle, teeth and claws. The plane, being a safer place overall; just keep pace and make a lot of noise, you rarely got messed with.
+The woods, especially near the planes, were a lively hunting ground just as soon as it was dark enough; for all kinds of big, bigger-than-you things made from muscle, teeth and claws. The plain, being a safer place at night, generally; just keep pace and make a lot of noise, you rarely got messed with.
 
 "Don't you think that'd be handy to know?"
 
@@ -130,21 +127,21 @@ While the men were talking, the forest-child made a series of gestures. "Warning
 
 "Flying?", Gog thought picked up.
 
-"Mouth? Beak?", Grav tried to help, in this elite-level version of Pictionary, where the audience more or less mute; and dumb, from the forest-child's perspective.
+"Mouth? Beak?", Grav tried to help, in this elite-level version of Pictionary, where the audience is more or less dumb, at least from the forest-child's perspective.
 
 "Is that a tail? Egg?"
 
 "Lizard bird?", asked Grav.
 
-"I'm pretty sure he is saying lizard-bird something. Egg...could it be eating for two and therefore especially hungry?"
+"I'm pretty sure he is saying lizard-bird something. Egg...could it be eating for two and therefore especially hungry?", asked Gog to Grav, but while making intense eye contact with the forest-child.
 
-His feedback from the toddler was a shrug. Grav made a "big eat-y beak" gesture with his two outstretched arms, perhaps with fingers playing the roll of some hooked teeth at the ends.
+His feedback from the toddler was a shrug. Grav made a "big eat-y beak" gesture with his two outstretched arms, perhaps with fingers playing the roll of some hooked teeth at the tips.
 
-The toddler's eyes made saucers. He pointed at Grav and jumped rapidly with bent knees, his torso more or less stationary, as one would at the height of a Pictionary nail-biter.
+The toddler's eyes made saucers. He pointed at Grav and jumped rapidly with bent knees, his torso more or less stationary, as one might at the height of a Pictionary nail-biter.
 
-Lizard-bird could and would kill men. There was no scooping up in the beak and swallowing whole. No, that would be a better fate. Someone from their and others' childhood shared-experience had was very impactful in their respect for lizard-bird.
+Lizard-bird could and would kill men. There was no scooping up in the beak and swallowing whole. No, that would be a better fate. Someone from theirs and others' childhood shared-experience was quite impactful in their respect for lizard-bird.
 
-** Caveman Thag
+* Caveman Thag
 
 One rare survivor, beginning generations ago and up to the present day[fn:: Thag was 67 years old at the time. That was astonishingly old for a caveman. Thag was cared for at first only by a loving and tight-knit, but heartbroken family. As his fame grew, his circle of caretakers grew wider. Thag himself was only just barely able to speak in a comprehensible manor, even if only slowly, close up and in person. He could make a word here and there. Crecspeak had an incredible number of words composed of only unvoiced consonants and clicks. Choosing his words with skill allowed him to communicate further. Of course there was a growing vocabulary of signs, but it was all so frustratingly limited. As such, Thag felt in a few cases that he was being growingly surrounded by people who didn't always go to a lot of trouble to /fully/ understand what he was trying to say.] would enthusiastically, and quite regularly share his story just for the greater good of the Forest[fn:: But most especially for the cavechildren.].
 
@@ -375,17 +372,7 @@ My purpose in life is to protect children from danger, and because this burden w
 "**/Stay Low to Mud!!/**"
 
 #+begin_quote
-Don't forget to pick up your free toys and ask as many questions you like of our volunteers!!
+Kids, don't forget to pick up your free toys and ask as many questions you like of our volunteers!!
+
+Thag made his most enthusiastic wave goodbye. His one arm being a disproportionate part of his body's mass, when compared to most, he almost made a flippy-flop with both the upper and lower halves, all the while grinning ghoulishly.
 #+end_quote
-
-* __dummy2__
-
-xxx xxx actually actually /after/ the Mr. Thag stuff. And....action!
-
-This was part of the life-long education the Men had about lizard-birds. The woods were safe, and yet they weren't. They were also the only reasonable choice.
-
-Off the trails and off the plains meant /in the woods/ adjacent to Snare Plains, a place where rich biome met rich biome and all kinds of killing went on. It was, in literal terms, "between the plains and the woods"[fn:: Which of course is the Crec expression that means 'between a rock and a hard place'.] This was a phrase that was bandied about, but it was no joke to be in there any more than is, say to be caught in /the undertow/.
-
-And yet there they were. The forest-child was in-the-know about such things. There was no doubt. Lizard-bird aren't /everywhere/ in Crec. Given plenty of other factors, it took several hundred square miles to support just one. So they are rare, territorial, and deadly deadly. You might think in terms of the lizard-bird being to the Crec what great white sharks are to modern humans, supposing of course that modern humans spend all their time swimming at the beach. Their sky-trolling sharks were a lot less hypothetical. You were always right on the shore of the sky, unavoidably.
-
-xxx yyy
