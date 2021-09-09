@@ -163,7 +163,7 @@ He would scare kids straight about lizard-bird awareness.
 The voice of Thag began:
 
 #+begin_quote
-Kids, as you know, my name is Thagalonious Son of Reginald, but you kids know me as Caveman Thag!
+Kids, as you know, my name is Thagalonious Son of Reganold, but you kids know me as Caveman Thag!
 
 And I am so happy to be here. I want to tell you kids about how to be safe, and what to look out for when being lizard-bird-aware!
 #+end_quote
