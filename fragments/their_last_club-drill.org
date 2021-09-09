@@ -2,7 +2,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../index.css" />
 #+OPTIONS: num:nil
 
-Club-drill was excruciating to the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and criticized by the ignorant and linear thinkers that were inevitably the "top bronze"; often criticized for doing exactly what you were told to do.
+Club-drill was excruciating to the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and being criticized by the ignorant and linear thinkers that were inevitably the "top bronze"; often criticized for doing exactly what you were told to do.
 
 Another concept they wouldn't be able to explain or even be aware exists was "selection bias". It's a subtle idea. It would be a while before that idea got identified and tagged.
 
