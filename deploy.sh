@@ -8,6 +8,8 @@ for ORG_FILE in *.org */*.org ; do
     emacs "$ORG_FILE" --batch -f org-html-export-to-html --kill >/dev/null 2>&1
 done
 
+echo "Done exporting html."
+
 rsync -xa * pu:"$REMOTE_DIR"/
 
 echo "Web server updated."
