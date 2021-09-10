@@ -49,6 +49,7 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Notes
 
+- Seems like if G&G are going /to/ the camp from BZ, it would be reasonable to assume that Verk came /from/ that direction in Ch01. So, do G&G not go through monkey pass?
 - Snogny-Dodk copy protection:
   - Some scheme has a laughable workaround
   - He works on getting "the authorities" to prevent "theft"
