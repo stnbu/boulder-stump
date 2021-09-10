@@ -116,6 +116,7 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Ephemeral Notes
 
+- Could/should Verk meet up with G&G on their travels to/from clubbing?
 - Some places to keep up with:
   - J'anz-Caves: Where Thag was walking FROM
   - Hummingbird Pass the road Thag was traveling along, kind of a Balrag border-road.
