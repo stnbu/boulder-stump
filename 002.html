@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-09-10 Fri 07:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>A Miraculous Find</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Michael Burr" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="index.css" />
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">A Miraculous Find</h1>
+<p>
+Plans for the next morning, included: Wander around in the woods with Gog. Gog and Grav were cousins. Pretty much the same age, much-little.
+</p>
+
+<p>
+Grav and Gog had been same-cousins<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> and highest-friends for their whole lives. They'd been living together in Bhorv Zolk for about half of that time, off and on throughout their lives.
+</p>
+
+<p>
+They had the same instinct for benefit-crazy-think, a term that means, "To benefit from free and open thinking and doing." In other words, to experiment. Importantly, this was a word of <i>theirs</i>. The Crec almost universally would never buy the "benefit" part.
+</p>
+
+<p>
+Both realized, through their endless talking about ideas, that if you explore the idea places that no one else will because they are lazy or superstitious, you will more easily find value-stones<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup> of ideas that, because they were original, unexplored, and sometimes striking in their unusualness, were more profitable than average.
+</p>
+
+<p>
+Grav and Gog were no longer children. Their minds had sort of overlapped, after years of complex communication. There was nothing supernatural or exceptional about this. It happens all the time, and they were just a slightly higher-functioning example. They, together, had some pretty amazing ideas. Some would call this relationship a "friendship".
+</p>
+
+<p>
+Grav and Gog <i>were</i> friends. They were also accomplished gentleman philosophers. The advantage they could have had over people was immense, but they used their powers for good. They wanted to have fun and wanted for everyone else to have fun. Like many good people, they saw a spoil-sport as a kind of project for them to undertake; someone who needed some loosening up, or possibly someone who just needed to have a good cry, which they were always willing and able to help bring forth, with purity of heart.
+</p>
+
+<p>
+Not everyone was of this mind. Verk was staying in the burrow just two down from Grav, and inevitably they would run into each other. Often this was in the relief-burrow, as had happened the night before.
+</p>
+
+<p>
+The relief-burrow was positioned and shaped for optimal sound-deadening, for reasons that would utterly relate to modern readers. It was shaped, looking top-down, something like a daisy; scalloped around the perimeter so that sound would naturally dampen. The walls were also gently bowed outward from top-to-bottom. It offered the predictable visibility and view-ability characteristics of a large, circular room, but didn't have the <i>acoustical</i> characteristics of a large, circular room. Get it?
+</p>
+
+<p>
+There was a constant, rather soothing, gurgle and plash of water. Although minimal and somewhat temperamental, the cave system had a small number of spring-fed water works. The relief-burrow was by a wide margin the biggest consumer of water. The Crav thought it all pretty clever and eminently maintainable: The circular room had a slight, very inconspicuously conical floor that was highest at the center and had a "one part down for each one half of one boulder-door parts over<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>" grade; enough to keep the entire room's floor (8 man diameter) covered in a sheet of two bowstring-finger-knuckle deep, rapidly moving water<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> from the center, where an immense gurgling pot of cold water overflowed continuously.
+</p>
+
+<p>
+This was enough to create two small semicircular rivers from the entrance side of the room, around each half-circle of gutter, to the opposite side, closest to the hill's exterior, for the whole circular gutter was slightly tilted in this way. Once the water met the far side of the room (Where Grav noticed some mesmerizing patterns made by the two "rivers" colliding head-on.), it finally exited the room through a few arm-sized holes heading down what everyone always though of as "the back of the mountain".
+</p>
+
+<p>
+This arrangement both took all your business briskly away, but it also thoroughly washed your feet, which were likely to be entirely black upon entering. Most Crec made it past the center of the room on their way out to wash their hands, always nearest the center.
+</p>
+
+<p>
+In addition to this, there was a snaking entranceway into the relief-burrow that had two intentional characteristics: As the other end of this passage was facing the opening of the cave system to receive the most sunlight this would make the relief-cave more well-lit (as the walls, floor and ceiling of this passage were polished) but it would also catch the eye when someone was making their way into the burrow. It also had a couple of switchbacks, so the passage could be made longer and prevent a direct view into the burrow, for the Crec were not shy about pooping together, but they did think of the relief-burrow as unclean; a kind of topic and thing that should be kept hidden, but without overdoing it.
+</p>
+
+<p>
+Yes, carving out an enormous room did take years. It would take a single person several lifetimes. But there were many hands to help and enough demand to make it a "not-think-thought". It took centuries of struggle and countless lives for the Crec and surrounding Forest to brute-force this kind of sophistication. It was a matter of survival. In a way, all of this was driven by the love of children. A humble Crec of note once remarked, "If we have gone further than others, it is because we are standing on a pile of bodies."
+</p>
+
+<p>
+The Crec had the kind of sophistication and coordination abilities that you might find in a rather-out-of-the-way, mid-sized bronze age settlement thousands of kilometers from Babylon. The Crec Forest may have indeed been just that exactly. They would not be able to offer much more than speculation themselves. It's plausible. Either way, these things vary over distance as well as time. They were just doing them, and were not <i>all</i> morons. There's a whole bunch you don't know about the "archeological record".
+</p>
+
+<p>
+<i>A</i> point to all of this is that the relief-burrow, given the right level of vigilance, could be thought of as reasonably suited for private conversations.
+</p>
+
+<p>
+And as the day before, Verk and Grav found themselves in such a "conversation" this morning. But this time, there were no ears to witness. Both men were noted early-risers. And both men were practiced at judiciously using the relief-borrow for "clay-talk".
+</p>
+
+<p>
+Verk had, what for Grav was a very unsettling characteristic as a person: He was a complete prolapsed-bison-rectum whenever he and Grav talked in truly private circumstances. He would be a slapper of shoulders and grinner of grins in more-or-less public circumstances. He seemed to be spending his life pretending to run for Elders-Quarum. As for his public behavior, something very close to that would be the only reasonable assumption for a neutral observer: <i>This person appears to be trying to sell his persona actively to people for some gain</i>, a very articulate and objective caveperson would say. And if he just shuts that off completely and becomes a different, increasingly nasty person in his presence&#x2026; Grav was just not quite sure what to do with that.
+</p>
+
+<p>
+Verk automatically smiled broadly at Grav as he walked into the otherwise empty relief-burrow to see Grav urinating with his back to the entrance. Grav therefore did not see this smile, though he knew someone was there.
+</p>
+
+<p>
+"Grav, what is the good grunt?!", Verk said sharply, causing Grav's head to jerk around a bit too far.
+</p>
+
+<p>
+"Good morning Father-Brother Verk. Father-Brother Verk, I was genuinely taken aback by our words from yesterday. I <i>do</i> feel the way you do about our Forest. I know&#x2026;about all that stuff. trust me. I will <i>never</i> forget. My feelings <i>also</i> are quite strong.
+</p>
+
+<p>
+What have I done? Please, believe me; my conscience is free and I want to learn from you."
+</p>
+
+<p>
+"Your conscience is free, huh? No, I want you to think on it. That's what you need. Verk stared with noticeable anger still. Nice of you to at least notice I'm put-out with you. Your lot forgotten a lot more than you think you know."
+</p>
+
+<p>
+While trying to decipher that, Grav was sure at least some kind of helpful hint was to follow. It seemed to break the very rules of caveperson communication to just leave things hanging like this. He raised his eyebrows in a careful effort to relay this observation, gave up, closed his eyes and did his best at a 'reset', so he could think.
+</p>
+
+<p>
+It often seemed that Verk could make it harder for him to do this, as if he had some <i>power</i> that made you instinctively 'squirm' in a mental sense, as opposed to 'gather your thoughts and give a meaningful, honest response'. <i>It was as much Verk himself as it was that people had allowed Verk to</i> become <i>this way</i>, Grav guessed.
+</p>
+
+<p>
+"Yes, Father-Brother Verk. I will. Please forgive me. It is a large stone you put upon me. As you say, I will likely learn more if I do some discovery myself. That way I will remember stronger, as it is surely a grave misstep."
+</p>
+
+<p>
+Verk made a hissing sound that Grav couldn't categorize for meaning, as he could not comfortably turn to look at Verk.
+</p>
+
+<p>
+"What are you doing today?", asked Verk, still not <i>using</i> the relief-burrow, but now standing where Grav could comfortably look at him. Now facial expressions could be used to hopefully glean more meaning from inscrutable Verk.
+</p>
+
+<p>
+"Oh!" Grav was both excited to share some news and thankful for the change of topic. "Father-Brother Verk, Gog and I&#x2026;"
+</p>
+
+<p>
+Verk hissed again but Grav now could see that he was huffing with contempt, with an oddly abbreviated roll of the eyes.
+</p>
+
+<p>
+"Gog, huh? You two copulating-monkey boys going deep into the woods today?", Verk made a complex dance of facial expressions and other gestures that Grav could not decipher, other than to note that maybe there was now glee. "Stay away from the bachelor-tree, you two." Verk made a sour, disdainful face. Grav thought that he could interpret this as an invitation to "yuck it up" with another man using banana-humor. He knew well that that was not the case here. So he responded with indignation, as he knew he should.
+</p>
+
+<p>
+"Father-Brother Verk! I would never! Please, there could be a quiet-one nearing in the entrance."
+</p>
+
+<p>
+"We both know there is not.", Verk said with his arms crossed.
+</p>
+
+<p>
+"What are you and Gog up to? Hopefully something constructive."
+</p>
+
+<p>
+"Yes, I think so, Father-brother Verk. We are going to find more value-stone where we have been for several moons. We have quite an infrastructure there. We think there is a vein of them following the river, but we didn't have time to look around much last time."
+</p>
+
+<p>
+"Get some strenuous work in while you're at it. If you bring me a value-stone agreed by all to be worth three deer carcass I will let you out of this upcoming club-drill. You probably want to frolic in the woods."
+</p>
+
+<p>
+"Father-Brother Verk, I will do <i>both</i>! I will bring you such a stone and I will excel at the next club-drill with the spirit of the Forest strong in me!"
+</p>
+
+<p>
+"Yeah." is all Verk said.
+</p>
+
+<p>
+He turned on his heels and said to Grav while leaving, "Keep your entrails on the inside."
+</p>
+
+<p>
+The click of his hyena spurs<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> faded down the entranceway.
+</p>
+
+<p>
+'I didn't believe an After-Die-Monster scat-pile of that!!', thought Grav, with fury building inside him. 'I just go into dying-monkey mode<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup> and simply say the things I'm <i>supposed</i> to say!', and with that Grav added a twinge of shame to the mix of feelings.
+</p>
+
+<p>
+'Why', Grav wondered, 'do I <i>do</i> that?' And whatever he did or said when in that state was pretty much what you would expect a respectable caveperson to do. He thought, 'It works both ways. I <i>seem</i> to be thinking something because, unless I am putting on an act, to the outside person, I look like I really mean them. How do I know that's not exactly what <i>everybody else</i> is doing?'
+</p>
+
+<p>
+It was a dizzying thought. 'Maybe others <i>also</i> do and say as I do in those situations.' This occurred to him along with another thought that was surely worth scratching: 'The inner caveperson in another caveperson, was just like my inner caveperson. I am not special. Others are not just <i>things</i> for me to use. I cannot know if there really is someone in there! I will never know, but life goes better if I assume there is another "me" behind other's eyes. And maybe even a friend', Grav felt an odd cringe at that last part that he didn't understand.
+</p>
+
+<p>
+Grav and Gog were to be at The Helpful Monkey River-Join by three palm from dawn. Grav sprinted into the clearing with spear and atlatl strapped to his back in not-ready form, and smoothly slowed to a trot. They were only carried for opportunistic hunting. This was another predict-tool of theirs. The prediction was: You could do hunting almost as effectively as you normally do, while doing something completely unrelated that involved walking through the woods. "A Forest Wanderer Never Hunts", was a saying they thought worth wide adoption. For most cavemen hunting was an "activity" and the rest of the time was to be used doing nothing, showing off, or fighting with your neighbors.
+</p>
+
+<p>
+Gog was there, clearly lost in thought but aware of Grav's arrival.
+</p>
+
+<p>
+In each hand, Grav was carrying a large hemp basket, heavy with the best mining equipment they could conjure.
+</p>
+
+<p>
+As Grav approached the glade at the very crook of the confluence<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup>. Taking <i>the short way</i> Grav had to stop and repair the twist-vine bridge crossing The Great Meal Stone's last angry-cauldron, which delayed him a half-palm.
+</p>
+
+<p>
+Gog watched expressionless as Grav approached.
+</p>
+
+<p>
+Grav knew from experience that one had to pretty much shout over the thunder of the cascades. The Great Meal Stone came from the northwest and The Lame Rhino came from the northeast. They converged dramatically to form the Helpful Monkey, both picking up speed and rage from the steepening, rocky surroundings.
+</p>
+
+<p>
+All this angry water out of place created a truly odd and kind of magical Forest-shaking, low rumble that was something like an earthquake that has been ongoing for thousands of years. The dirt doesn't mind. It just gets shaken about. And it turns out plants didn't mind it either, or as many suspect, were just a bit more productive because of the light massage. The occasional tree here and there didn't move visibly, but a hand on the trunk would bring your mind back to the power around you. Trees, and rocks and whatever else hummed harmonically, which added some color to the sea of white noise in the area.
+</p>
+
+<p>
+Gog had once put a straight, stiff stick hard against a boulder near one of the more dramatic cascades. Putting his ear up to the other end, he could definitely hear an <i>audible</i> hum that was clear and distinct from the surrounding tempest of noise.
+</p>
+
+<p>
+Grav handed the heavier of the baskets to Gog. He shouted, "Whatever we do, let's get the scat upstream!"
+</p>
+
+<p>
+Gog nodded, turned, and led the way.
+</p>
+
+<p>
+The practiced, efficient jog an experienced Forest-man slipped into while following an established path, especially one that follows a river, became hypnotic in a way that Grav loved. The noisy, often unhelpful part of your mind had no choice but to keep making plans and rapidly solve unending puzzles to optimize one's next steps, which your legs had to perform with a perfect, unbroken rhythm, and sureness.
+</p>
+
+<p>
+This also had to be done in time with a rhythm that maximized your breathing and even your heartbeat's efficiency; a serious constraint, if you were a long-term thinker. Exhale on down-stride when possible, especially if you think your heart needs a good squeeze; inhale on the rebound, when your torso unwinds itself like a spring, guided by the big breathing muscles to fill your lungs with air.
+</p>
+
+<p>
+The top of your vision saw the upcoming terrain, which you keep scanning for possible complications. In the lower, nearer part of your vision, you make fine adjustments to your macro plans, given new information: This rock has wet moss. That footfall has deer scat that we mustn't stir up<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup>. That limb will break if I land this stride on it. And of course there was the built-in constraint of trying to make as little noise as possible, and to not step on anything spiny and deadly, and to continue making no noise even if you do, which added to the immersive challenge that often helped one to think more clearly. So Grav thought at least.
+</p>
+
+<p>
+This, he discovered, was a cultivatable state: Get into the groove right away and you'll have a pleasant ride as a passenger in your own body. Your mind is now free to wander about the Forest.
+</p>
+
+<p>
+Gog felt the same way. For them, even more than most elite Hunters, traveling through the forest was fast, reliably breezy, pleasant, and just no big deal. It was a kind of lounging for them. It could be done for hours on end with few breaks (which were their own treat), possibly bringing you to a part of the Forest that, despite being a well-traveled caveman of late-age<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>, you had never seen before. And there were landscapes that even these people, however traveled of the infinite, abundant Forest, would stop stunned to gaze at for lengths of time, mouth agape.
+</p>
+
+<p>
+This meditation and thinking went on for both men for a little over a palm as they flexed and honed their fundamental survival systems, both muscle and mind. It was surprisingly pleasant to be so wasteful of energy, Grav often thought.
+</p>
+
+<p>
+Their usual first stop on this route was a small falls near The Great Crocodile lake, a semicircular lake near a bend in The Lame Rhino. Standing on a high stone on the upper bank, you could see about half of the lake; the far, rounded shore. It got its name from a five-man-long, angry bull<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup> crocodile that would not bother with you so long as you didn't get within a quarter mile of <i>its</i> lake.
+</p>
+
+<p>
+The croc died in the men's youth, but they both remember having to take the shortcut across the adjacent bend in the river, and being lectured by their parents all the while about exactly what the situation was and exactly what the stakes were. Parents knew how and when to scare their children dumb, to great effect. Crec parents were otherwise reputed to be very loving toward their children. Mostly. It was considered a "daring" thing to follow the river here until just about all-finger year ago.
+</p>
+
+<p>
+In the comparative quiet, with the nearby cascade only a gurgle, Gog turned to Grav.
+</p>
+
+<p>
+"So, I was thinking. These veins run in parallel, probably. I mean, I've seen that in lots of places with regular rock. And the vein goes from within the earth, upwards, which is <i>also</i> where you see the parallel veins in regular rock. A vein of reflect-stone<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup> often has a parallel twin a man or two away, to one side or the other. And most value-stone grow in neat patterns, just like reflect-stone.
+</p>
+
+<p>
+Since we know that the river has eroded much of one side, snaking in and out; it pretty much parallels our first 'vein'<sup><a id="fnr.12" class="footref" href="#fn.12">12</a></sup>, I'm thinking lets concentrate on upstream where it cuts in and out of a vein that might have been there."
+</p>
+
+<p>
+"Yup. Sounds good.", is all Grav said in response, having had the same hunch. "But wait, what about the sluice?"
+</p>
+
+<p>
+"We will <i>chain multiple</i> sluices if necessary, or make another if that's easier."
+</p>
+
+<p>
+"Yaah. Good enough, I guess.", said Grav.
+</p>
+
+<p>
+Grav was quite for a bit and then spoke. "Gog?"
+</p>
+
+<p>
+"Yu-huh?"
+</p>
+
+<p>
+"How do you feel about Father-Brother Verk?"
+</p>
+
+<p>
+Gog didn't react but continued to stare at a falls. He spoke softly at first.
+</p>
+
+<p>
+"Why?"
+</p>
+
+<p>
+"I don't know. Does he seem different to you when you're alone with him than he is otherwise? You know, among the people?"
+</p>
+
+<p>
+"Mmm", Gog's eyes squinted slightly.
+</p>
+
+<p>
+"I haven't been alone with him much. I mostly just try to avoid that possibility, honestly. I kind of get the feeling that he needs to throw some rocks<sup><a id="fnr.13" class="footref" href="#fn.13">13</a></sup> <i>at</i> people a lot of the time and I feel like, whoever's job it is to put up with, it has got to be a lot of 'work', if you know what I mean.
+</p>
+
+<p>
+Lots of making sure everything's going according to 'plan', but the plan also seems to change over time. Lots of getting into your business if he feels you've got a job to do for him. It looks like he likes to really let lose and let folks know not to cross him."
+</p>
+
+<p>
+Grav interjected, "Don't you feel like that could have some push-back? Treating people that way? I mean, he and everyone else knows that he's way up there and above criticism. After a while of that I think a caveman could stop seeing his own faults."
+</p>
+
+<p>
+"Heh. Yeah, I have definitely seen that effect in play with some people. It exists like rocks<sup><a id="fnr.14" class="footref" href="#fn.14">14</a></sup>. And I don't think you're way off the mark.", agreed Gog.
+</p>
+
+<p>
+"And also," Grav expanded on his unoriginal theory. "wouldn't that kind of thing feed back on itself, rapidly?
+</p>
+
+<p>
+If you've driven those away who, on occasion, just <i>reasonably</i> object to whatever urgent thing they're being lectured on, what's left over are a particular kind of caveperson. Kind of the last-part I'll call it. Or no, the 'tail', like what you see disappearing into the bush when you've scared off a big lizard. There's a part that hangs around a bit longer. The 'tail'. Father-Brother Verk's tail of hangers-on are desperate for his approval. They will silently undergo <i>even worse</i> mistreatment by him<sup><a id="fnr.15" class="footref" href="#fn.15">15</a></sup> which in turn means that mistreatment can <i>expand</i> and meet the new allowance, and so a person's<sup><a id="fnr.16" class="footref" href="#fn.16">16</a></sup> behavior can get <i>more</i> extreme, which scares those around even more, making them willing to just let any kind of behavior go; pretend it didn't happen. Do whatever, just don't get 'kicked out', you know what I mean? Rather simple people, usually.
+</p>
+
+<p>
+Cult of Verk has a long tail." He said without thinking.
+</p>
+
+<p>
+Simultaneously, both shot a look at the other; each noticing an air of shock. Having gotten lost in the indignation he felt welling up, his speech was in sick-monkey mode. He had stopped suddenly with his mouth still slightly open.
+</p>
+
+<p>
+Grav continued, with patience. "Father-Brother Verk was a bit on the abusive side with me this morning. And earlier."
+</p>
+
+<p>
+Gog made a pouty lower lip face at him. He pantomimed a child about to cry, with a quivering face.
+</p>
+
+<p>
+Grav felt like they were nearing a point where they both just wanted to drop the prefixes and the pretense. Their many heretical conversations had a rhythm they both knew well: Adjust loudness based upon scandalousness, try to use a lot of mutually-understandable wrapper language, even when no one is around (and no one <i>should</i> be), and speak the polite deferential, pious parts just above normal conversational volume.
+</p>
+
+<p>
+"Uh-huh. Don't act like you haven't been there. Being shunned by The Great Bear<sup><a id="fnr.17" class="footref" href="#fn.17">17</a></sup> on the one hand is just dew off the leaf, but on the other hand&#x2026;"
+</p>
+
+<p>
+Grav paused and stared into the distance, slowly squinting his eyes with some kind of mental strain.
+</p>
+
+<p>
+"Figuring out where you are supposed to be in the clubbing-order<sup><a id="fnr.18" class="footref" href="#fn.18">18</a></sup> is a lifelong task. I think so. I've only just now come to accept that the disorienting feeling of not knowing for sure and always being in great doubt about it is a permanent feature of one's reflect-soul. Just dumbly accepting that fact helps and helps you get on with more important things.
+</p>
+
+<p>
+But this is new to me. Having it seem like a clan member is turning on you with little explanation is like a kind of this-world<sup><a id="fnr.19" class="footref" href="#fn.19">19</a></sup> destabilizer. You've known and understood <i>this</i> part of the clubbing-order all your life: Verk is great. If you're in with Verk you are snug and happy, like being beside a warm fire just after dawn with a cold drizzling rain outside. You know that you're safe in your part of the tribe. It's a safe-with-many<sup><a id="fnr.20" class="footref" href="#fn.20">20</a></sup> feeling that helps you to relax and have clear thoughts. And just be happier.
+</p>
+
+<p>
+That's all you've known and it's not even something you think about.
+</p>
+
+<p>
+And then that is sort of yanked away from you without explanation, or so it seems. Like whipping away someone's sleep-skins while they're snugly and peacefully sleeping on a cold night. 'What is happening?' you want to ask but don't even understand how to ask the question or to whom you should ask.
+</p>
+
+<p>
+Make any sense?", a mentally tired Grav said and sat back, purposefully relaxing, working on his wolf-sleep and listening to Gog's response.
+</p>
+
+<p>
+"I think so.", said Gog. "The whole clan is your close-circle<sup><a id="fnr.21" class="footref" href="#fn.21">21</a></sup>. All of those people deeply admire and revere Father-Brother Verk and if you feel like you're the only one who sees that nasty side of him, it makes you feel like you're going spurned-rhino.
+</p>
+
+<p>
+I've just come to accept: It's there. No big deal. Do your best. Blaze your way through<sup><a id="fnr.22" class="footref" href="#fn.22">22</a></sup> life.
+"
+</p>
+
+<p>
+Grav jumped up, in part because it was time to get going again, but also in part out of surprise. He turned in the air, landing on his feet to face Gog<sup><a id="fnr.23" class="footref" href="#fn.23">23</a></sup>. Gog continued to sit on his rock with his chin on his fist, staring at Grav.
+</p>
+
+<p>
+"That's its own kind of power!", said Grav, <i>feeling</i> the idea more than thinking it.
+</p>
+
+<p>
+"Well, yeah. I guess."
+</p>
+
+<p>
+"No, think: if disagreeing makes you feel <i>bad</i> and then eventually <i>crazy</i> well&#x2026;obviously stop disagreeing<sup><a id="fnr.24" class="footref" href="#fn.24">24</a></sup>."
+</p>
+
+<p>
+"That's true, brother.", said Gog "I don't even think it takes a bad person, necessarily. Under some circumstances, plain old cavemen will mostly react in the same way. It's not entirely the 'fault' of the individual. It's also not entirely the 'fault' of the circumstances. It's a mix. Like when a lizard-bird's egg just <i>happen</i> to fall into a pond full of crocodile hatchlings<sup><a id="fnr.25" class="footref" href="#fn.25">25</a></sup>. That one lizard-bird pretty much has the productivity of a whole pond to himself<sup><a id="fnr.26" class="footref" href="#fn.26">26</a></sup>, neatly packaged up."
+</p>
+
+<p>
+"It's not the fault of either, kind of. It just is.", said Grav
+</p>
+
+<p>
+"Is indeed!", huffed Gog "Let's get there!"
+</p>
+
+<p>
+They were off in an efficient run immediately.
+</p>
+
+<p>
+The place where they would soon arrive was waiting, with its turned up mud and various mining implements. There were what could be called water-works for processing bulk quantities course, rocky earth for something rare and stubborn.
+</p>
+
+<p>
+Gog's helpful contribution, which now looked like a monstrous, tired giraffe leaning over the river as if to drink<sup><a id="fnr.27" class="footref" href="#fn.27">27</a></sup>, was in fact <i>not</i> supposed to be leaning over the river, but no matter. It was a structure that was mostly STRUCTURE. Its long, cantilevered, nearly horizontal span was rather tirelessly engineered, with experiments and all, resulting in a lot of triangles and neatly uniform, arm-thick<sup><a id="fnr.28" class="footref" href="#fn.28">28</a></sup> spans of twist-vine.
+</p>
+
+<p>
+Its justifying feature was a relay of split bamboo culverts that made about a five pinkie-thumb diameter<sup><a id="fnr.29" class="footref" href="#fn.29">29</a></sup> channel for water. Big enough for an all-finger child to use as a kind of water slide, which happened only once. All the splicing work had been done expertly, so it was about as water-tight as a stone channel over a rope bridge, but it could <i>swivel</i>. It was fed by the river starting about one and half of one boulder-door<sup><a id="fnr.30" class="footref" href="#fn.30">30</a></sup>. men upstream.<sup><a id="fnr.31" class="footref" href="#fn.31">31</a></sup>
+</p>
+
+<p>
+The floating-sluice swiveled expertly on a conveniently already extant poplar tree<sup><a id="fnr.32" class="footref" href="#fn.32">32</a></sup> about 10 man high and one and one half man around at the base. It had polished, dense, shiny sections at intervals where the oiled<sup><a id="fnr.33" class="footref" href="#fn.33">33</a></sup> oak bearings burnished the wood. Once worked in, the wood was like smooth, ancient stone. This bit of the rigging would last forever. The sluice itself ran out to a fixed 12 man length and continuously gave a heavy, ongoing, cold, laminar punch into whatever it was hanging over. Left overnight, it would gouge a parabolic hole into the river bed three man deep.
+</p>
+
+<p>
+The poplar had been chosen for its straightness (among other things). With a bit of patience, the sluice could be tuned and squared up such that two men could work it with long pieces of twist-vine, and some heaving.
+</p>
+
+<p>
+It could be shortened at will, down to just over 9 man. Viewed from above, this created a working area in the shape of a three-man wide "ring", with an outside radius of 12 man. There was a one-part-out-of-ten<sup><a id="fnr.34" class="footref" href="#fn.34">34</a></sup> pie slice in the ring where the spillway works fed the sluice.
+</p>
+
+<p>
+This gave the two men and their "concern" a lot of destructive potential from the local ecology's point of view. They had been making good use of it. One might think that you methodically blast away sections of this great ring and patiently sort through what comes up, and it does go this way in some places. In most places, the pounding water would just completely blast away whatever it was slung over. <i>Getting</i> to that stuff without wasting time or missing anything valuable was the trick.
+</p>
+
+<p>
+You could position this blast-zone by swinging the sluice over the un-mined bits slowly, so that it gently (as it were) eats into virgin river bed<sup><a id="fnr.35" class="footref" href="#fn.35">35</a></sup>. The force of the water was such that more than just silt and pebbles got stirred up. Head-sized boulders would swirl merrily along this twisting torus of purposeful erosion.
+</p>
+
+<p>
+"River-Fist", the Workers had named this exciting part of the destruction. 
+</p>
+
+<p>
+Irregular, jagged rocks weighing up to about 30 gourd<sup><a id="fnr.36" class="footref" href="#fn.36">36</a></sup> would be tossed more or less at random by all this mostly toroidal swirl of water.
+</p>
+
+<p>
+The higher a rock ended up on the parabolic cavity made by the River-Fist, the longer it stayed there. Rocks that happen to land toward the bottom of the gouge got knocked around until they were sucked up by the River-Fist again, for another go.
+</p>
+
+<p>
+The highest-up of these rocks, if they passed even the most cursory inspection for potential got fetched by some brave, mostly tethered Workers and were thrown as far from the current work area as possible, usually a particular direction or area that was carefully selected after much consideration.
+</p>
+
+<p>
+These where the "Feelers". The river water, being completely opaque here for obvious reasons, required Feelers to fish around with their feet and stoop, but hopefully not <i>dive</i> down to fetch whatever healthy-sized rock was there and heave it at least <i>towards</i> the prescribed direction.
+</p>
+
+<p>
+This area was often tended by a rather relaxed crew of Soon-Leave to ensure, depending on circumstances, that the newly-mined rocks did not fall into the river or otherwise go missing. They might maintain a berm to check the rocks and boulders at risk of falling back in, depending on circumstances, or sometimes help with the heaving of an especially stubborn rock. A lot of what the Soon-Leave did depended on "circumstances".
+</p>
+
+<p>
+Everybody was naked, boys and baby-makers, and covered entirely in smooth, rich clay. It had the look of a troupe of especially smart, uniformly brown monkeys working intently on some vast, seemingly pointless project.
+</p>
+
+<p>
+They hadn't had the Feelers until about three-part-of-four moons<sup><a id="fnr.37" class="footref" href="#fn.37">37</a></sup> ago. Inevitably some Worker's child would be flailing around in the already-worked areas and helpfully point out a healthy sized rock that deserved examination. And, quite rarely, but not never did this turn out to be a real value-stone of a value-stone. Before, they had only been collecting stones small enough to fetch as the were cast up near the surface and there had been general sorting and sifting of the surrounding, more convenient work areas. Having learned that some of the massive rocks were worth their while, a new career track had been born.
+</p>
+
+<p>
+This was all a lot of work, in case you hadn't guessed.
+</p>
+
+<p>
+Downstream of the Feelers were, with the size and age of the caveperson descending as we go downstream, were a squirrel-hoard of Feeler-Lookers<sup><a id="fnr.38" class="footref" href="#fn.38">38</a></sup>, who of course had to both feel and look for any rock, according to guidelines regularly communicated, drilled upon, and featured in the mandatory training skit, where nervous new-hires would sit uncomfortably, watching the Worker Onboarding Troupe explain the criteria by which they were to identify and handle potential value-stone. And they were many<sup><a id="fnr.39" class="footref" href="#fn.39">39</a></sup>.
+</p>
+
+<p>
+Downstream of the Feeler-Lookers were, of course, the Lookers. These were the youngest and the smallest, safe in the broad, shallow, and now comparatively gentle Lame Rhino. To the extent possible, Gog<sup><a id="fnr.40" class="footref" href="#fn.40">40</a></sup> would only hire the more clever children for this role. It was easy physically, but it was important and so needed to be done right; to the extent possible.
+</p>
+
+<p>
+The Lookers' job was to look for anything of value at all, but especially try to <i>accurately</i> discover evidence that the sluice was encountering value-butter<sup><a id="fnr.41" class="footref" href="#fn.41">41</a></sup>. A river like The Lame Rhino always had flakes of mica and pyrite<sup><a id="fnr.42" class="footref" href="#fn.42">42</a></sup> and these had to be distinguished from value-butter. If even a only flake or two was seen and confidently identified (Gog was always working on an accurate read of 'confident' with these most unsophisticated Workers. It was an ongoing dance.) a number of things were to happen with purposefulness and promptness.
+</p>
+
+<p>
+First, the river was diverted to a degree, depending on urgency, second the sluice was stopped.
+</p>
+
+<p>
+They were trained to not only use the special resources and keen vision that they as cavechildren naturally had, they also were trained to use two polished obsidian mirrors<sup><a id="fnr.43" class="footref" href="#fn.43">43</a></sup>, one in each hand, to scan the now clearing water, using an extra couple of doses of sunlight. With practice, the beams could be crossed under water to make a sort of ball of intense light that they could deftly control. Most fell into a rhythm; and just zig-zagged across the river looking intently. A prize, whose value seemed to always to be just more than the one before, was granted to the first child to halt the works for the discovery of any significant quantity of value-butter.
+</p>
+
+<p>
+The sluice was "disarmed", as they termed it, first by a shout to the spillway Unit-Leader, high up on the platform built around the poplar to service this bit of the works.
+</p>
+
+<p>
+The Unit-Leader would then turn, nod to his subordinate Workers, and unfold his arms to make a vague "get on with it" gesture. The Workers would place a smartly shaped rock called a "boar" in the spillway feeding the sluice and the incoming water, moving at about two man per drop-stone, would hit this specially shaped stone, causing it to create a great "fan" of water, mostly in the vertical direction but slightly off-center. Modern readers who have seen a snow plow will have a good mental starting point.
+</p>
+
+<p>
+By the time the water came back down to the level of the spill way, after shooting up (mostly) it was about as destructive as a thrice-in-life very heavy rain. By the time it got down to the great pylons supporting the raised spillway, it was pretty much like a five-year strong afternoon summertime sky-draining. The youngest and least employed played wildly under the heavy, cold shower. Small-ones<sup><a id="fnr.44" class="footref" href="#fn.44">44</a></sup> usually outnumbered the older, working people. Some of them were there with mother or father. Some of them just showed up, and sometimes even spoke fluently in an unknown tongue, and no other. In the latter case, they would usually disappear after all-finger day or so, but the stock would replenish. They were pretty mysterious and impish, thought most of the Crec. <i>But children are children</i>, they thought.
+</p>
+
+<p>
+Today however, it was 'quiet', as the mine goes. The sluice, while destructive, made no more noise than the surrounding river system. The sluice continued to unload its column of vast weight into the cold river.
+</p>
+
+<p>
+Grav had decided, and Gog had not objected, to leave the sluice running while the site was unattended. This would keep the wood wet, and not cause undue wear to the spillway trestle work that surely will add up one day, given enough overuse of the boar. This required someone to remember to stop the advance of the sluice at about one palm from quitting time and let the various lookers and feelers do their work, with increasingly less excitement, until there was enough agreement that nothing more was going to be stirred up. If they were in a hurry (everyone had a schedule) they might back up the sluice instead. This practice vaguely irked the two men.
+</p>
+
+<p>
+Grav and Gog made it into the first clearing of the site, stopping from what had become a near sprint; the obstacles to forward progress haven gotten scarce in the last boulder-door men<sup><a id="fnr.45" class="footref" href="#fn.45">45</a></sup>. They were winded but not yet out of breath.
+</p>
+
+<p>
+Panting, Gog said, "Let's put in a short day, eh? We'll sit in our office<sup><a id="fnr.46" class="footref" href="#fn.46">46</a></sup> and plan a bit more."
+</p>
+
+<p>
+"Well, let's get there first so I can both sit down and also hear myself think, if for no other reason." Grav complained a lot about distractions (what other people called "noise".)
+</p>
+
+<p>
+The two men headed down a path that most expediently took them to an area that is 1) far from the river and 2) dense with lush, pleasant jungle. Their office was a clearing in such a place, and given the possibly overly enthusiastic effort by both to find the densest jungle, the office had a roof! The jungle was more 'carved' here, in three dimensions.
+</p>
+
+<p>
+After knocking out a lot of growth they were pleased to find that they had a dappling of sunlight for most of the day provided by a mesh above of healthy<sup><a id="fnr.47" class="footref" href="#fn.47">47</a></sup> variegated, fat, yellow-green leaves sprouting from a cobweb of very determined vine whose corresponding anchoring to the ground was hopelessly undeterminable. It was like a fabric woven of living vine, truly.
+</p>
+
+<p>
+Not telling Gog, Grav would occasionally find an interesting stem to clip near the ground just to admire the unpredictable lightning bolt path the murdered vine would trace out along the walls and ceiling after shriveling and browning for a few days. Gog was irked, Grav got some fun out of it. The vines would more than grow back either way.
+</p>
+
+<p>
+Gog eventually got determined and after a lot of spying eventually found a cleanly snipped vine near the ground, one or two man into the thick web of vine at the base of a wall, which is a trick to do if your goal is to not kill anything else. Gog was still considering what to do with this evidence.
+</p>
+
+<p>
+Grav took to his ham-stone and propped his bare, black feet up on the sand-draw table, that had various important-looking writings on it that each man simply assumed was important, written by the other, and therefor not subject to erasure.
+</p>
+
+<p>
+"Oh, I forgot to mention. Father-Brother Verk said that if I found a three deer carcass value-stone, I could skip club-drill.
+</p>
+
+<p>
+He looked at his left nipple, wrinkling his chin with his determination to get a better look. Gog looked back without being seen.
+</p>
+
+<p>
+"I, uh, said I'd bring him such a stone and <i>also</i> attend drill."
+</p>
+
+<p>
+"You fallen-goat! Why the cursed After-Die-World would not just say nothing at all and just <i>nod</i>? Child. Do you realize that you immediately took away literally all of your bargaining power in a drop-stone and now you literally have to do exactly that? I mean, <i>both</i> the definitely achievable goal of showing up, <b><b>and</b></b> finding such a value-stone, which I would imagine I'm going to have to help you with? You prolapsed-rectum!
+</p>
+
+<p>
+Why in the goat-sack would you do that? You&#x2026; Thanks, brother. A squirrel-horde<sup><a id="fnr.48" class="footref" href="#fn.48">48</a></sup>."
+</p>
+
+<p>
+"Let's get to work", Grav said.
+</p>
+
+<p>
+Gog threw a rotted gourd and squarely struck Grav in the back of the head as he walked away. Grav stopped.
+</p>
+
+<p>
+Gog was making the hedonistic honk-and-wheeze laugh he makes when the truly funny strikes him. Grav angrily thought about having a talk with the cleaning crew.
+</p>
+
+<p>
+"I'm sorry brother! I didn't know that it was both thoroughly rotten and <i>hard</i>. We should figure out how to <i>make those</i>!!"
+</p>
+
+<p>
+Since both men knew the objective and neither was happy about the circumstances, they got to work, mostly in silence.
+</p>
+
+<p>
+"You could have gotten <i>me</i> out also, you know?", snarled Gog.
+</p>
+
+<p>
+"Oh, you would have stood and negotiated with Verk, huh? Toes to toes?"
+</p>
+
+<p>
+"Uuuuuugh!<sup><a id="fnr.49" class="footref" href="#fn.49">49</a></sup>", Gog moaned. "Of course I see your side of it. It's&#x2026;like we were talking about earlier regarding control and such. It's the <i>could-be-is-not</i><sup><a id="fnr.50" class="footref" href="#fn.50">50</a></sup> aspect of it. In <i>could-be</i> you could have negotiated and promised maybe a better stone. Maybe. I donno. Ender-Of-Questions be <b><b>mounted</b></b>!"
+</p>
+
+<p>
+Grav grinned at his friend's enthusiastic use of all manner banana-words. He could be creative, go way outside the standard rotation, and still somehow communicate exactly the nuances of whatever outrage he was in the middle of experiencing. And it was instinctual, like those intricate, hierarchical drum rhythms used by the Balrag.
+</p>
+
+<p>
+As both men thought of this as "just the first morning's work", they were taking turns diving at the base of the now relatively calm gouge that the floating-sluice had made since the last work day. They had moved the sluice back in order to have a relatively calm work space.
+</p>
+
+<p>
+The sluice would gouge out another half man of depth overnight, depending on conditions, and often enough, something worth examining would be uncovered, sometimes protruding out of the silt like great crocodile eggs<sup><a id="fnr.51" class="footref" href="#fn.51">51</a></sup>. Each man would dive, feel around a bit, emerge take a small break and repeat, for hours as it turned out, because this particular gouge was laden with quite a few frustratingly marginal stones, which, 'marginal' not withstanding, had to be hauled out in order to be examined <i>at all</i>.
+</p>
+
+<p>
+The two men were exhausted and both thinking it was time to move on to other schemes. There were still a few down there and near the center was the one that both had independently discovered, made mental note of, and didn't discuss until now.
+</p>
+
+<p>
+"That one in the middle is especially big.", said Gog.
+</p>
+
+<p>
+"Yeah. That contraption we were thinking on to vine those out could stand to be ready about now. That's bigger than the one that inspired us!", said Grav.
+</p>
+
+<p>
+"Which, you might add, took four of our biggest Feelers, plus us to haul out. We paid Drih an extra one part of all-finger all-finger gourd[fn:: A gourd is <i>approximately</i> one pound of mass&lt;sup&gt;*&lt;/sup&gt;. All of the finger math works out to: 1/1000. So this means "one thousandths of a pound of gold", which works out to 0.016 modern gold ounces. Workers wages were always paid in gold. G&amp;G had to pretty much invent the idea of value in order to pay the Workers, and value-butter (gold) was the least ambiguous thing to use, as almost any other thing they could think of had value that was abstract and negotiable. Paying in value-stone would have been like paying modern workers in fine paintings; yes, they have value, but its hard to know just how much without haggling with each and every Worker on pay day (or pay <i>days</i>, as payment was cleverly staggered.)
+</p>
+
+<p>
+Grav had begun to think about two different <i>kinds</i> of value: The kind that is unambiguous, universally agreed-upon, and easily calculated (like gold), which he called 'fungal' (as it can spread and is uniform, like a fungus.) The other kind is subject to haggling and may vary from one person to the other (like paintings or gems). He called this kind of value 'not-fungal'.] to smash it to pieces over the course of a whole day, only to find a <i>couple</i> of uvula<sup><a id="fnr.52" class="footref" href="#fn.52">52</a></sup>" Gog added after some genuine thought, "I <i>think&#x2026;maybe</i>!"
+</p>
+
+<p>
+"Welp!", said Grav.
+</p>
+
+<p>
+"This looks like a job for the reflect-soul<sup><a id="fnr.53" class="footref" href="#fn.53">53</a></sup>. Shall we lay about in on the rocks?"
+</p>
+
+<p>
+"After you. I am made of liver.<sup><a id="fnr.54" class="footref" href="#fn.54">54</a></sup>", said Grav.
+</p>
+
+<p>
+The two men lounged with a clean soul. They already had their day's workout in; sprinting through a 3D maze for the first half, and almost drowning during the second half of the morning. And now they had eaten some of the dried and pressed ambling-feast liver pucks. With sated bellies, they both lounged facing skyward, topping off their philosopher's tans <sup><a id="fnr.55" class="footref" href="#fn.55">55</a></sup>.
+</p>
+
+<p>
+"If we can swing the sluice back and forth at the right speed, we can make the rock sway back and forth in time ever harder<sup><a id="fnr.56" class="footref" href="#fn.56">56</a></sup>. It's too bad we can't rope it up and&#x2026;"
+</p>
+
+<p>
+"Wait&#x2026; how can we be made of liver when liver is the thing that gives us the most power?"
+</p>
+
+<p>
+Gog stared.
+</p>
+
+<p>
+"If our flesh becomes liver, why would we not use that as power?"
+</p>
+
+<p>
+"Do you think we actually become liver?", said Gog.
+</p>
+
+<p>
+Despite having clever minds, the two men had ideas that were just as firmly implanted as say "God" is in some modern humans. There is no source in shame if you are late in realizing that some things are less literal than other things. Some things went directly from an angry "must not be challenged" to a collaborative "must not be discussed" rather quickly, as this was the only way of handling these things.
+</p>
+
+<p>
+The obviousness of it occurred to Gog immediately and he felt ashamed at his naïveté.
+</p>
+
+<p>
+"Eee..heh. Every now and then one of those pop up late in life for you and you are just so saddened by your reflect-soul."
+</p>
+
+<p>
+"Yeah, well, I'm sure I'll top you one day.", assuaged Gog, reluctantly.
+</p>
+
+<p>
+"Great Questions!", exclaimed Grav.
+</p>
+
+<p>
+"What?"
+</p>
+
+<p>
+"We could roll stones down the sluice and hammer it with them. There's enough strength in the water to push some big stones. Maybe even boulders<sup><a id="fnr.57" class="footref" href="#fn.57">57</a></sup>. We know how to easily pick nice heavy, useless ones. They're all over the place. There's even a good pile of especially big ones near the spillway feed tower."
+</p>
+
+<p>
+"Hmmmm&#x2026;", deeply pondered Gog. "Oh, we could also divert at the falls up river like last time we had to bring the water down. Most of that is still there&#x2026;obviously. We might be able to get rock-on-rock without any water in the way."
+</p>
+
+<p>
+"Ooo. I like!<sup><a id="fnr.58" class="footref" href="#fn.58">58</a></sup>"
+</p>
+
+<p>
+Grav and Gog had clambered up to the falls where a dam had been constructed to divert most of the river several months ago.
+</p>
+
+<p>
+Just after this damn had been constructed, tested, and then disabled, the twin of a small-one thought to be owned by a Worker interrupted a planning meeting in a panic insisting that his brother was pinned under a boulder. After lots of very focused, serious questioning, the boy said this was about two boulder-door men<sup><a id="fnr.59" class="footref" href="#fn.59">59</a></sup> downstream where the river pinched and became more rapid.
+</p>
+
+<p>
+The whole mine had come together to rapidly re-enable the dam to send the river on a different (as of then, virgin) course. The dam consisted of a number of cleverly-fitting pieces, mostly boulders, and could be opened and closed in a short time with enough caveman power. There was lowering the river, and then there was "stopping" the river. There were a few dams. The stated goal of this one was the latter.
+</p>
+
+<p>
+They happened to also be shorthanded that day and so worked frantically, if only to recover a body. The men who went and returned from downstream said it was too deep and strong to safely explore possible boulders, of which there were many. The one the boy pointed to was impossible. The best that might be done is to dislodge the body with a long tree trunk handled by many men.
+</p>
+
+<p>
+The dam building was completed in about 45 minutes, with only the powerful spray between boulders feeding the Natural river. And a hungry torrent heading roughly at a right angle to the river's original course soon took out trees and made a gorge that would surely need a name eventually.
+</p>
+
+<p>
+A chain of men, headed out when it was only just marginal, long enough to peek, peek again, and if possible feel under several boulders, including the prime candidate. The river was also noticeably clearer now, which helped.
+</p>
+
+<p>
+An older man who was doing his best to be helpful with suggestions and the general dissemination of information to those who could use it approached the boy. "Now, goat-calf, so you think these men have checked under all of the likely boulders? Could it maybe be the one behind the big one?"
+</p>
+
+<p>
+The boy stared at the man and wrung his fists nervously. "I am sorry, sir, I don't know anything about this."
+</p>
+
+<p>
+Being struck by the child's answer, the man scanned the river bank to see if anyone else heard or could decipher what the child meant.
+</p>
+
+<p>
+As his eyes scanned the nearby Forest, he saw another, rather identical boy with one eye visible in the crook of a forked tree, and the lower half of him clearly visible.
+</p>
+
+<p>
+"You!", he pointed directly at the boy. "Come here to me right now!"
+</p>
+
+<p>
+With the casual affectation that only guilty children have, he sauntered to the old man's feet, standing next to his brother.
+</p>
+
+<p>
+"Is this the brother that drown?", he asked. "Are there only <b><b>two of you</b></b>?"
+</p>
+
+<p>
+"I'm sorry, sir. He said he was going to play downstream. I thought he said 'swim' downstream. I think he threw something big in the river and when I looked, I only saw the splash and kept looking for him to come up.
+</p>
+
+<p>
+We cleared all this up just now."
+</p>
+
+<p>
+"All-Questions! You troublesome boy. If we ever figure out who you are here with, we are going to ask them never to bring you again."
+</p>
+
+<p>
+Both boys ran into the woods and it would turn out, never be seen again by anyone with any confidence<sup><a id="fnr.60" class="footref" href="#fn.60">60</a></sup>.
+</p>
+
+<p>
+On this occasion, the men used the same dam but with some pieces missing. The work was exhausting and they needn't over-do things. The men spent quite a while heaving the boulders into position, each rocking and threatening to topple at any time, and then hopefully being stabilized. Behind this, they put several layers of sturdy woven bamboo screens<sup><a id="fnr.61" class="footref" href="#fn.61">61</a></sup>.
+</p>
+
+<p>
+Once complete, the large boulder in the center of the gouge was not exposed but had only about a palm of muddy water rushing over it. It would do.
+</p>
+
+<p>
+As today's boulder was more or less in the center of the gouge, the river-fist landed more or less directly on its top. Having to discover by trial that rocks would take a shorter path than the water, they lengthened the sluice a bit until the smaller trial boulders, heaved as far up the sluice as could be thrown, were knocking on the large boulder's top squarely.
+</p>
+
+<p>
+There were no good places to just pick up mighty boulders and drop them in the sluice. The only option was hauling the biggest boulders they could carry up the zig-zag of ladders to the top of the sluice where it's fed by the spillway. This they did, and after an infuriating walk or two down to adjust the sluice, they had a reliable way to konk the large, intriguing boulder right on its head, over and over, with the biggest boulders they care to carry one half of one boulder-door<sup><a id="fnr.62" class="footref" href="#fn.62">62</a></sup> men up a series of ladders that verged on stairs but definitely were not stairs and definitely were a series of ladders for boulder-hauling purposes.
+</p>
+
+<p>
+The heavy boulders caused the sluice to bounce as they went down, usually not destructively but enough to affect accuracy, and so one man would carry boulders and the other would fine-tune the sluice, carrying boulders to the base of the trestle if the sluice could be left alone for a while.
+</p>
+
+<p>
+Gog, while jogging around below, noticed that the sluice looked like a great trunk-harp<sup><a id="fnr.63" class="footref" href="#fn.63">63</a></sup> string in bright, dusty sunlight, even having different "notes". Not being able to see the boulders from below, he had a hunch it had to do with boulder size.
+</p>
+
+<p>
+Grav, now genuinely trembling with exhaustion as only a caveman can, felt some frustration at having to send down a promising boulder or two. In theory, the gouge would be littered with conveniently smashed rock. He wondered if they'd be at that large boulder for a while. If it was promising&#x2026;why not? Maybe do more of this. Maybe the great boulder's real value would be in that of a smashing device for <i>other</i> more interesting rocks.
+</p>
+
+<p>
+Having moved the sluice downstream, and with the river still rather low, they reclined productively on the sides of the gouge, each man alternately slipping and scurrying back up the muddy sides, as he did his best to examine pieces of stone found during all the scurrying. The rejects they both wisely decided they should throw in a "smart" direction and so agreed on a certain spot over the berm where the bank (of <i>some</i> river) was closest.
+</p>
+
+<p>
+"I've seen a few. You know where I'm tossing them.", said Gog.
+</p>
+
+<p>
+"Yep.", said Grav, still exhausted and not recovering much.
+</p>
+
+<p>
+"So&#x2026; it's not a failed-hunt and we found some good stuff.", said Gog.
+</p>
+
+<p>
+"Yeeah, but there is 'no get out of club-drill' sized value-stone like we'd hoped."
+</p>
+
+<p>
+"Nope.", said Gog.
+</p>
+
+<p>
+"Nope."
+</p>
+
+<p>
+Grav and Gog got their gear together, knowing that this was enough for one day. It was only one-palm-after-noon or so but they hadn't intended to make a full day out of only this, and Gog hadn't expected to get drug into a greased-obsidian-hatchling chase<sup><a id="fnr.64" class="footref" href="#fn.64">64</a></sup>. On some days, the exhaustion told you it was time to quit before the sun did.
+</p>
+
+<p>
+They passed through the "interesting pile" and toed around as they always do out of habit. Gog, with his toe, not bothering to bend down, pushed around some head-sized rocks to see underneath, as a strategy for maximizing rocks-inspected for given effort. He could indeed "toe" entire torso sized boulder, to an extent, having an intimate understanding of rock dynamics and legs that were made out of iron-tree<sup><a id="fnr.65" class="footref" href="#fn.65">65</a></sup>.
+</p>
+
+<p>
+One rock that he had only touched with his toe, and then reconsidered, moving on to others made a sharp "click"<sup><a id="fnr.66" class="footref" href="#fn.66">66</a></sup>.
+</p>
+
+<p>
+"What the sew?", said Gog, who was the only one able to connect the sound with the cleanly split rock just next to his foot. Grav turned and followed Gog's gaze, instantly making a face to match his; one of wonderment.
+</p>
+
+<p>
+The oddly uniform, oddly oval, oddly beautiful-on-its own stone had been split in two by a perfectly flat planer separation that Gog had to repeatedly swear there was no hint of before the audible crack.
+</p>
+
+<p>
+Already the two men knew they were the caretakers of one of the most wondrous objects anyone had ever seen<sup><a id="fnr.67" class="footref" href="#fn.67">67</a></sup>. From each side, both of them scuttled downward along the slight grade toward the stone and knelt on one knee to look.
+</p>
+
+<p>
+The inside was just visible and it was apparent that it was as uniform, smooth, and shiny as a puddle on a very still and quiet morning<sup><a id="fnr.68" class="footref" href="#fn.68">68</a></sup>.
+</p>
+
+<p>
+They beheld a smooth, uniform, grey egg-shaped stone about 3 pinkie-thumb on its longest axis, split long ways, exactly.
+</p>
+
+<p>
+"It did that a good five drop-stone after I just <i>touched</i> it with my toe. It's like it was already under some force and was just waiting for someone to just touch it and set it off.", said Gog.
+</p>
+
+<p>
+"Amazing.", Grav said at a whisper, not even aware he was responding, and still staring.
+</p>
+
+<p>
+Peering inside, between the gap, to see exactly what was there was frustratingly hard, as the crack was no more than a few leaves in breadth. A nearby hand mirror helped some with the light, but it glittered so loudly on the inside that the line made by the crack was more or less just a whiteish-blue and solid glow when lit, and black when not.
+</p>
+
+<p>
+"We <i>have</i> to pick this thing up and some how check it out, but I am terrified that we'll break something inside that is likely to be a once-in-life find.", Grav said while thinking. "You know&#x2026; that thing is <i>heavy</i> I remember it specifically, admiring how smooth and perfect it is. I had to give it an extra good heave, as you'd guess, but it managed to fly a bit high, despite my instincts and landed here with a very solid 'crack'. And <i>that</i> didn't do this. Your <i>toe</i> did? I was sure I'd have to scurry out and throw it the rest of the way. It was like it had wings."
+</p>
+
+<p>
+"We should maybe start by removing some silt? Maybe pour a few gourd of water on it while we work? Go get some, would ya? Our drinking gourds are just upstream. I mean, yeah&#x2026; I'm like you; the suspense is killing me.", said Gog.
+</p>
+
+<p>
+Grav returned with the two gourds<sup><a id="fnr.69" class="footref" href="#fn.69">69</a></sup> filled with water which he gently poured over the the rock while Gog cleared the silt. They both knew that, whatever's inside, it's not going to be bothered by some water. Nothing that has spent the whole before-and-after-questions in the earth was bothered much by water. They repeated this with an all-finger or so of trips to fetch more water.
+</p>
+
+<p>
+Another thing a rock of any kind can tolerate is some gentle nudging with a green twig. Grav explored the perimeter of the crack making mental notes. "I'm going to say it: It's exactly like there is a yolk in there."
+</p>
+
+<p>
+"Yum!", said Gog. "Maybe we should just secure it in this position and take it back to the office."
+</p>
+
+<p>
+"I suppose. Some bump or disappointment or other is inevitable. Let's do that and knock out some of the ceiling. I think it's worth it for this.", said Grav.
+</p>
+
+<p>
+"I reluctantly agree with you.", said Gog.
+</p>
+
+<p>
+Having gently wedged in some green, spongy twigs into the gap and wrapped the whole "egg" with twist-vine, they used yet more twist-vine to lash the stone to a couple of poles to make a kind of litter.
+</p>
+
+<p>
+They both raised the stone to hip hight slowly, expecting another strange surprise underneath. It turned out to be just more stone and mud, unsurprisingly, as this was not its birth place, so to speak.
+</p>
+
+<p>
+They worked their way up and down slopes, trying to keep things gentle and smooth, if not always level.
+</p>
+
+<p>
+Midway through the clearing between the closest of the worked river basin and the beginning of their office entranceway<sup><a id="fnr.70" class="footref" href="#fn.70">70</a></sup>, both sticks suddenly and unexpectedly snapped where they came closest to the rock. The precious bundle was allowed to fall a good half-man onto an inconveniently placed sharp rock (which was probably not even necessary.)
+</p>
+
+<p>
+There was no longer any need to discuss how to get the thing open and which long and painful protocols to follow. The great stone egg gave up its secrets right there on the muddy clearing, both halves rocking almost mockingly for a bit with the "yolk" sliding back and forth on the smooth inner surface, free from its perfect cradle, refusing to fall back in place, or over the verge.
+</p>
+
+<p>
+The two men, useless sticks in hand, stared silently as the two halves came to a standstill.
+</p>
+
+<p>
+They stared some more.
+</p>
+
+<p>
+"It looks like a rock-stick.", said Gog, with an involuntary vomiting guffaw that made a fart sound.
+</p>
+
+<p>
+"Uhhm&#x2026; Yeah. Like, a lot.", said Grav under his breath.
+</p>
+
+<p>
+They continued to stand there looking at the strange scene before them, shaking their heads<sup><a id="fnr.71" class="footref" href="#fn.71">71</a></sup>.
+</p>
+
+<p>
+And for a while after the rocking stopped they took turns making the involuntary, soft, high gurgle of the dumbfounded.
+</p>
+
+<p>
+"Now, this creates at least one serious dilemma.", said Gog. Grav watched him as he spoke with a face that said, 'I know, I know'. "This is, as hoped for, the biggest value-stone that we or possibly&#x2026;probably anyone has ever seen. And yet, it looks like a big, fat boulder-stump."
+</p>
+
+<p>
+Grav snorted despite the unreal circumstances. Neither having seen anything remotely like this in either size or character; character carrying a lot of the weight in this case.
+</p>
+
+<p>
+"Now see, if we show this&#x2026;"
+</p>
+
+<p>
+"Obviously I know, Gog."
+</p>
+
+<p>
+"Maybe if we just play dumb? Maybe if we dress it up?"
+</p>
+
+<p>
+"Do you want to put a ceremonial palm-skirt on it?"
+</p>
+
+<p>
+Both men laughed.
+</p>
+
+<p>
+Grav was holding it in his hand in the least sexual way he could manage, inspecting it with wonder. It was a scapolite<sup><a id="fnr.72" class="footref" href="#fn.72">72</a></sup>&#x2026;penis, about one and one half of one pinkie-thumb long that, for the less banana-minded, might pass for something else. It was almost a kind of purity test in its ambiguity.
+</p>
+
+<p>
+It was something that <i>might</i> be benign looking enough to show grandmother, if you coyly avoided her eye for the first few drop-stone after revelation, looking at your fingernails, say.
+</p>
+
+<p>
+It was a kind of crypto-stick, for it did lack rocks. And was blunt at the "bottom", as though this was exactly what this particular unlikely combination of crystals did: Form a big human penis, and then stop abruptly when the penis part was obviously over with.
+</p>
+
+<p>
+Its enclosing "egg" was a sort of geode that was a semi-transparent dark blue crystal with sparkling silver veins running from the void at its center, outward to the edge of the stone as though "radiating" from the middle; like the penis had a kind of starburst of patterns emanating from it that could only be vaguely glimpsed by breaking the stone, which had been done already by Nature. All who saw it decided it needed no more exploratory cracks.
+</p>
+
+<p>
+Being wet and muddy as described, it fell and stuck halfway into the mud when Grav made the mistake of trying to hold it by its "base" and relying only on his vice-like grip on muddy stone. This could have been seen as a kind of warning to future handlers.
+</p>
+
+<p>
+"Stupid-ham, you're going to break it.", said Gog.
+</p>
+
+<p>
+"Somehow I get the idea this doesn't break easily.", said Grav.
+</p>
+
+<p>
+"Yeah. It's taken a beating already. Did you notice its little 'cubby' is shaped, like, I mean <i>exactly</i> right? It's like implausibly-unreal<sup><a id="fnr.73" class="footref" href="#fn.73">73</a></sup>. It's a zero-allowability fit."
+</p>
+
+<p>
+"What the Afterlife, brother. I am legitimately weirded out by this thing.", worried Grav aloud.
+</p>
+
+<p>
+"Well," Gog said, "I am just going to follow a kind of crazy-benefit-think predict-tool here. Criticize not my hurried handy-work<sup><a id="fnr.74" class="footref" href="#fn.74">74</a></sup>. What if we just totally play dumb, all day, every day<sup><a id="fnr.75" class="footref" href="#fn.75">75</a></sup> and never let on.
+</p>
+
+<p>
+So we found a lifetime value-stone. So what? Do you expect Father-Brother-Wife Kham to say to us, <i>Hey, boys, don't you think this looks like a big, rigid stone-branch?</i>"
+</p>
+
+<p>
+"Heh, that's just crazy enough to work, brother.", said Grav.
+</p>
+
+<p>
+"Exactly!"
+</p>
+
+<p>
+They decided that lining the cradle with two of the thinest leaves they could find and packing the whole thing as it was found, more or less, was the safest way for it to travel. After lightly scrubbing the triune of mysterious stone with the finest silt they could find, applied with a handful of soft, green leaves, they rinsed all in a clean part of the river and let the pieces dry on the open floor for a palm or two and talked.
+</p>
+
+<p>
+"Let's just decide right here and now that neither of us are going to crack. It's like a secret you're sworn to keep, except in this case you are obliged to always keep up an act: We have no idea it looks like the massive, fully grown caveman's throbbing pebble-twig. We think it looks more like a kind of fish we saw once; exactly like that kind of fish!
+</p>
+
+<p>
+We're hopelessly biased in that direction. We are deaf to the innuendos of even our closest-circle.", said Gog with some certainty.
+</p>
+
+<p>
+"That will be difficult." Grav said, watching Gog bob his head up and down, making a sadist's smile. "I mean with, say Father-Brother Verk, that's easy, but with those all-finger-and<sup><a id="fnr.76" class="footref" href="#fn.76">76</a></sup> boys that like to ask for feedback on their banana-language that often corner us just out of town<sup><a id="fnr.77" class="footref" href="#fn.77">77</a></sup>. They're always guffawing and, despite myself, I find myself wanting to one-up them with the banana-juggling<sup><a id="fnr.78" class="footref" href="#fn.78">78</a></sup>. I can't see myself not cracking."
+</p>
+
+<p>
+"Yep, including them!", Gog said, demanding total surrender to the plan.
+</p>
+
+<p>
+"You scat-pile on it too?<sup><a id="fnr.79" class="footref" href="#fn.79">79</a></sup>"
+</p>
+
+<p>
+"Yep. I'm in. I think it's fun to mount human behavior just for the colliding-stamped aspect of it<sup><a id="fnr.80" class="footref" href="#fn.80">80</a></sup>. Is any of this <i>wrong</i>? I mean, I don't think for a second that it is. How, omitting our opinion about what something might look like? We cannot decide not to take sides? Maybe we begrudgingly see a similarity but lots of things in the Forest have that shape."
+</p>
+
+<p>
+Gog: "Yep."
+</p>
+
+<p>
+"So, as absurd as everything that has happened in the last 10 palms is, I think we need to focus, as I assume we are caring that sinful bulk back with us.", said Grav.
+</p>
+
+<p>
+The two men carefully packed the bundle as described, then wrapped the assembled "egg" in alternating layers of dense, soft leaves and twist-vine, resulting in a safe, padded ball. It was still deeply perplexing that the whole bundle had fallen apart seemingly spontaneously.
+</p>
+
+<p>
+They then made several man of heavier twist-vine, with which they used to suspend the bundle<sup><a id="fnr.81" class="footref" href="#fn.81">81</a></sup> from a sturdy, springy aspen trunk.
+</p>
+
+<p>
+The men compared mental checklists before leaving, as was their practice, and hurried off toward Bhorv Zolk, leaving whatever they could behind.
+</p>
+
+<p>
+Upon arriving, thoroughly in need of rest and food, they decided to stash it nearby in one of their plentiful "perfect" locations and spend as much time as was necessary discussing plans and minutiae, knowing that any whiff of an open attempt to humiliate Verk would probably mean unspeakable torture both physical and "social" to a degree that both had seen only once or twice, but understood to be about the worst fate a living person can have by any Crec, including them.
+</p>
+
+<p>
+And so they did. The entire next day was spent trading and criticizing aspects of all of the aspects of this weird <i>thing</i> they were doing. In their optimism, they decided that, while they may not be able to skip club-drill, they could milk this "penis"<sup><a id="fnr.82" class="footref" href="#fn.82">82</a></sup> thing in ways that more than made up for it.
+</p>
+
+<p>
+As for practicalities, they of course continued to agree to abide by the mutual decision to play it coy. This was not hard to do, it turned out. Those that "saw it" were shocked into sick-monkey mode, forbidding all of their being from acknowledging the now obvious. Even in front of a couple of cut-ups like Grav and Gog.
+</p>
+
+<p>
+They also agreed to just lay the pieces together, on its side with the top stone naturally pressing things together, and let Verk, do the official revealing, an invitation which Verk literally could not conceive of declining.
+</p>
+
+<p>
+There was no mention from Verk about any possible excused absences from drill for anyone.
+</p>
+
+<p>
+Verk had gathered a medium sized crowd into the ancient-speak burrow. The soon-to-be-revealed mineral wonder that the men had to ensure Verk was really there was still awaiting revelation. Verk wanted his own surprise to be genuine and so went along with the men's enthusiasm in describing the find, knowing that over-selling a thing that turned out to be a disappointment for him is something the two boys would include in their calculations.
+</p>
+
+<p>
+On the off chance that this was to be underwhelming, Verk tempered his urge to invite the whole clan. He could always claim that, <i>While exciting, we needn't trouble the children with the overwhelming wonders of science<sup><a id="fnr.83" class="footref" href="#fn.83">83</a></sup> until a group of</i> distinguished <i>adults had a good examination of it first.</i>
+</p>
+
+<p>
+All invited were present, introductory remarks made, grateful nods made towards Grav and Gog throughout. The quiet chatter among the adults, some giddy, had died down rapidly with an expert cue from Vert; only a small change in his stance and facial expression.
+</p>
+
+<p>
+"It is time, my fellow cavemen! I sure hope you brought us something grand, Grav and Gog, and we thank you for having the heart to make a gift of this mysterious find to treasury of <i>The Forest Heroes' Fallen Fund</i><sup><a id="fnr.84" class="footref" href="#fn.84">84</a></sup>."
+</p>
+
+<p>
+Grav and Gog stood smiling awkwardly. The crowd was too small and close for there to be any idea which direction to face. They felt on display as well, with Verk maybe doling out a bit too much praise to keep the boys' sense of obligation sharp.
+</p>
+
+<p>
+Verk did a triple-take with a broad, yellow smile for the clan portraitist and anyone else with a keen memory. He pried the two halves apart with a fine, glittering Sky Clam halve<sup><a id="fnr.85" class="footref" href="#fn.85">85</a></sup> and a healthy-looking, tough, thick, velvety leaf which he used to protect the perimeter of the mirror-stone-like finish he had been assured he would find, among other wonders that he insisted remain a surprise.
+</p>
+
+<p>
+The two men had never felt this kind of intense, surreal terror before. Either their predict-thought was correct, and Verk would not <i>see</i> what was there, or he would immediately see a fine, sparkling, extra-large false-rock-stick that would, should such a thing even exist outside of caveboy talk, be hidden carefully under feet of bat-scat in the very back of one's cave<sup><a id="fnr.86" class="footref" href="#fn.86">86</a></sup>.
+</p>
+
+<p>
+Verk grunted the desperate grunt of the soon-dying and heaved the top halve upward, balancing it on the opposite, thick end of the "egg". The top halve slid slightly to warn of its instability.
+</p>
+
+<p>
+Gog and Grav each picked up the fatter, heavier end, one on each side, softly grunting in sympathy. The three men walked the top halve over to one side, flipped it slowly and set its rounded, dull-gray side on a blanket of fresh leaves. Gog could see the revealed form laying in the bottom halve. Grav was walking his share along with his head turned away, but both men felt the same hopeless terror combined with an oddly sweet giddiness.
+</p>
+
+<p>
+"My sweet Ender-Of-Questions, in its hammock above!", Verk covered his open mouth with the fingertips of both hands in a somewhat dainty gesture, and smiled warmly. "It is <i>astonishing</i>.", stretching the syllables.
+</p>
+
+<p>
+The men watched Verk shake his head slowly<sup><a id="fnr.87" class="footref" href="#fn.87">87</a></sup> as they wondered which way this was going.
+</p>
+
+<p>
+"It's <i>beautiful</i>!" Verk paced slowly in a semi-circle as the small crowed, also gazing and cooing, made room for him.
+</p>
+
+<p>
+Verk lifted the smooth, clean, glittering brown crystal from its perfect den and held it up with wonder, letting the soft orange of the late afternoon sun coming from the nearby cave opening reveal all of the object's beautiful, strictly bilateral symmetry with the contrasting powers of well-oriented, bright sun.
+</p>
+
+<p>
+"It looks like <i>something</i>&#x2026;", wondered Verk aloud. "It cannot be other than a message. To comprehend what Ender's-Nature-Force<sup><a id="fnr.88" class="footref" href="#fn.88">88</a></sup> has revealed to us is of the utmost importance. It is a message to us, to the Crec, straight from Its Mouth<sup><a id="fnr.89" class="footref" href="#fn.89">89</a></sup>."
+</p>
+
+<p>
+"Indeed Grav and I thought the same thing.", offered Gog.
+</p>
+
+<p>
+Verk turned to Gog, "Young buck you may be wise yet.", and smiled with a wink. This was a cue for all present to appreciate Verk's dry wit, which they did with apparent sincerity.
+</p>
+
+<p>
+"Let us pass it around the room! Us Under-Men<sup><a id="fnr.90" class="footref" href="#fn.90">90</a></sup> are thirsting of curiosity.", an anonymous voice said.
+</p>
+
+<p>
+The small crowd of men in the large burrow took turns handling, admiring, indeed caressing the object. There was many quizzical raised eyebrows<sup><a id="fnr.91" class="footref" href="#fn.91">91</a></sup>, asking 'What can we learn from this?'
+</p>
+
+<p>
+Some of the men, while holding it, managed to quickly have something to say to their neighbor, causing them to just as quickly pass it along. Some made an admiring smile and gave a sideways nod, with raised eyebrows. Those who decided they had something to contribute to the discussion sometimes missed a beat or two in the animated group conversation's rhythm, and stepping in at not quite the right time, said things like&#x2026;
+</p>
+
+<p>
+"Could it be just the front one part of four of a kind of viper, perhaps?"
+</p>
+
+<p>
+"I have seen weapons much like this!"
+</p>
+
+<p>
+Kin, a caveman that the Crec would say is <i>Married To The Forest</i> said, "Are these not gills, Kvred? Could it be a fish? For it has a kind of small mouth. I have seen a kind of dart-fish that has pronounced ventral muscles producing a thick, vein-like structure along the bottom, here.", at which Kvred looked nonplussed, as if to say 'why are you asking me?'.
+</p>
+
+<p>
+This contributor, smiling and not looking at the crystal, ran his fingers "down" the "bottom" of the object; some others noticing his unkempt fingernail as it glided slowly along the crystal's surface to point out this feature.
+</p>
+
+<p>
+"Does it not look incomplete to anyone else?"
+</p>
+
+<p>
+"Things in Nature do not have abrupt, sharp ends like we see here." (pointing) "Unless it is cleanly cut by a blade, like the discarded arms we see when battle turns justly."
+</p>
+
+<p>
+The group of men mostly looked at the floor and seemed to be pondering this remark further.
+</p>
+
+<p>
+At all this, the amount of apparent blindness to the obvious may be striking to you. After all, the Crec were naked an <i>awful</i> lot of the time, seemingly without shame. Some keen students of humanity see this kind of dissonance all the time, even in their own cultures. What one does with this kind of observation is what's important. Rarely is it pointed out recklessly. The sick-monkey way in which humans reinforce this kind of willful social blindness "at all costs" can result in literally violent reactions from anyone forced to see what they <i>need</i> to remain hidden forever.
+</p>
+
+<p>
+"Father-Brother Verk, what shall we do with it?", asked one of Verk's Under-Men.
+</p>
+
+<p>
+"First, it needs a name.", said Verk. "Kin, I believe you likened it to a weapon."
+</p>
+
+<p>
+Kin, knowing that he had not smiled broadly.
+</p>
+
+<p>
+"I shall call it, <i>Ender's-Sword</i>, for it is mighty and surely will find its use in making the Crec Forest mightier yet!" Verk had his head tilted slightly back. His closed eyelids were twitching as though fighting to remain open.
+</p>
+
+<p>
+There was a gently, admiring applause and periodic tugging of noses from the audience.
+</p>
+
+<p>
+"As a gift to one of the Elder-Quorum's finer charities, it will of course make its way eventually to the Hard-Guard-Cave, but tonight it goes home with me, so I may talk with The-Ender and try in my humility to divine its message. Made-Boy-Wife-of-Verk<sup><a id="fnr.92" class="footref" href="#fn.92">92</a></sup> and I will ensure it encounters no ill treatment."
+</p>
+
+<p>
+"Very good, Father-Brother Verk! Gog and I will package it in the manor in which we did for its movement from the mine. We encountered problems with our first attempt. It seems to have some tricks up its sleeve<sup><a id="fnr.93" class="footref" href="#fn.93">93</a></sup>."
+</p>
+
+<p>
+"You are a fine help.", said Verk, his face expressionless.
+</p>
+
+<p>
+The two men, having most materials already handy, re-secured the egg and its yolk, hanging it from the same well-suited springy aspen sapling. Hoisting the burden over to two of Verk's Under-Men's shoulders who, watching Verk's retreat towards the exit, set off in a trot towards the nearby guest hill<sup><a id="fnr.94" class="footref" href="#fn.94">94</a></sup> Verk occupied, passing Verk as he stopped and turned at the exit.
+</p>
+
+<p>
+"Oh, boys", Verk said with one foot still pointed at the cave's exit. "See you at club-drill day after tomorrow?" He smiled, showing apparent warmth, pressing his hand against the springy mat of white hair covering his heart, and pausing for an answer.
+</p>
+
+<p>
+"Oh, yes Father-Brother Verk. Grav and I will be there one palm sharp!"
+</p>
+
+<p>
+The two men saluted by grabbing their left ankle with their right hand, locking their right knee, straightening and looking straight ahead at infinity with their shoulders square. "With the mind of a rutting ambling-feast, in a great blizzard, our Upper-Brother leader Father-Brother Verk! We will be there!"
+</p>
+
+<p>
+Gog said this alone as Grav did his best to make broad, sincere eyes. The men had not yet mastered speaking-as-one-in-battle<sup><a id="fnr.95" class="footref" href="#fn.95">95</a></sup>, which is a practice solders of at least mid-rank were expected to do spontaneously, at times that to Grav seemed to have no pattern.
+</p>
+
+<p>
+Verk squinted and stepped out into the pink late afternoon.
+</p>
+
+<p>
+"Farewell for now, boys!" Verk strutted out of the cave with, as Grav observed, <i>that energetic</i> walking uphill <i>look, that unmentionably fat cavemen have.</i>
+</p>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">First cousins</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">This just means 'gem', but the literal meaning of the constituent words and their order is exactly what the Crec say. The concept of 'value' is one of Grav's obsessions. He therefore is one of relatively few who ever stopped, once in their life, to decompose this particular word and realize, like you have done at least once: <i>Oh neat. it's X + Y. I've been using this word my whole life and I only just now realized!</i></p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">1:50</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">Astonishing fact: After the decline and fall of the Crec and surrounding culture, the next time a similarly-shaped water feature appeared on earth it would be called "The Super Slippery Fun Lagoon", appearing in a New Jersey water park called 'Garden State Water World' in 1934. nb: too goddamn silly.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">These are raptor talon that are strung by sinew so that they point backwards and downwards from the heel, with just one talon per foot, but they are large and serve their function. They are fastened strongly, but often with just enough slack so that the talon makes an audible "click" while the wearer walks around in-cave.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">What we would call 'zombie mode'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara"><p class="footpara">Where, legend has it, the Crec clan and culture had its beginnings.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8">8</a></sup> <div class="footpara"><p class="footpara">Hunters knew that if the were just <i>traveling</i> and were willing to sacrifice game abundance in the area for maybe the next few palms, it would definitely do no harm to purposely step in, and spread the scat of any predator, but freshened <i>game</i> scat attracted predators.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.9" class="footnum" href="#fnr.9">9</a></sup> <div class="footpara"><p class="footpara">A classification to which both men belong. At this time, Grav is 36 and Gog 37.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.10" class="footnum" href="#fnr.10">10</a></sup> <div class="footpara"><p class="footpara">You rightly ask, 'how do we know?' The story is known as "Khrob's Muddy Trap-Burrow"</p></div></div>
+
+<div class="footdef"><sup><a id="fn.11" class="footnum" href="#fnr.11">11</a></sup> <div class="footpara"><p class="footpara">Quartz. Both for the obvious reason and also because of what is being discussed here: a vein of quartz has concentrated mirror powers strong enough to create another one, just like it, feet away. It is thought that the formation of a reflected vein of reflect-stone has never been observed because whenever they appeared, they must have appeared together. Crec did not recoil in terror at their reflection. They had mirrors of various types. But they did have a very mystical concept of a "reflection" and didn't blithely play around with mirrors.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.12" class="footnum" href="#fnr.12">12</a></sup> <div class="footpara"><p class="footpara">Gog was being colorful with his language because when they said 'vein' it referred to a <i>pattern of deposits</i> and not much more. It was assumed to be a vein of sorts because it seemed to go in a straight line and keep producing even if you dug downward.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.13" class="footnum" href="#fnr.13">13</a></sup> <div class="footpara"><p class="footpara">"Let off steam."</p></div></div>
+
+<div class="footdef"><sup><a id="fn.14" class="footnum" href="#fnr.14">14</a></sup> <div class="footpara"><p class="footpara">"it is a thing"</p></div></div>
+
+<div class="footdef"><sup><a id="fn.15" class="footnum" href="#fnr.15">15</a></sup> <div class="footpara"><p class="footpara">They both felt a stir referring to Verk this way.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.16" class="footnum" href="#fnr.16">16</a></sup> <div class="footpara"><p class="footpara">Gog was trying to steer back into the <i>abstract</i> caveperson as the topic of conversation.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.17" class="footnum" href="#fnr.17">17</a></sup> <div class="footpara"><p class="footpara">This term is used more or less equally in both reverence and mockery.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.18" class="footnum" href="#fnr.18">18</a></sup> <div class="footpara"><p class="footpara">They really say exactly this and it pretty much exactly means 'pecking-order'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.19" class="footnum" href="#fnr.19">19</a></sup> <div class="footpara"><p class="footpara">Reality.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.20" class="footnum" href="#fnr.20">20</a></sup> <div class="footpara"><p class="footpara">Safety in numbers.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.21" class="footnum" href="#fnr.21">21</a></sup> <div class="footpara"><p class="footpara">The closest layers of one's 'tribe'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.22" class="footnum" href="#fnr.22">22</a></sup> <div class="footpara"><p class="footpara"><i>transitive verb To indicate (a trail) by making blazes.</i> Did you think this had something to do with fire? Isn't this <i>your</i> language? The expression used by Gog refers to marking a trail as you go with a sharp axe. It's an expression that simply means 'make your way through&#x2026;' (e.g. life)</p></div></div>
+
+<div class="footdef"><sup><a id="fn.23" class="footnum" href="#fnr.23">23</a></sup> <div class="footpara"><p class="footpara">Being as fit as a monkey, some of the caveperson physical mannerisms would often astound you. "The peak of human fitness" is not any kind of cliche for them. Everyone is pretty close to there out of necessity. And what is more, it was never seen as any kind of burden to them to maintain this kind of fitness. Life was just life. A Crec would leap your 8-foot garden fence with a grunt in the same way you would deftly leg over crotch-high barrier with a beer in each hand.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.24" class="footnum" href="#fnr.24">24</a></sup> <div class="footpara"><p class="footpara">It is worth noting that the men could literally be killed for most of this talk if overheard by any two other Crec. The confidence that they were alone was nearly absolute. No different from assuming you won't some day get hit by a stray arrow.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.25" class="footnum" href="#fnr.25">25</a></sup> <div class="footpara"><p class="footpara">The lizard-bird does not bother to nest or even land to lay its eggs. It simply drops them while in flight, and always over water. The egg floats just under the surface in what is usually a calm, stagnant, warm lake at the hight of summer, and then hatches several days later. What emerges has nothing to fear from a crocodile hatchling.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.26" class="footnum" href="#fnr.26">26</a></sup> <div class="footpara"><p class="footpara">Yes, Crecspeak has gendered 2nd-person pronouns. And yes they would blithely use this word here.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.27" class="footnum" href="#fnr.27">27</a></sup> <div class="footpara"><p class="footpara">But instead was vomiting ferociously.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.28" class="footnum" href="#fnr.28">28</a></sup> <div class="footpara"><p class="footpara">No offense, but <i>their</i> arm, not yours.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.29" class="footnum" href="#fnr.29">29</a></sup> <div class="footpara"><p class="footpara">Bamboo, being well "engineered", can scale even bigger than this. This was not the biggest bamboo available to them (although this was definitely on the larger side), but, yes, it is far larger than anything you may have seen.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.30" class="footnum" href="#fnr.30">30</a></sup> <div class="footpara"><p class="footpara">100</p></div></div>
+
+<div class="footdef"><sup><a id="fn.31" class="footnum" href="#fnr.31">31</a></sup> <div class="footpara"><p class="footpara">As the math is tedious here: about 300 meters. Crec reckoning is covered in the appendix.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.32" class="footnum" href="#fnr.32">32</a></sup> <div class="footpara"><p class="footpara">Pronounced 'wazlic'</p></div></div>
+
+<div class="footdef"><sup><a id="fn.33" class="footnum" href="#fnr.33">33</a></sup> <div class="footpara"><p class="footpara">Bear</p></div></div>
+
+<div class="footdef"><sup><a id="fn.34" class="footnum" href="#fnr.34">34</a></sup> <div class="footpara"><p class="footpara">The Crec just talk in terms of fractional circles, not "degrees" for example.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.35" class="footnum" href="#fnr.35">35</a></sup> <div class="footpara"><p class="footpara">Of course, the river is not a circle. The sluice's arc went over riverbank, ancient riverbed, low cliffs and the like.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.36" class="footnum" href="#fnr.36">36</a></sup> <div class="footpara"><p class="footpara">A "gourd" was a unit of both mass and volume. Its mass worked out to just over a half a kilogram. Its volume was of course the volume of just over a kilogram of water. It works out to roughly one pound (mass) or two 'modern' cups of water.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.37" class="footnum" href="#fnr.37">37</a></sup> <div class="footpara"><p class="footpara">About three weeks</p></div></div>
+
+<div class="footdef"><sup><a id="fn.38" class="footnum" href="#fnr.38">38</a></sup> <div class="footpara"><p class="footpara">"Rock-Lookers" before the adjustments.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.39" class="footnum" href="#fnr.39">39</a></sup> <div class="footpara"><p class="footpara">TBD, Appendix</p></div></div>
+
+<div class="footdef"><sup><a id="fn.40" class="footnum" href="#fnr.40">40</a></sup> <div class="footpara"><p class="footpara">Who somehow ended up with the "cavepeople problems."</p></div></div>
+
+<div class="footdef"><sup><a id="fn.41" class="footnum" href="#fnr.41">41</a></sup> <div class="footpara"><p class="footpara">Gold</p></div></div>
+
+<div class="footdef"><sup><a id="fn.42" class="footnum" href="#fnr.42">42</a></sup> <div class="footpara"><p class="footpara">Which they had names for</p></div></div>
+
+<div class="footdef"><sup><a id="fn.43" class="footnum" href="#fnr.43">43</a></sup> <div class="footpara"><p class="footpara">Experimentation continues on the best kind of reflective stone for this, as value-butter has a distinct color different from even that of the best impostors, if one looked closely.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.44" class="footnum" href="#fnr.44">44</a></sup> <div class="footpara"><p class="footpara">Toddlers. Contrast "quiet-ones"</p></div></div>
+
+<div class="footdef"><sup><a id="fn.45" class="footnum" href="#fnr.45">45</a></sup> <div class="footpara"><p class="footpara">A caveperson's capacity to run through any kind of terrain, keeping the fastest pace allowed by circumstances is practically limitless. The idea was to keep up speed, unless there is a reason not to. There are always rests, but if you <i>can</i> run fast you <i>do</i> run fast (unless there is a reason not to.)</p></div></div>
+
+<div class="footdef"><sup><a id="fn.46" class="footnum" href="#fnr.46">46</a></sup> <div class="footpara"><p class="footpara">This word is chosen because G&amp;G's 'office' was a particular place with a particular purpose and so isn't just some rock next to a tree. They would say 'office' if they could.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.47" class="footnum" href="#fnr.47">47</a></sup> <div class="footpara"><p class="footpara">G&amp;G had a Worker dedicated to caring for what they called their 'office-plants', which in this case called for some engineering experience with 'live loads' as well.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.48" class="footnum" href="#fnr.48">48</a></sup> <div class="footpara"><p class="footpara">The Crec, <i>especially</i> Grav and Gog, have roughly the same talent for and perception of sarcasm as you.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.49" class="footnum" href="#fnr.49">49</a></sup> <div class="footpara"><p class="footpara">A surprising amount of their grunts overlap with ours.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.50" class="footnum" href="#fnr.50">50</a></sup> <div class="footpara"><p class="footpara">Hypothetical</p></div></div>
+
+<div class="footdef"><sup><a id="fn.51" class="footnum" href="#fnr.51">51</a></sup> <div class="footpara"><p class="footpara">there has got to be some wild uses for actual crocodile eggs.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.52" class="footnum" href="#fnr.52">52</a></sup> <div class="footpara"><p class="footpara">This is the closest and most familiar thing 'pea sized' (and shaped) that the Crav are ever likely to encounter.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.53" class="footnum" href="#fnr.53">53</a></sup> <div class="footpara"><p class="footpara">mind</p></div></div>
+
+<div class="footdef"><sup><a id="fn.54" class="footnum" href="#fnr.54">54</a></sup> <div class="footpara"><p class="footpara">Very tired.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.55" class="footnum" href="#fnr.55">55</a></sup> <div class="footpara"><p class="footpara">Having a uniform facial tan, without any lightening under your eyelids or beneath your nose or chin, is a sign of confident accomplishment, and having serenity of mind. "Upper class" only in that it has a distinguished look, like a neatly shaved face. In a way it means, 'I do not have to work because I am smart.'</p></div></div>
+
+<div class="footdef"><sup><a id="fn.56" class="footnum" href="#fnr.56">56</a></sup> <div class="footpara"><p class="footpara">The men called this technique 'self-shake-rhythm'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.57" class="footnum" href="#fnr.57">57</a></sup> <div class="footpara"><p class="footpara">Their reckoning was about 273 millimeters, ours is 256.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.58" class="footnum" href="#fnr.58">58</a></sup> <div class="footpara"><p class="footpara">The literal pronunciation of this expression was 'mi-gewstaah', which overlaps a modern language pretty closely in both pronunciation and nuance, surprisingly.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.59" class="footnum" href="#fnr.59">59</a></sup> <div class="footpara"><p class="footpara">About 600 meters.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.60" class="footnum" href="#fnr.60">60</a></sup> <div class="footpara"><p class="footpara">This was speculated upon and discussed by all for nearly a moon, when work was conducive to idle speculation and clay-talk. A few, but only a few called the mystery 'the twins paradox'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.61" class="footnum" href="#fnr.61">61</a></sup> <div class="footpara"><p class="footpara">In contrast to bamboo <i>fiber</i> screens, these were literally woven of wrist thick bamboo, which could be accomplished only with a lot of steam and a crafted strategical lack of perfectionism. <i>Behind this</i> the screen featured finer bamboo-fiber mesh, with the forward-most (downstream direction) layer of actual woven bamboo providing the strength required by so much powerfully moving water.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.62" class="footnum" href="#fnr.62">62</a></sup> <div class="footpara"><p class="footpara">50</p></div></div>
+
+<div class="footdef"><sup><a id="fn.63" class="footnum" href="#fnr.63">63</a></sup> <div class="footpara"><p class="footpara">Some strong, dried sinew tied on one end to a hopefully-hollow trunk, and to a bit of the same tree's root (usually excavated for) on the other end, with a sort of pedal (stick, about 1/2 man long) whose one end was put on the nearby ground and the other against the sinew, near the bottom, that can be pressed variously by a foot to produce different tightness (notes) in the string. Others would strike, slap, rub with smooth honey-tackeyed sticks, dampen, punch, glance with arrows, beat with one's spear or one of your enemy's arms&#x2026;whatever the trance called for. Glancing the string just right with the fingertips of a human arm made an astonishingly beautiful harp sound that was in great demand. It's quite an instrument given that it can be put together in about a minute.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.64" class="footnum" href="#fnr.64">64</a></sup> <div class="footpara"><p class="footpara">A 'wild goose chase'. The greased hatchling chase was a drunken, sadistic mob activity that for some reason also involved much more butt-slapping than is normally observed. This was neither acknowledge nor understood by the Crec. The 'grease' came from the mother, which had been eaten. If there was a sufficiently feisty, scruffy, angry chick hopping around screeching as the men ate leisurely, they would, given enough end-of-the-hunt juff and spirit, catch and chuck the bird into its mother's self-made frying oil, where it would immediately hop out, now bald, greasy, furious and in pain, and having no more interest in anything but escape, would bolt into the woods. If a man caught it, he was permitted one copulation with the wife of his choosing, from any of the men.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.65" class="footnum" href="#fnr.65">65</a></sup> <div class="footpara"><p class="footpara">Yes, the very same tree with the very same name.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.66" class="footnum" href="#fnr.66">66</a></sup> <div class="footpara"><p class="footpara">The two men had a more or less modern-human ear. The majority of this 'click', while still sharp and clear to the men, was in the ultrasonic range and caused two incongruous bats cruising the bright blue morning sky to make a u-turn.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.67" class="footnum" href="#fnr.67">67</a></sup> <div class="footpara"><p class="footpara">They would have sought traffic cones and bright black-yellow tape if they knew of such.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.68" class="footnum" href="#fnr.68">68</a></sup> <div class="footpara"><p class="footpara">Ideal to check your teeth for signs of breakfast.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.69" class="footnum" href="#fnr.69">69</a></sup> <div class="footpara"><p class="footpara">Their combined capacity was more like 7 gourd. Do you wonder why a drinking gourd would be three and a half standard gourds in capacity? They were inconsistent, what can one say?</p></div></div>
+
+<div class="footdef"><sup><a id="fn.70" class="footnum" href="#fnr.70">70</a></sup> <div class="footpara"><p class="footpara">which was 15 man long and had a side passage or two along the way: Office supplies, miscellaneous.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.71" class="footnum" href="#fnr.71">71</a></sup> <div class="footpara"><p class="footpara">It meant "disbelief" and it involved moving the head, but it's not your head movement gesture. This was like the gentle head bob of an unaware game bird on the lookout for beetles and mates but otherwise without any kind of agenda for the time being. It also meant 'yes', which is a gesture easily picked up by children as these kind of birds were always around settled places, despite their eggs being stolen and getting killed violently at random. 'Yes, yes. All is good for <i>now</i>', the birds seemed to always think when not in a panic, which was their only other state.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.72" class="footnum" href="#fnr.72">72</a></sup> <div class="footpara"><p class="footpara">They call this iris-stone, as it sometimes looks in color and richness like the medium-brown iris that is universal among Crec eyes, except for the cursed.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.73" class="footnum" href="#fnr.73">73</a></sup> <div class="footpara"><p class="footpara">Magic.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.74" class="footnum" href="#fnr.74">74</a></sup> <div class="footpara"><p class="footpara">Don't judge.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.75" class="footnum" href="#fnr.75">75</a></sup> <div class="footpara"><p class="footpara">Pronounced 'dakom!'</p></div></div>
+
+<div class="footdef"><sup><a id="fn.76" class="footnum" href="#fnr.76">76</a></sup> <div class="footpara"><p class="footpara">"Tween"</p></div></div>
+
+<div class="footdef"><sup><a id="fn.77" class="footnum" href="#fnr.77">77</a></sup> <div class="footpara"><p class="footpara">The Crec's concept of 'town' was any place where you stopped seeing occupied caves for a bit. When you suddenly realized this, you were out-of-town. It's a concept that has the subconscious as part of its definition.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.78" class="footnum" href="#fnr.78">78</a></sup> <div class="footpara"><p class="footpara">Shit talk, smack talk, clay-talk but nastier. See the appendix about 'yo mama' jokes.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.79" class="footnum" href="#fnr.79">79</a></sup> <div class="footpara"><p class="footpara">Nearly all boys, and almost always only boys, at some point would encounter the solemn scat-pile ritual. It's like a pinkie promise except, to signal the gravity of your oath, the boy subject to the oath would shit on top of a freshly laid shit made by the other boy. This was a symbolic way of saying, we are together in this dangerous world and 'I promise'. Scat, human or otherwise, has an intimate part to play in the predator-pray dynamic. <i>Your</i> scat, all by itself, even if long behind you, is always an invitation for a predator to follow. It has its parallels in our world. Among men this was said with a twist of mirth but at the same time seen as a legitimate promise, as all promises made by true cavemen are actual, legitimate promises, rituals or irony aside.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.80" class="footnum" href="#fnr.80">80</a></sup> <div class="footpara"><p class="footpara">It's fun to fuck with people, even if only for the train wreck angle.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.81" class="footnum" href="#fnr.81">81</a></sup> <div class="footpara"><p class="footpara">The technique they and everyone else they knew used for something like this is what is more or less now known as "macrame".</p></div></div>
+
+<div class="footdef"><sup><a id="fn.82" class="footnum" href="#fnr.82">82</a></sup> <div class="footpara"><p class="footpara">Only you will be able to appreciate this bit of the author's humor. The Crec had no saying that is adaptable to precisely this joke.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.83" class="footnum" href="#fnr.83">83</a></sup> <div class="footpara"><p class="footpara">For most Crec, science just meant 'pretty cool, but in a smart way.'</p></div></div>
+
+<div class="footdef"><sup><a id="fn.84" class="footnum" href="#fnr.84">84</a></sup> <div class="footpara"><p class="footpara">This is a fund enjoyable only by Forest military veterans to help with the care (or funeral, as appropriate), should any of their offspring be injured or killed in a fall, which happened very regularly of course.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.85" class="footnum" href="#fnr.85">85</a></sup> <div class="footpara"><p class="footpara">These were found on the top of nearby <i>Mnt. Fishes</i>. No one knew how or why.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.86" class="footnum" href="#fnr.86">86</a></sup> <div class="footpara"><p class="footpara">which kept it quite warm.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.87" class="footnum" href="#fnr.87">87</a></sup> <div class="footpara"><p class="footpara">Again, more 'bobbed'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.88" class="footnum" href="#fnr.88">88</a></sup> <div class="footpara"><p class="footpara">Roughly, 'fate'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.89" class="footnum" href="#fnr.89">89</a></sup> <div class="footpara"><p class="footpara">"God" was a more abstract being to the Crec than ours is to modern people. Referring to their 'god' as 'it' is in no way a kind of sacrilege. It is the pronoun to be used. For, Kug, Great Diviner of Recent Messages said in his youth, 'The Crec God has no rock-stick!'. In other words Ender-of-Questions was genderless and what is more, not thought of as 'caveperson-like' in the least. They would find the idea so humorous that, should you some day be able to inquire about theirs, offering a description of your god's nature in exchange, a revealing conversation would likely not be possible. Ender-Of-Questions <i>does</i> have a mouth, however. These kinds of things changed in a surprisingly short period of time, though. "Recorded" history had barely begun. The mutation rate was rather high in the Crec's religious world. And religion for them was more a continuum than an on/off as it is for us. <i>Leave Doubt For Nature's Sake!</i> was an customary admonishment for the overly-rational.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.90" class="footnum" href="#fnr.90">90</a></sup> <div class="footpara"><p class="footpara">An near analog of the modern Japanese 'kouhai', one's social inferior in some given context, in this particular case the speaker was thinking in terms of their shared military experience and shared love of knowledge.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.91" class="footnum" href="#fnr.91">91</a></sup> <div class="footpara"><p class="footpara">Being mostly 'biological hardware' in origin, this gesture means the same to pretty much all of humanity and their cousins.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.92" class="footnum" href="#fnr.92">92</a></sup> <div class="footpara"><p class="footpara">See Appendix: 'Language and Naming Surrounding Women'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.93" class="footnum" href="#fnr.93">93</a></sup> <div class="footpara"><p class="footpara">Not having shirt sleeves, the Crec actually use a similar expression that roughly means, 'magic in its garments'.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.94" class="footnum" href="#fnr.94">94</a></sup> <div class="footpara"><p class="footpara">Kuh' Sitah</p></div></div>
+
+<div class="footdef"><sup><a id="fn.95" class="footnum" href="#fnr.95">95</a></sup> <div class="footpara"><p class="footpara">The meaning is obvious if you think in terms of the need for soldiers to not only act as one, but to literally think as one. This is a resource that modern humans are almost entirely without. A fierce sense of personal sovereignty that exists, even in remote, simpler communities of any left-over bit of 'primitive' culture still present in our world, in all modern humans has been a kind of wrench in the works of humanity, but also a great blessing. Humanity took a kind of fork in the cultural progression road, some time long ago. With practice the Crec, any Crec and most tribes known by them at the time could, when under extreme duress where lives or maybe whole cultures are at stake, literally respond as one to their superiors, so thorough was military training. One helpful factor, in your defense is that battle lacks a lot of nuance and the overall tasks are few.</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="author">Author: Michael Burr</p>
+<p class="date">Created: 2021-09-10 Fri 07:59</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

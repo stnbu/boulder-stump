@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-09-10 Fri 07:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Notes About <i>Gog said "Boulder-Stump"!</i></title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Michael Burr" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="index.css" />
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Notes About <i>Gog said "Boulder-Stump"!</i></h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgc4c1259">Crecspeak</a>
+<ul>
+<li><a href="#orgeaed4ef">Glossary</a></li>
+</ul>
+</li>
+<li><a href="#orga1e228c">Ordinal (and not so ordinal) Directions</a></li>
+<li><a href="#org5957f3f">Numbers and Reckoning</a>
+<ul>
+<li><a href="#org20f5ef3">Whole Numbers</a></li>
+<li><a href="#orgb8e43b8">Negative Numbers (and friends)</a></li>
+<li><a href="#org8f223b0">Fractions</a>
+<ul>
+<li><a href="#orgec31696">Examples</a></li>
+</ul>
+</li>
+<li><a href="#org6e13c06">Abstract Ratios</a>
+<ul>
+<li><a href="#org170cad1">Examples</a></li>
+</ul>
+</li>
+<li><a href="#orgb6649c0">Angles</a>
+<ul>
+<li><a href="#orga9a414c">Examples</a></li>
+</ul>
+</li>
+<li><a href="#orga2d8d27">Time</a></li>
+<li><a href="#org59ee2a3">Mass</a></li>
+<li><a href="#org3f5782e">Volume</a></li>
+<li><a href="#org6eafc01">Length/Distance</a></li>
+<li><a href="#orge65560f">Speed</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc4c1259" class="outline-2">
+<h2 id="orgc4c1259">Crecspeak</h2>
+<div class="outline-text-2" id="text-orgc4c1259">
+<p>
+Words transliterated from Crecspeak are always hyphenated (or <i>dashed</i>), like "father-brother" meaning your father's brother, and not <i>just</i> uncle. (The distinction is important to the Crec.)
+</p>
+
+<p>
+For the English speaking audience, we use the closest equivalent in English to determine capitalization. For example, "Do you have a father-brother?" vs "I saw Father-brother Verk".
+</p>
+
+<p>
+Be careful not to over-think the meaning, but it should be apparent from context. The words are chosen from English to best convey the meaning. It may sometimes be hard to understand why certain words were chosen. In these cases we are trying to convey the meaning as a Crec would understand it.
+</p>
+</div>
+
+<div id="outline-container-orgeaed4ef" class="outline-3">
+<h3 id="orgeaed4ef">Glossary</h3>
+<div class="outline-text-3" id="text-orgeaed4ef">
+<ul class="org-ul">
+<li>after-die-monster: Their Devil. Just one, like you.</li>
+<li>ancient-speak: Generally meaning "story-telling", this analogous to selling a book in our times. It is both 1) revered by default 2) kind of, let's face it, not always going to be a big deal. Times change, pops.</li>
+<li>baby-makers: Girls. I am sorry. My job is to bring you this story accurately, including look <i>and</i> feel. This was their world, sorry. But a Crec, or perhaps even any caveperson would have no less respect for a <i>mere</i> baby-maker than you would for say a truck driver or computer technician. It's due its own respect, in their eyes. And everyone gets along, no less than you and your sister did. It's just what's up, that's all.</li>
+<li>bachelor-tree: A delicate, oddly "chubby" tree with soft lacy leaves that both looks and smells like your wedding night. Small burrowing animals like the bachelor-tree because its soft, incredibly wet flesh makes burrowing quite easy and the natural internal heaving of the tree ensures that it is a snug, sometimes very snug place to burrow, especially in the dry season. It can be problematic for burrowers to breath, because of the snugness and most will usually nest with just their noses sticking out of the opening. Because small tree-dwelling animals are predominately nocturnal, animal burrows in the bachelor-tree are almost always empty at night. This is also a very delicate topic of conversation among the Crec. Sure, the Amish might know what a vagina <i>is</i>, but will somehow manage to go a lifetime without saying it out-loud or acknowledging its existence<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> (to reach for a tangible analog you might understand.) [TODO: the complex bachelor-tree reproductive cycle should <b>depend upon</b> cavemen.]</li>
+<li>Balrag: A tribe that borders the large, thinly populated region to the Crec's south. From north to south: Bhorv Zolk -&gt; undesirables -&gt; undesirable's-undesirables -&gt; next tribe over (Balrag). As it was both downhill and a good bit south, it was noticeably steamier. Gog or Grav would struggle for something meaning "exotic" to describe the milieu<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup> that was Balrag Culture<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>. They had a style of drumming that was considered by most Crec to be a "bit on the carnal side", with rhythms that merged on scandalous. It was known that they rarely scratched any of their drumming down, even if improperly. Their drumming was loud enough to be heard softly but distinctly on a calm, clear, crisp [omg what is "Christmas"?] night&#x2026;usually long past midnight.</li>
+<li>Battle of the Snake-Meal, The: Without a doubt the most famous battle from The Great Club War, and its turning point in favor of ultimate victory for the Crec.</li>
+<li>between-ham-fire-pebbles: Hemorrhoids, piles.</li>
+<li>Bhorv Zolk: The cave "system" in which the Crec live. Properly, it's the name of the hill that the cave is dug out of, but the two concepts are more or less interchangeable.</li>
+<li>bird-scat: Used variously for snot, puss, and, if you are a particularly nasty sort of Crec, semen.</li>
+<li>boulder-door: A quantity. Exactly 100. Reckoned to be the number of boulders to keep handy to barricade the average cave entrance.</li>
+<li>boulder-rhino: A kind of engine of war that is know by many names in our world. At its simplest (which it usually is), it is a collection of the largest stones that can possibly be hauled to the top of the hill/mountain, restrained by a few smaller rocks that will somehow be swat out of the way at the right time, releasing a thunderous stampede of very big boulders, in the direction of one's enemy, most often.</li>
+<li>boulder-stump: Here we reach <i>the</i> word around which this entire story orbits. You'll figure it out. It's pretty embarrassing after all.</li>
+<li>burrow: The Crec use this word like we do to mean an animal's dwelling, under the ground or in a rotted tree for example. They also use it to mean "room", "cave" or any other more-or-less person-sized void made in rock or sturdy earth for the purpose of occupying, even if only for a drop-stone.</li>
+<li>Choh-Ov: Military training camp nearest Bhorv Zolk, in the small settlment of Fayt-Caves.</li>
+<li>Clorp [singular and plural]: TODO: who are then and what makes them tick. They are the "enemy" of the Crec. And a definition.</li>
+<li>club-fight: A kind of duel involving some ceremony. There is a regulatory body &lt;why not name it here&gt; that exists to ensure that any two clubs used in a club-fight are recognized as being "fair". The participants, on the other hand vary widely. The last rule of club-fight, as it is the most important, is: Someone's got to not be able to walk away.</li>
+<li>clubbing-camp: training camp.</li>
+<li>Crec [singular and plural]: The Forest to which the Zog clan both lives and belongs. "Crec" can refer to the Forest or the people who live there.</li>
+<li>Douks: A Forest bordering the northeast of Crec. The Douks are one of only a very few actual threats to Crec. They are a sophisticated culture, like the Crec, and share a common cultural heritage. But the two are quite different in many ways. They have what might be described as "mutual suspicion with respect", and have an almost civil diplomatic relations. But occasionally have terrible, bloody wars.</li>
+<li>down-power: Gravity</li>
+<li>drop-stone: A unit of time; about as long as it takes for a stone to hit the ground when dropped from an outstretched hand, on more or less level ground. They're as tall as you and used to inhibit the same planet. It works out to be a bit over half a second.</li>
+<li>elders-quorum: This is a sort of "The Senate" of a Forest (in cases where they have bothered). It's just as inept and entertaining as our analogs (diet, soviet, merikin, parliament, kremlin, house, neighborhood gang&#x2026;)</li>
+<li>Ender's-Stump: The "joke" name given Ender's-Sword by G&amp;G. They are too contemptuous to go around saying "Ender's-Sword" to each other.</li>
+<li>Ender's-Sword: The name given to the strange (obscene) gem found by G&amp;G</li>
+<li>Ender-Of-All-Questions: God. Just one, like you. You will encounter references to "the gods". Rather improbably, this is used exactly as a modern, cynical teenager might use it: ironically. As in, <i>You are still such a tiresome superstitious moron that you probably believe in</i> multiple <i>gods like back in primitive times.</i></li>
+<li>father-brother: Your father's brother. Your "uncle", but with more information.</li>
+<li>Fayt-Caves: The charming town surrounding Choh-Ov.</li>
+<li>food-clay: Shit</li>
+<li>force: Strain.</li>
+<li>forest-child: A mysterious people that have the appearance of babies, none of the signs of dwarfism as far as can be determined, but have the "presence" of adults more or less, including callouses, injuries, smoking habits, and general casualness. They never seemed to be surprised to encounter the Crec, often stop to talk (usually monologue) for minutes, apparently sharing relevant trekking tips. None of their language is understood by any Crec. They don't seem to follow paths of any kind and are encountered intersecting established paths at random angles. Every encounter was pretty much the same, indicating that these were the member of a culture or "Forest" of some sort, and no one remembers encountering the same one more than once.</li>
+<li>Forest-Deer: A political party (same deal) that composes exactly 50% of the Elders-Quorum (You should now be asking if these are the good guys.)</li>
+<li>Forest: The largest organizing category of people, analogous to a nation.</li>
+<li>juff: An alcoholic beverage made from fermented coconut flesh, and a polite quantity of spit from a special, designated virgin baby-maker, who is chosen yearly as the designated provider of spit (A custom that has been known to ruin some plans.)</li>
+<li>jump-scare: Living in something like a giant ant hill, opportunities to e.g. hide around the corner and scare the food-clay out of someone abound. This is that.</li>
+<li>man: A unit of measure with an obvious reference object. If you just assumed "six feet", you would be within 0.4%, just by "coincidence". Like all units of measure, but especially with 'length', the Crec are fastidious and follow a badger's warren of different ideas to further add precision. In conversation, like us, units of measure are imprecise. And unavoidably, things like time its daughter units, like speed are tricker, but there are always a few learned men to lower the precision bar ever more. BTW, it is never "men". As a unit of measure: one man, two man, three man.</li>
+<li>mouse-spawn: Exactly 500. The term comes from the number of mice believed to result from putting one mating pair of mice in an unoccupied one-family cave in the course of four moons. Which is also roughly the amount of time required to make the Unkempt-Loud-Suffering Pilgrimage from The Forest of Crec and back.</li>
+<li>palm: A unit of time. It also has two meanings with reference to distance/length.</li>
+<li>predict-tool: Probably a good start on the idea of "a hypothesis".</li>
+<li>quiet-one: A small, quiet, demure baby-maker between 7 and 11 years old. This term <i>is</i> specific to that, even though it sounds like it could be generalized and understood. Girls of this demeanor and age were considered very precious, lovable, and pure. This is the phase in a baby-maker's life that is considered good for <i>molding</i> by encouraging innocence, purity, during this stage when it becomes more susceptible to feedback.</li>
+<li>relax-marks: Everyone sits on rocks. Some rocks get a lot of mileage. Inevitably there are brown, burnished areas that repel liquids well and indicate a sweet rock to sit on. So there is some tension: On the one hand they are a mark of shame, sloth and bad housekeeping, but on the other hand everyone likes a good sit.</li>
+<li>rhino-calf: It means literally that but is also a term of endearment that you can still say without being too creepy. Like "dear".</li>
+<li>rhino-scat: Mostly known as being the name of a certain hill that was central to the events of The Battle of the Snake Meal during The Great Club War. Actual rhino scat has a certain look. The famous hill has that same look.</li>
+<li>rock-stick: Referring to the cavemen sex organs, it has a slightly less "rude" sense than do other profanities. It's equivalent to the modern (circa 2021) English "weener" or "peener" or "willy" or "pee-pee" or "jiggly bits" or "hookie" or "wee-wee" or "peter".</li>
+<li>several-finger: A quantity of something. It is exactly 10. The number of fingers you have. Like "dozen" but two less.</li>
+<li>sit-ham-stone: Chair</li>
+<li>sit-ham: Butt-cheek</li>
+<li>Small Woods: The more woodsy part of the trek from Bhorv Zolk, just before reaching Snare Plains. The transition is rather sudden: One goes from shady canopy to open sky in only a few steps. The boundary looks like a green, tumbling ocean meeting a dusty, scrubby continent, with the overhanging trees looking like frozen waves about to crash.</li>
+<li>snake-meal: A "bump", "lump", "protuberance", "hump", or area of fattening. Also used in the way we say, "love handles".</li>
+<li>Snare Plains: The plains/savanna met just before Fayt-Caves when traveling from Bhorv Zolk.</li>
+<li>soot-pallet: Wherever fire has deposited soot on an area of stone that has been used for writing, if you write in it, it becomes a "soot-pallet". It's as common as and thought of like billboards, but are not thought of as owned, so it's acceptable for someone to write something (proper) on such a sooted stone surface. Trespassing is still a thing, though.</li>
+<li>squirrel-hoard: An abstract quantity meaning "a lot", if you thought "a whole bunch of" you'd be close.</li>
+<li>strength: "Force", in the way used in physics.</li>
+<li>take-part-value: A tax.</li>
+<li>take-value: Shorthand for take-part-value. Take-value also means "robbery" or "mugging", but the Crec universally do not make the connection.</li>
+<li>value-stone: A unique, hopefully big, visually appealing gem or mineral (there are many sources.) They are the currency, but their relative value is determined at haggling time, which makes for double the arguments.</li>
+<li>Wolf-Sleep: To meditate peacefully by actively observing all of one's sensory input, minus vision. Learning to actively monitor every inch of your skin, every sound you hear, perhaps the taste of a recent meal, one can paradoxically become quite calm and contented. Importantly, one does not "analize" the input. This leads to the kind of <i>thinking</i> that is to be quieted. This is called Wolf-Sleep, because once the trick is mastered, practitioners, always observing their breath, from thoat outward, would be able to jump into this relaxed, serene state with ever more ease, which reliably made their third, fourth of fifth breath a big, relaxed, satisfying, full-body "hmuffffffff&#x2026;." that observers of wolves and modern dog owners are familiar with. The most elite practitioners, those who understood this as more than just a way to relax, were able to endure most any sensation with genuine enjoyment, so long as it did not pose a threat. For example, a raw, bloody scrape on your leg will be crawling with gnats and flies in a matter of minutes. While this <i>is</i> a kind of threat, and the Crec know it, one only needs to rinse the wound in a clean river and scrub it with light sand from time to time. Knowing that this sensation is no real threat it goes right to the "observe" category; not dwell upon, or worry aboout, just "observe", like all other input. These many hundred legs provided an enormous amount of "input" for the skilled wolf-sleeper to make a practice of trying to absorb ever more detail about this bit of sensory input. Some claimed to be able to note every bug's footfall and every prodding with mouth-parts; knowing usually which direction any of his visitors might be facing.</li>
+<li>Workers: The "Workers" describe normal people doing normal things. They are distinguished from others only in that they 'sense they are part of something'. They're OK. They're surly but unsure of themselves. They become agreeable and polite when there is talk of any kind of increase in their pay. Grav thinks these people could just choose to focus on other things.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga1e228c" class="outline-2">
+<h2 id="orga1e228c">Ordinal (and not so ordinal) Directions</h2>
+<div class="outline-text-2" id="text-orga1e228c">
+<ul class="org-ul">
+<li>morning-sun-left-side: North</li>
+<li>morning-sun: East</li>
+<li>morning-sun-back-side: West</li>
+<li>morning-sun-right-side: South</li>
+
+<li>morning-sun-left-back-side: North West (etc&#x2026;)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org5957f3f" class="outline-2">
+<h2 id="org5957f3f">Numbers and Reckoning</h2>
+<div class="outline-text-2" id="text-org5957f3f">
+</div>
+<div id="outline-container-org20f5ef3" class="outline-3">
+<h3 id="org20f5ef3">Whole Numbers</h3>
+<div class="outline-text-3" id="text-org20f5ef3">
+<ul class="org-ul">
+<li>all-finger: 10</li>
+<li>boulder-door: 100</li>
+<li>mouse-spawn: 500</li>
+<li>squirrel-hoard: "a bunch", "a lot"</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgb8e43b8" class="outline-3">
+<h3 id="orgb8e43b8">Negative Numbers (and friends)</h3>
+<div class="outline-text-3" id="text-orgb8e43b8">
+<p>
+No such luck.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f223b0" class="outline-3">
+<h3 id="org8f223b0">Fractions</h3>
+<div class="outline-text-3" id="text-org8f223b0">
+<p>
+Fractions are sounded out by the Crec in a logical way that would to us seem overly-wordy. An attempt is made to preserve this post-translation because it gives modern readers a better sense of how the Crec see abstract numbers as novel and worthy of slowing down for.
+</p>
+</div>
+
+<div id="outline-container-orgec31696" class="outline-4">
+<h4 id="orgec31696">Examples</h4>
+<div class="outline-text-4" id="text-orgec31696">
+<ul class="org-ul">
+<li>one and one half of one &#x2013;&gt; 1 + 1/2</li>
+<li>two and two thirds of one &#x2013;&gt; 2 + 2/3</li>
+<li>three and four fifths of one &#x2013; 3 + 4/5</li>
+<li>N and X Ys of one &#x2013;&gt; N + X/Y</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6e13c06" class="outline-3">
+<h3 id="org6e13c06">Abstract Ratios</h3>
+<div class="outline-text-3" id="text-org6e13c06">
+<p>
+When not referring to a portion of a "thing" but instead referring to an abstract ratio (say the rate of climb of a bird or the slope of a hill), the Crec just plug in the word "part" for the abstract quantity unit that gets canceled out (which they mostly have observed). Half of a rock and a 100%<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> grade are two things that do not directly relate, according their way of thought.
+</p>
+</div>
+
+<div id="outline-container-org170cad1" class="outline-4">
+<h4 id="org170cad1">Examples</h4>
+<div class="outline-text-4" id="text-org170cad1">
+<ul class="org-ul">
+<li>one part of four &#x2013;&gt; 1:4</li>
+<li>one part down for each one half of one boulder-door part over &#x2013;&gt; 1:50</li>
+<li>one part up for each one half of one boulder-door part over &#x2013;&gt; 1:50<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb6649c0" class="outline-3">
+<h3 id="orgb6649c0">Angles</h3>
+<div class="outline-text-3" id="text-orgb6649c0">
+<p>
+Angles are thought of by the Crec as simply a fraction of a whole circle. And again, the connection to related concepts like "portion of something" or "how steep?" are to them still out of reach, although practitioners of Foundational-Nature-Reckoning<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup> are closing in.
+</p>
+
+<p>
+In fact, the Crec quite literally are thinking "a part of a circle", the way to cut the circle being obvious to them.
+</p>
+</div>
+
+<div id="outline-container-orga9a414c" class="outline-4">
+<h4 id="orga9a414c">Examples</h4>
+<div class="outline-text-4" id="text-orga9a414c">
+<ul class="org-ul">
+<li>one quarter of one circle: 90-deg</li>
+<li>one twentieth of one circle: 18-deg</li>
+<li>two of one circle: 720-deg (which they might say to mean "I turned around twice")</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga2d8d27" class="outline-3">
+<h3 id="orga2d8d27">Time</h3>
+<div class="outline-text-3" id="text-orga2d8d27">
+<ul class="org-ul">
+<li>[sun-]palm: About 38 minutes. The amount of time it takes for the sun to pass the width of one palm at arm's length. For example, if you want to know what-in-the-morning it is, hold your right arm out straight, rotate your upturned hand counter clockwise 90 degrees so that your fingers are pointing to your left, the distance from top of your hand (the outer [upper-most] part of the first knuckle of the pinkie) to the bottom of your hand (the outer [lower-most] part of the first knuckle of your index finger) is the unit you use to measure the hight of the son. A Crec will say, "It's 7 palm after dawn, get a move on!"</li>
+<li>drop-stone: Just over 0.5s [a 5ft drop in a vacuum with standard gravity is 0.5575s]</li>
+<li>moon: (lunar) month [around 29.5 days]</li>
+<li>sun: day</li>
+<li>year: year</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org59ee2a3" class="outline-3">
+<h3 id="org59ee2a3">Mass</h3>
+<div class="outline-text-3" id="text-org59ee2a3">
+<ul class="org-ul">
+<li>gourd: about one pound</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3f5782e" class="outline-3">
+<h3 id="org3f5782e">Volume</h3>
+<div class="outline-text-3" id="text-org3f5782e">
+<ul class="org-ul">
+<li>gourd: about half a liter</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org6eafc01" class="outline-3">
+<h3 id="org6eafc01">Length/Distance</h3>
+<div class="outline-text-3" id="text-org6eafc01">
+<ul class="org-ul">
+<li>bowstring-finger-knuckle: about 2cm (the distance from the tip of an average adult male's index finger to the first knuckle)</li>
+<li>drop-stone: 189 meters (approximately 100 man) &#x2013; the distance <i>sound</i> travels in one drop-stone (just over half a second). This sounds like a preposterous concept for a caveman's reckoning of distance. It is not! The idea is very simple: One person makes a <b><b>sound</b></b> whose occurrence is obvious <b><b>visually</b></b>; for example, hitting a large skin drum with a large, conspicuous [drum]stick. The drum can be heard literally for miles. One can see the drummer <i>striking</i> the drum, for a very long way on flat, level ground [as will be the case for this procedure, usually]. Another person will adjust their distance, by gradually backing away, such that, if the a stone is dropped from shoulder-hight when the drum beat is <i>seen</i> and hits the ground when the sound arrives, the two cavepersons can be said to be "one drop-stone away from each other. Adoption of this was slow, as it was difficult to convince the average caveperson that sound travels at a <i>constant</i> speed (obviously!) In modern visual arts, the clapperboard has a similar function.</li>
+<li>man: about 6 feet ("you?")</li>
+<li>palm (1): The distance one <i>walks</i> in a single palm (of time) &#x2013; about two miles.</li>
+<li>palm (2): The width of the palm. From one outer side of a flat hand to the other, not including the thumb. About 0.5 pinkie-thumb.</li>
+<li>pinkie-thumb: Stretch the tips of your thumb and pinkie as far apart as you can; that's a pinkie-thumb. It's about two palm (the short version).</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge65560f" class="outline-3">
+<h3 id="orge65560f">Speed</h3>
+<div class="outline-text-3" id="text-orge65560f">
+<p>
+The Crec will try to decipher any "distance per time" units given, with varying degrees of struggle, just as you might if someone quoted speed to you in say "ångstrom per millennium" or "centimeters per year". There's no judgment about this among the Crec. They are always thinking of the best combination to express an idea. As their units of time are few and imprecise, there are correspondingly fewer combinations to use for speed and the appropriate choice is usually obvious. Man-per-dropstone and man-per-palm are popular combinations. Most often, a familiar analog will be used: as fast as a saber-tooth tiger.
+</p>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">Ever.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">A meaning they understood, but a word for which they might struggle.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">They were fans.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">For the unfamiliar, this is a 45-degree grade, which goes to show.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">In a way 'up' verses 'down' is also irrelevant as either way, the meaning is usually obvious from context.</p></div></div>
+
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">Mathematics</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="author">Author: Michael Burr</p>
+<p class="date">Created: 2021-09-10 Fri 07:59</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
