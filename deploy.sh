@@ -15,7 +15,7 @@ rsync -xa * pu:"$REMOTE_DIR"/
 echo "Web server updated."
 
 # whatamess
-if git add *.org */*.org *.sh *.html index.css > /dev/null ; then
+if git add *.org */*.org *.sh index.html index.css > /dev/null ; then
     git commit -qm 'deploy-bot' > /dev/null
     git push -q > /dev/null
     echo "Changes pushed."
