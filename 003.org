@@ -357,7 +357,7 @@ I feel like I floated in the air for palm. When I finally landed, it was with a 
 I had landed in a man-deep, ancient bed of scab-moss that had been accumulating on that misty hillside probably for all-finger all-finger all-finger years.
 #+end_quote
 
-The children, knowing a thing or two about cave medicine, gave a tempered cheer, for they knew of the healing properties of scab-moss, and they were just the thing for such injuries[fn:: Even so, Thag's survival was definitely considered a miracle, as in his case one part in four of the man's body had been eaten and the rest run through with talon repeatedly.].
+The children, knowing a thing or two about cave medicine, gave a tempered cheer, for they knew of the healing properties of scab-moss, and it was just the thing for such injuries[fn:: Even so, Thag's survival was definitely considered a miracle, as in his case one part in four of the man's body had been eaten and the rest run through with talon repeatedly.].
 
 #+begin_quote
 No one, my self included could make any kind of meaningful guess as to how long I lay there. I of course was not there to count the suns.
