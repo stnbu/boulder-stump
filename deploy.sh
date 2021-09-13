@@ -4,6 +4,8 @@ REMOTE_DIR="/home/mburr/git/unintuitive.org/www/boulder-stump"
 
 cd $(dirname $0)
 
+mkdir -p target/html
+
 # Hopefully all git-controlled *.org files, hopefully in descending modification order.
 ORG_FILES=$(git status --short --untracked-files=no --porcelain |\
 		grep '\.org$' | cut -d ' ' -f 3 | xargs ls -1t)
