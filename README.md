@@ -5,6 +5,16 @@
 > Look on my Works, ye Mighty, and _don't care_!
 > -Mike
 
+---
+
+**Brand new!**
+
+I am always in search of any kind of truly anonymous feedback. As such, I have created [a way to give anonymous feedback](https://forms.gle/CtGWiKP5GfBzVWQBA). Stick to the writing, I guess. You can send me anything you want. But I'd like you to really let me have it. Make me suffer.
+
+How much does it suck, doc?
+
+---
+
 ### Ado
 
 Welcome to my terrible web page about my awesome book entitled, ***Gog
