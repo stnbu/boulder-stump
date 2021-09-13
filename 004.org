@@ -1,5 +1,5 @@
 #+title: Bird
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../index.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 #+OPTIONS: num:nil
 
 Grav and Gog were faced with spending the night, baring a miracle, in the most dangerous place possible, only because a much greater danger had recently moved into the area, like bad weather, but worse.
@@ -229,8 +229,7 @@ Gog had crusty goo surrounding his eyes and what was clearly vomit on his chin s
 
 "What", is all Gog said as his eyes darted around.
 
-"You've got 'gog' in your eye, scout."
-
+"You've got 'gog' in your eye, scout.", said Grav helpfully. "Let's just fast-forward <-xxx and talk about it later. We need to xxx move fast xxx."
 
 xxx
 
