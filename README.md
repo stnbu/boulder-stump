@@ -1,6 +1,6 @@
 % Gog Said "Boulder-Stump"
 
-> :info: parablebolic (adj) - Having parable qualities but with upturned ends where the overly-yin and overly-yang parts lie.
+> parablebolic (adj) - Having parable qualities but with upturned ends where the overly-yin and overly-yang parts lie.
 
 ### Ado
 
