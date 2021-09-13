@@ -23,6 +23,7 @@ abilities, I would say that this book is various parts of\...
 -   Caveman (1981)
 -   Monty Python
 -   American History X
+-   General Potty Humor
 
 You get it. Nothing special.
 
