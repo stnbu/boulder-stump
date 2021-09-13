@@ -57,10 +57,11 @@ Also feel free to send hate mail: <mb+gog@unintuitive.org>
 
 #### Gog Said "Boulder-Stump"
 
-[Chapter One: Verk Sends a Message](001.html)\
-[Chapter Two: A Miraculous Find](002.html)\
-[Chapter Tree: Thag](003.html)\
-[Appendix](Appendix.html): A very loosely structured \"appendix\"
+<!-- FQURL so we can link from github -->
+[Chapter One: Verk Sends a Message](https://unintuitive.org/boulder-stump/001.html)\
+[Chapter Two: A Miraculous Find](https://unintuitive.org/boulder-stump/002.html)\
+[Chapter Tree: Thag](https://unintuitive.org/boulder-stump/003.html)\
+[Appendix](https://unintuitive.org/boulder-stump/Appendix.html): A very loosely structured \"appendix\"
 including a partial glossary.\
-[Spoilers](Spoilers.html): I don\'t have any reason to have super-secret
+[Spoilers](https://unintuitive.org/boulder-stump/Spoilers.html): I don\'t have any reason to have super-secret
 spoilers just yet. If you want *no* spoilers then do *not* click tha link!!
