@@ -10,9 +10,6 @@ mkdir -p target/html
 ORG_FILES=$(git status --short --untracked-files=no --porcelain |\
 		grep '\.org$' | cut -d ' ' -f 3 | xargs ls -1t)
 
-#FIXME
-ORG_FILES=*.org
-
 for ORG_FILE in $ORG_FILES ; do
     OUT_FILE="target/html/$(basename $ORG_FILE ".org").html"
     echo "Writing $OUT_FILE ..."
