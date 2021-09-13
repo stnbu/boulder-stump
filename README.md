@@ -2,6 +2,9 @@
 
 > parablebolic (adj) - Having parable qualities but with upturned ends where the overly-yin and overly-yang parts lie.
 
+> Look on my Works, ye Mighty, and _don't care_!
+> -Mike
+
 ### Ado
 
 Welcome to my terrible web page about my awesome book entitled, ***Gog
