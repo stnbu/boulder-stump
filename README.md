@@ -1,13 +1,6 @@
----
-lang: en
-title: Gog Said "Boulder-Stump"
----
+% Gog Said "Boulder-Stump"
 
-``` {style="font-size: 150%;"}
-      parablebolic (adj) - Having parable qualities but with upturned
-      ends where the overly-yin and overly-yang parts lie.
-    
-```
+> :information: parablebolic (adj) - Having parable qualities but with upturned ends where the overly-yin and overly-yang parts lie.
 
 ### Ado
 
@@ -70,5 +63,4 @@ Also feel free to send hate mail: <mb+gog@unintuitive.org>
 [Appendix](Appendix.html): A very loosely structured \"appendix\"
 including a partial glossary.\
 [Spoilers](Spoilers.html): I don\'t have any reason to have super-secret
-spoilers just yet. If you want *no* spoilers then do *not* click tha
-link!!
+spoilers just yet. If you want *no* spoilers then do *not* click tha link!!

@@ -16,7 +16,9 @@ for ORG_FILE in $ORG_FILES ; do
     pandoc -s $ORG_FILE -o $OUT_FILE
 done
 
-cp -f index.css index.html target/html/ # um.
+pandoc -s README.md -o target/html/index.html
+
+cp -f index.css target/html/ # um.
 
 rsync -xa target/html/ pu:"$REMOTE_DIR"/
 
