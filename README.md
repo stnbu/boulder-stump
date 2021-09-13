@@ -1,5 +1,7 @@
 % Gog Said "Boulder-Stump"
 
+A [Book](https://unintuitive.org/boulder-stump/)
+
 > parablebolic (adj) - Having parable qualities but with upturned ends where the overly-yin and overly-yang parts lie.
 
 > Look on my Works, ye Mighty, and _don't care_!
