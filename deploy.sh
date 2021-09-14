@@ -7,8 +7,8 @@ cd $(dirname $0)
 mkdir -p target/html target/pdf
 
 PATH="/usr/local/texlive/2021/bin/universal-darwin:$PATH"
-pandoc -s book.org -o target/html/book.html
-pandoc -s book.org -o target/pdf/book.pdf
+pandoc --toc -s book.org -o target/html/book.html
+pandoc --toc -s book.org -o target/pdf/book.pdf
 pandoc -s README.md -o target/html/index.html
 cp -f index.css target/html/ # um.
 
