@@ -6,6 +6,8 @@
 #+STARTUP: overview
 :END:
 
+\clearpage
+
 * Verk Sends a Message
 
 The Crec's is a peaceful, shady and verdant world. Bright red-orange stones the size of mountains jut out of the otherwise unbroken green here and there. The Crec are a sort of "cavemen". This word will be used unironically throughout. It's how they would describe themselves. In fact, they would fit a surprising number of your stereotypes about cavepeople.
