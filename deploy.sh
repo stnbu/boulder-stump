@@ -23,12 +23,12 @@ cp -f index.css target/html/ # um.
 rsync -xa target/html/ pu:"$REMOTE_DIR"/
 
 echo "Web server updated."
-
+# > /dev/null 2>&1
 # whatamess+
 if git status -s | grep -q ^ ; then
-    git add *.org *.sh index.css README.md > /dev/null || echo "no add"
+    git add *.org *.sh index.css README.md || echo "no add"
     git commit -qm 'deploy-bot' || echo "no commit"
-    git push > /dev/null || echo "no push"
+    git push || echo "no push"
     echo "Changes pushed."
 else
     echo "No changes found."
