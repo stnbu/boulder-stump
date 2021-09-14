@@ -28,7 +28,7 @@ echo "Web server updated."
 if git status -s | grep -q ^ ; then
     git add *.org *.sh index.css README.md || echo "no add"
     git commit -qm 'deploy-bot' || echo "no commit"
-    git push || echo "no push"
+    git push > /dev/null || echo "no push"
     echo "Changes pushed."
 else
     echo "No changes found."
