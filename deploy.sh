@@ -6,7 +6,7 @@ cd $(dirname $0)
 
 mkdir -p target/html
 
-ORG_FILES=$(git status --short --untracked-files=no --porcelain |\
+ORG_FILES=$(git status --short --untracked-files=no --porcelain | grep -v _0 |\
 		grep '\.org$' | cut -d ' ' -f 3 | xargs ls -1t)
 
 for ORG_FILE in $ORG_FILES ; do
