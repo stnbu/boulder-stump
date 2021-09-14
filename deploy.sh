@@ -26,11 +26,12 @@ echo "Web server updated."
 
 # whatamess
 if git add *.org *.sh index.css README.md > /dev/null ; then
-    git commit -qm 'deploy-bot' > /dev/null
-    git push -q > /dev/null
+    git commit -qm 'deploy-bot'
+    git push
     echo "Changes pushed."
 else
     echo "No changes found."
 fi
 
-
+## For reference:
+#PATH=/usr/local/texlive/2021/bin/universal-darwin:$PATH pandoc --toc -s 0*.org -s Appendix.org -o /tmp/test.pdf && open /tmp/test.pdf
