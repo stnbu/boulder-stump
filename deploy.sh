@@ -17,13 +17,10 @@ for ORG_FILE in $ORG_FILES ; do
 done
 
 pandoc -s README.md -o target/html/index.html
-
 cp -f index.css target/html/ # um.
-
 rsync -xa target/html/ pu:"$REMOTE_DIR"/
-
 echo "Web server updated."
-# > /dev/null 2>&1
+
 # whatamess+
 if git status -s | grep -q ^ ; then
     git add *.org *.sh index.css README.md || echo "no add"
