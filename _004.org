@@ -1,4 +1,4 @@
-#+title: Bird [WIP]
+#+title: Bird
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 #+OPTIONS: num:nil
 
