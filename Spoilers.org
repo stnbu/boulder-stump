@@ -6,36 +6,11 @@ Hebbo!
 
 Here be spoilers.
 
- Outline
+* Outline
 
 Everything is subject to change, eebureetang. But you'll have to retitle if we don't have a smackdown involving Gog's use of the word "boulder-stump" somehow.
 
-** Ch. 000 Preface
-
-We meet the Crec and learn about their world. Verk tells a story. It is deeply meaningful for some.
-
-** Ch. 001, wherein we learn of Zog's great acumen and fertility
-
-We take the reader back to Zog's early years. Zog current clan leader, and that's why it's called "The Zog clan". Zog was a hero's hero, in other words, lucky he's not dead. He was known for his daring and just kind of /falling into/ situations that make him have the appearance of a total badass. He just happens to be the guy in the good -vs evil movie that throws the rock that seriously wounds the bad guy in the satisfying end. Roll credits. But despite all of his impressive doings, he really only has so much of a clue what's going on. He's not learned to have a look of wonderment when things work out for him. Giving the impression that he meant to do that all along is central to his persona. This means giving some pretty weak and convoluted explanations. We hear the perplexing story of Zog's first dive, and as far as anyone knew, first dive ever in the tar pits. He came off looking like a total stud, but came within seconds of dying about eight different times in the process.
-
-Let's have a from-birth to marriage fast-forward, followed by tales of daring from his youth. And of course, displaying, entirely for what it is, his deeply held, more or less random believes that he's willing to club-fight over. Lots of adventures. Lots of badassery.
-
-The lesson? There is a right way to be a Crec. Zog simply exemplifies it.
-
-** Ch. 001, wh
-
-
-** Ch. 00~, wherein Grav starts studying to become a lawyer (though we have a clever name for it)
-...
-Note: Grav cleverly invents the concept of "lawyer", works hard to become one, folks realize that not just anyone should be allowed to be a lawyer as you can ruin people's lives (!) and so creates Official Criteria, which Grav cannot meet. Grav becomes the first lawyer to exist and then the first law school student to fail the Bar (what funny word instead of "bar"? "stick"?) exam.
-...
-** Ch. 00~, wherein Gog scratches "boulder-stump" into a soot-pallet and shouts it from atop Lame-Monkey Mountain three times on a dare
-...
-** Ch. 00~, wherein the Make-Stop-Banana-Word Commission of the Elders-Quarum begins proceedings to update the list
-...
-** Ch. 00~, wherein Zog distracts from the business of the Elders-Quarum with an incident involving a hyena
-...
-
+[Update] Other than the above, that's all there is to say here for now.
 
 * Bugs
 
@@ -54,6 +29,7 @@ Note: Grav cleverly invents the concept of "lawyer", works hard to become one, f
 
 * Notes
 
+- Slates of some drawing or other are taken to the [you need to talk about couriers] the hubs of the network, where, if it is appropriate[fn:: when], they are hastily copied and sent on to the next "node". This results in a "telephone game" effect in a visual sense, as drawings are gradually distored or "interpreted". Specifically, the Ender's-Stump is clearly /interpreted/ by the slate-picture <-xxx people. The go for a hundred palm in one direction and they can see "oh, it looks like a fish in these parts", etc.
 - Modern humans fear death in the same way the Crec fear a painful or horror-filled death.
 - Wouldn't it be cool if Jurd had some "audio problems" and Thag had to struggle out there in front of hundreds of kids silently for a quarter palm.
 - If we need a girlfriend episode: We know that one just ignores women on selection-journey, but a character /could/ choose to break protocol, fall in love, and escape into the anonymous jungle with your new bride-prize to start a new life. aww.
