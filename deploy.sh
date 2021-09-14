@@ -31,3 +31,4 @@ fi
 
 ## For reference:
 #PATH=/usr/local/texlive/2021/bin/universal-darwin:$PATH pandoc --toc -s 0*.org -s Appendix.org -o /tmp/test.pdf && open /tmp/test.pdf
+#PATH=/usr/local/texlive/2021/bin/universal-darwin:$PATH pandoc --toc -s book.org -o book.pdf
