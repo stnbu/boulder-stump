@@ -20,9 +20,9 @@ problem() {
 }
 
 if git status --untracked-files=no --short | grep -q ^ ; then
-    git add book.org *.sh index.css README.md || problem "git add"
-    git commit -qm 'deploy-bot' || problem "git commit"
-    git push 2> /dev/null || problem "git push"
+    git add book.org *.sh index.css README.md  || problem "git add"
+    git commit -qm 'deploy-bot'                || problem "git commit"
+    git push 2> /dev/null                      || problem "git push"
     echo "Changes pushed."
 else
     echo "No changes found."
