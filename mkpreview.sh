@@ -6,6 +6,7 @@ mkdir -p preview/pdf preview/html
 
 PATH="/usr/local/texlive/2021/bin/universal-darwin:$PATH"
 pandoc --toc -s gog.org -o preview/pdf/gog.pdf ; echo "Created PDF."
+open preview/pdf/gog.pdf
 pandoc --toc -s gog.org -o preview/html/gog.html ; echo "Created HTML."
 pandoc -s README.md -o preview/html/index.html ; echo "Created index."
 cp -f index.css preview/html/ ; echo "Copied CSS."
