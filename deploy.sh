@@ -7,8 +7,8 @@ cd $(dirname $0)
 mkdir -p target/html target/pdf
 
 PATH="/usr/local/texlive/2021/bin/universal-darwin:$PATH"
-pandoc --toc -s book.org -o target/pdf/book.pdf ; echo "Created PDF."
-pandoc --toc -s book.org -o target/html/book.html ; echo "Created HTML."
+pandoc --toc -s gog.org -o target/pdf/gog.pdf ; echo "Created PDF."
+pandoc --toc -s gog.org -o target/html/gog.html ; echo "Created HTML."
 pandoc -s README.md -o target/html/index.html ; echo "Created index."
 cp -f index.css target/html/ ; echo "Copied CSS."
 
@@ -20,7 +20,7 @@ problem() {
 }
 
 if git status --untracked-files=no --short | grep -q ^ ; then
-    git add book.org *.sh index.css README.md  || problem "git add"
+    git add gog.org *.sh index.css README.md  || problem "git add"
     git commit -qm 'deploy-bot'                || problem "git commit"
     git push 2> /dev/null                      || problem "git push"
     echo "Changes pushed."

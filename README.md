@@ -72,5 +72,5 @@ Also feel free to send hate mail: <mb+gog@unintuitive.org>
 
 The book is available in two flavors:
 
-* [PDF (recommended)](book.pdf)
-* [HTML (big blob)](book.html)
+* [PDF (recommended)](gog.pdf)
+* [HTML (big blob)](gog.html)
