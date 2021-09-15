@@ -1911,6 +1911,11 @@ Be careful not to over-think the meaning, but it should be apparent from context
 - mouse-spawn: 500
 - squirrel-hoard: "a bunch", "a lot"
 
+Not that all-finger can be repeated for additional "powers of ten"
+
+- all-finger all-finger: 100
+- all-finger all-finger all-finger: 1000
+
 *** Negative Numbers (and friends)
 
 No such luck.
