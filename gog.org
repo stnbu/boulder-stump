@@ -1,4 +1,4 @@
-#+TITLE: Gog Said "Boulder-Stump"
+#+Title: Gog Said "Boulder-Stump"
 :PROPERTIES:
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 #+OPTIONS: num:nil
@@ -317,6 +317,7 @@ Grav affected a casualness as he finished and casually made his way out of the c
 Grav now had yet-more, unwelcome thoughts to anxiously dwell upon. This sounded like a declaration of war straight from soldier Verk. /Though not having been stirred by Verk's earlier words, I have been deeply shaken by these/, he thought.
 
 "What in the /Forest/ was that about?", he mouthed. If nothing else, he needed sleep.
+\clearpage
 * A Miraculous Find
 
 Plans for the next morning, included: Wander around in the woods with Gog. Gog and Grav were cousins. Pretty much the same age, much-little.
@@ -947,6 +948,7 @@ Gog said this alone as Grav did his best to make broad, sincere eyes. The men ha
 Verk squinted and stepped out into the pink late afternoon.
 
 "Farewell for now, boys!" Verk strutted out of the cave with, as Grav observed, /that energetic/ walking uphill /look, that unmentionably fat cavemen have./
+\clearpage
 * Thag
 
 Club-drill was excruciating to the Grav and Gog in ways that they couldn't manage to communicate to others. It was mostly about being told what to do and being criticized by the ignorant and linear thinkers that were inevitably the "top bronze"; often criticized for doing exactly what you were told to do.
@@ -1363,6 +1365,7 @@ Kids, don't forget to pick up your free toys and ask as many questions you like 
 
 Thag made his most enthusiastic wave goodbye. His one arm being a disproportionate part of his body's mass when compared to most, he almost made the flippy-flop of an unstrung bow, with both the upper and lower halves moving more or less equally, all the while grinning ghoulishly.
 
+\clearpage
 * Bird :noexport:
 
 Grav and Gog were faced with spending the night, baring a miracle, in the most dangerous place possible, only because a much greater danger had recently moved into the area, like bad weather, but worse.
@@ -1617,7 +1620,10 @@ The unmistakable scent of barbecued game wafted in the air outside. It had the /
 
 Gog had crusty goo surrounding his eyes and what was clearly vomit on his chin stubble. His eyes, while not psychedelic, were quite a sight.
 
-"What.", is all Gog said as his eyes darted around.
+/clearpage
+* Bird2 :noexport:
+
+"What.", is all Gog said as his red eyes darted about.
 
 "You've got 'gog' in your eye, scout.", said Grav helpfully. "Let's just fast-forward <-xxx and talk about it later. We need to xxx move fast xxx."
 
@@ -1719,7 +1725,7 @@ But the residence <-xxx was obvious in its grandeur and positioning. They were h
 
 The columns along its front were all-finger man high stacks of boulders; each constituent boulder not quite a sphere but, slightly irregular, giving the appearance of theatrical props. They were squared off on opposite ends, giving lots of stacking surface, in proportion to their size. The varied in size from top to bottom to give a subtle bulging effect. These supported great timber roof work. These were working columns. Mamma Bear's Den is built like an enormous impromptu pole shelter, but with stone and man-square timbers.
 
-There were more slender, but still sound inner columns of the same height of the outer columns[fn:: Indeed the whole structure's roof was the same height, with a slight bias downward towards the "back" which abutted an especially grand garden, for which it provided water[fn:: The back of the mansion moo-xxx created a neat, uniform waterfall into a two-man wide gutter at far below. This was gravity-fed as need to support the garden.]. The entryways into the garden were simple, uniform rectangular slabs supported by four columns 1.5 man tall. In an especially heavy rain, the enormous slab and columns would noticeably hum to the hand.
+There were more slender, but still sound inner columns of the same height of the outer columns. Indeed the whole structure's roof was the same height, with a slight bias downward towards the "back" which abutted an especially grand garden, for which it provided water[fn:: The back of the mansion moo-xxx created a neat, uniform waterfall into a two-man wide gutter at far below. This was gravity-fed as need to support the garden.]. The entryways into the garden were simple, uniform rectangular slabs supported by four columns 1.5 man tall. In an especially heavy rain, the enormous slab and columns would noticeably hum to the hand.
 
 The men entered through the front, center of the palace. The interior was a kind of small city of smaller, but always elegant structures of various sort. The palace was a great shelter, with a city around it. It was a city within a city next to another city within a city, surrounded by a city; making at also a city within a city, for what was within the palace grounds walls could be fairly also be called a city.
 
@@ -1864,7 +1870,7 @@ xxx they hear a 'bolder-rhino' /detonation/ in the distance. They don't remark b
 xxx they get whores (and separate rooms): baby-maker-hire is not exactly normalized or legal, but no one at all would be surprised by it given the circumstances. One might be surprised if /not/.
 
 xxx end of bird
-
+/clearpage
 * Appendix
 
 ** Crecspeak
@@ -2035,6 +2041,7 @@ In fact, the Crec quite literally are thinking "a part of a circle", the way to 
 
 The Crec will try to decipher any "distance per time" units given, with varying degrees of struggle, just as you might if someone quoted speed to you in say "ångstrom per millennium" or "centimeters per year". There's no judgment about this among the Crec. They are always thinking of the best combination to express an idea. As their units of time are few and imprecise, there are correspondingly fewer combinations to use for speed and the appropriate choice is usually obvious. Man-per-dropstone and man-per-palm are popular combinations. Most often, a familiar analog will be used: as fast as a saber-tooth tiger.
 
+/clearpage
 * Spoilers :noexport:
 
 Hebbo!
