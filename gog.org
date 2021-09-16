@@ -1620,7 +1620,7 @@ The unmistakable scent of barbecued game wafted in the air outside. It had the /
 
 Gog had crusty goo surrounding his eyes and what was clearly vomit on his chin stubble. His eyes, while not psychedelic, were quite a sight.
 
-/clearpage
+\clearpage
 
 * Bird2 :noexport:
 
@@ -1871,7 +1871,7 @@ xxx they hear a 'bolder-rhino' /detonation/ in the distance. They don't remark b
 xxx they get whores (and separate rooms): baby-maker-hire is not exactly normalized or legal, but no one at all would be surprised by it given the circumstances. One might be surprised if /not/.
 
 xxx end of bird
-/clearpage
+\clearpage
 * Appendix
 
 ** Crecspeak
@@ -2042,7 +2042,7 @@ In fact, the Crec quite literally are thinking "a part of a circle", the way to 
 
 The Crec will try to decipher any "distance per time" units given, with varying degrees of struggle, just as you might if someone quoted speed to you in say "ångstrom per millennium" or "centimeters per year". There's no judgment about this among the Crec. They are always thinking of the best combination to express an idea. As their units of time are few and imprecise, there are correspondingly fewer combinations to use for speed and the appropriate choice is usually obvious. Man-per-dropstone and man-per-palm are popular combinations. Most often, a familiar analog will be used: as fast as a saber-tooth tiger.
 
-/clearpage
+\clearpage
 * Spoilers :noexport:
 
 Hebbo!
