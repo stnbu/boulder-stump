@@ -1953,7 +1953,7 @@ Be careful not to over-think the meaning, but it should be apparent from context
 ** Cardinal and Ordinal Directions
 
 
-Directions are always with respect to "morning-sun", meaning: The observer faces East to orient[fn:: See? They're not the first.] themselves and all other directions are relative to East.
+Directions are always with respect to the "morning-sun", meaning: The observer faces East to orient[fn:: See? They're not the only ones.] themselves and all other directions are relative to East.
 
 Picture yourself facing East (morning-sun) and pointing in the direction that follows.
 
