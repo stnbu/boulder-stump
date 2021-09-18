@@ -1619,7 +1619,7 @@ The cat took on an otherworldly character. The men could sense a kind of phase c
 It spoke. I didn't speak using a voice, but it was clear to them just the same. Its words just /were/.
 
 #+begin_quote
-Do I not suffer too? Behold my fury and my might. Like you, I must eat to live. I am mortal. To kill /you/ without mercy is as wrong to me as it is for you to do such to a marmot. You have broken The Order, wise ape.
+Do I not suffer too? Behold my fury and my might. Like you, I must eat to live. I am mortal. To kill /you/ without mercy is as wrong to me as it is for you to do such to a marmot. You have broken The Order, wise apes.
 #+end_quote
 
 "He's talking.", said Grav.
