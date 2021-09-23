@@ -40,7 +40,7 @@ fi
 pandoc --toc -s "${SOURCE}" -o target/${MODE}/pdf/gog.pdf ; echo "Created PDF."
 
 if [ "${MODE}" = "preview" ] ; then
-    rsync -vxa target/${MODE}/html/ target/${MODE}/pdf/ pu:"$REMOTE_DIR"/
+    rsync -xa target/ pu:"$REMOTE_DIR"/ &
     emacsclient -n target/${MODE}/pdf/gog.pdf
     commit
     exit $?
@@ -50,6 +50,6 @@ pandoc --toc -s "${SOURCE}" -o target/${MODE}/html/gog.html ; echo "Created HTML
 pandoc -s README.md -o target/${MODE}/html/index.html ; echo "Created index."
 cp -f index.css target/${MODE}/html/ ; echo "Copied CSS."
 
-rsync -xa target/${MODE}/html/ target/${MODE}/pdf/ pu:"$REMOTE_DIR"/ # dumpet together
+rsync -xa target/ pu:"$REMOTE_DIR"/
 echo "Web server updated."
 commit
