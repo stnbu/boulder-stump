@@ -40,6 +40,7 @@ fi
 pandoc --toc -s "${SOURCE}" -o target/${MODE}/pdf/gog.pdf ; echo "Created PDF."
 
 if [ "${MODE}" = "preview" ] ; then
+    rsync -vxa target/${MODE}/html/ target/${MODE}/pdf/ pu:"$REMOTE_DIR"/
     emacsclient -n target/${MODE}/pdf/gog.pdf
     commit
     exit $?
