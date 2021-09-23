@@ -1,7 +1,7 @@
 % Gog Said "Boulder-Stump"
 
 <p align="center">
-A (WIP) [Book](https://unintuitive.org/boulder-stump/)
+A (WIP) <a href="https://unintuitive.org/boulder-stump/">Book</a>
 </p>
 
 ---
