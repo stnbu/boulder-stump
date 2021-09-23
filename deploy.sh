@@ -47,8 +47,8 @@ if [ "${MODE}" = "preview" ] ; then
 fi
 
 pandoc --toc -s "${SOURCE}" -o target/${MODE}/html/gog.html ; echo "Created HTML."
-pandoc -s README.md -o target/${MODE}/html/index.html ; echo "Created index."
-cp -f index.css target/${MODE}/html/ ; echo "Copied CSS."
+pandoc -s README.md -o target/index.html ; echo "Created index."
+cp -f index.css target/ ; echo "Copied CSS."
 
 rsync -xa target/ pu:"$REMOTE_DIR"/
 echo "Web server updated."
