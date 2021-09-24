@@ -1,10 +1,10 @@
 #+Title: Gog Said "Boulder-Stump"
-:PROPERTIES:
+#+AUTHOR: Mike Burr
+#+EMAIL: mb+gog@unintuitive.org
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
 #+OPTIONS: num:nil
 #+OPTIONS: toc:nil
 #+STARTUP: overview
-:END:
 
 \clearpage
 * Verk Sends a Message
