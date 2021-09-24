@@ -22,7 +22,7 @@ problem() {
 
 commit() {
     if git status --untracked-files=no --short | grep -q ^ ; then
-	git add *.org *.sh index.css README.md || problem "git add"
+	git add *.org deploy index.css README.md || problem "git add"
 	git commit -qm 'deploy-bot'            || problem "git commit"
 	git push 2> /dev/null                  || problem "git push"
 	echo "Changes pushed."
